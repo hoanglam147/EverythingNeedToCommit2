@@ -1,8 +1,0 @@
-C:\Users\lhoang\source\repos\HMPAuto1\HMPAuto1\bin\Release\HMPAuto1.exe.config
-C:\Users\lhoang\source\repos\HMPAuto1\HMPAuto1\bin\Release\HMPAuto1.exe
-C:\Users\lhoang\source\repos\HMPAuto1\HMPAuto1\bin\Release\HMPAuto1.pdb
-C:\Users\lhoang\source\repos\HMPAuto1\HMPAuto1\obj\Release\HMPAuto1.csproj.ResolveComReference.cache
-C:\Users\lhoang\source\repos\HMPAuto1\HMPAuto1\obj\Release\HMPAuto1.csproj.CoreCompileInputs.cache
-C:\Users\lhoang\source\repos\HMPAuto1\HMPAuto1\obj\Release\HMPAuto1.exe
-C:\Users\lhoang\source\repos\HMPAuto1\HMPAuto1\obj\Release\HMPAuto1.pdb
-C:\Users\lhoang\source\repos\HMPAuto1\HMPAuto1\obj\Release\HMPAuto1.csprojAssemblyReference.cache
