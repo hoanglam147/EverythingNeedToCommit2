@@ -1,0 +1,8 @@
+c:\users\lhoang\source\repos\hmpautoLIB\hmpautoLIB\bin\Debug\netstandard1.4\hmpautoLIB.deps.json
+c:\users\lhoang\source\repos\hmpautoLIB\hmpautoLIB\bin\Debug\netstandard1.4\hmpautoLIB.dll
+c:\users\lhoang\source\repos\hmpautoLIB\hmpautoLIB\bin\Debug\netstandard1.4\hmpautoLIB.pdb
+c:\users\lhoang\source\repos\hmpautoLIB\hmpautoLIB\obj\Debug\netstandard1.4\hmpautoLIB.csprojAssemblyReference.cache
+c:\users\lhoang\source\repos\hmpautoLIB\hmpautoLIB\obj\Debug\netstandard1.4\hmpautoLIB.csproj.CoreCompileInputs.cache
+c:\users\lhoang\source\repos\hmpautoLIB\hmpautoLIB\obj\Debug\netstandard1.4\hmpautoLIB.AssemblyInfo.cs
+c:\users\lhoang\source\repos\hmpautoLIB\hmpautoLIB\obj\Debug\netstandard1.4\hmpautoLIB.dll
+c:\users\lhoang\source\repos\hmpautoLIB\hmpautoLIB\obj\Debug\netstandard1.4\hmpautoLIB.pdb

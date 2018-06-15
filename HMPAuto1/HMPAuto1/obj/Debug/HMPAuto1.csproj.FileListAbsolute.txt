@@ -1,0 +1,8 @@
+c:\users\lhoang\source\repos\HMPAuto1\HMPAuto1\obj\Debug\HMPAuto1.csprojAssemblyReference.cache
+c:\users\lhoang\source\repos\HMPAuto1\HMPAuto1\obj\Debug\HMPAuto1.csproj.CoreCompileInputs.cache
+c:\users\lhoang\source\repos\HMPAuto1\HMPAuto1\bin\Debug\HMPAuto1.exe.config
+c:\users\lhoang\source\repos\HMPAuto1\HMPAuto1\bin\Debug\HMPAuto1.exe
+c:\users\lhoang\source\repos\HMPAuto1\HMPAuto1\bin\Debug\HMPAuto1.pdb
+c:\users\lhoang\source\repos\HMPAuto1\HMPAuto1\obj\Debug\HMPAuto1.exe
+c:\users\lhoang\source\repos\HMPAuto1\HMPAuto1\obj\Debug\HMPAuto1.pdb
+C:\Users\lhoang\source\repos\HMPAuto1\HMPAuto1\obj\Debug\HMPAuto1.csproj.ResolveComReference.cache
