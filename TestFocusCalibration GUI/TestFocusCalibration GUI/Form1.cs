@@ -21,13 +21,32 @@ namespace TestFocusCalibration_GUI
         {
             startbut.Enabled = false;
             stopbut.Enabled = false;
-            if(iptxtbox.Text.Length == 0 || cfg1nametxt.Text.Length ==0 || cfg2nametxt.Text.Length == 0 || pon1txt.Text.Length == 0 || poff1txt.Text.Length == 0 || poff2txt.Text.Length == 0 || runtimetxt.Text.Length == 0)
+            string agrument;
+            if (iptxtbox.Text.Length == 0 || 
+                cfg1nametxt.Text.Length ==0 || 
+                cfg2nametxt.Text.Length == 0 ||
+                pon1txt.Text.Length == 0 || 
+                poff1txt.Text.Length == 0 || 
+                poff2txt.Text.Length == 0 || 
+                runtimetxt.Text.Length == 0 || 
+                txtpOn.Text.Length == 0 || 
+                txtpOff.Text.Length == 0)
             {
                 MessageBox.Show("Plesae input right data");
             }
             else
             {
-                System.Diagnostics.Process.Start(@"TestFocusAutolearn.exe", iptxtbox.Text + " " + cfg1nametxt.Text + " " + cfg2nametxt.Text + " " + pon1txt.Text + " " + poff1txt.Text + " " + pon2txt.Text + " " + poff2txt.Text + " " + runtimetxt.Text);
+                agrument = iptxtbox.Text + " ";
+                agrument += cfg1nametxt.Text + " ";
+                agrument += cfg2nametxt.Text + " ";
+                agrument += pon1txt.Text + " ";
+                agrument += poff1txt.Text + " ";
+                agrument += pon2txt.Text + " ";
+                agrument += poff2txt.Text + " ";
+                agrument += runtimetxt.Text + " ";
+                agrument += txtpOn.Text + " ";
+                agrument += txtpOff.Text;
+                System.Diagnostics.Process.Start(@"TestFocusAutolearn.exe", agrument);
                 Process[] current_GET = Process.GetProcessesByName("TestFocusAutolearn");
                 while (current_GET.Length > 0)
                 {

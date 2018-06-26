@@ -47,8 +47,8 @@
             this.startbut = new System.Windows.Forms.Button();
             this.stopbut = new System.Windows.Forms.Button();
             this.label9 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtpOn = new System.Windows.Forms.TextBox();
+            this.txtpOff = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
@@ -61,7 +61,7 @@
             this.iptxtbox.Name = "iptxtbox";
             this.iptxtbox.Size = new System.Drawing.Size(137, 20);
             this.iptxtbox.TabIndex = 0;
-            this.iptxtbox.Text = "192.168.000";
+            this.iptxtbox.Text = "192.168.1.000";
             // 
             // cfg1nametxt
             // 
@@ -210,30 +210,28 @@
             this.label9.AutoSize = true;
             this.label9.Location = new System.Drawing.Point(275, 121);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(33, 13);
+            this.label9.Size = new System.Drawing.Size(49, 13);
             this.label9.TabIndex = 18;
-            this.label9.Text = "hours";
+            this.label9.Text = "(minutes)";
             this.label9.Click += new System.EventHandler(this.label9_Click);
             // 
-            // textBox1
+            // txtpOn
             // 
-            this.textBox1.Enabled = false;
-            this.textBox1.Location = new System.Drawing.Point(177, 140);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(92, 20);
-            this.textBox1.TabIndex = 19;
-            this.textBox1.Text = "900";
-            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtpOn.Location = new System.Drawing.Point(177, 140);
+            this.txtpOn.Name = "txtpOn";
+            this.txtpOn.Size = new System.Drawing.Size(92, 20);
+            this.txtpOn.TabIndex = 19;
+            this.txtpOn.Text = "900";
+            this.txtpOn.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
-            // textBox2
+            // txtpOff
             // 
-            this.textBox2.Enabled = false;
-            this.textBox2.Location = new System.Drawing.Point(177, 166);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(92, 20);
-            this.textBox2.TabIndex = 20;
-            this.textBox2.Text = "100";
-            this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtpOff.Location = new System.Drawing.Point(177, 166);
+            this.txtpOff.Name = "txtpOff";
+            this.txtpOff.Size = new System.Drawing.Size(92, 20);
+            this.txtpOff.TabIndex = 20;
+            this.txtpOff.Text = "100";
+            this.txtpOff.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // label10
             // 
@@ -280,8 +278,8 @@
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label10);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtpOff);
+            this.Controls.Add(this.txtpOn);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.stopbut);
             this.Controls.Add(this.startbut);
@@ -330,8 +328,8 @@
         private System.Windows.Forms.Button startbut;
         private System.Windows.Forms.Button stopbut;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtpOn;
+        private System.Windows.Forms.TextBox txtpOff;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;

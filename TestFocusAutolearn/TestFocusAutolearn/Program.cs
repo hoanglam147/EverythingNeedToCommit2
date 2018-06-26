@@ -592,9 +592,9 @@ namespace HMPAuto1
 
     class Program
     {
+
         static void Main(string[] args)
         {
-
 
             string command, receivestring;
             Byte[] message1, message2, message3, receivemessage, expectmessage;
@@ -603,15 +603,16 @@ namespace HMPAuto1
             string[] configName = { args[1], args[2] };
             string[] pOn = { args[3], args[5] };
             string[] pOff = { args[4], args[6] };
-
+            int pOnTime = int.Parse(args[8]);
+            int pOffTime = int.Parse(args[9]);
             Int32 peerPort1 = 1023;
             Int32 peerPort2 = 51236;
             // run varialbe to select config 1 or config2
             UInt32 j = 0;
             // counter to long run: max uint 64 bit x 1 seconds / phase
             UInt64 k = 0;
-            // get time running for configuration from GUI
-            UInt64 runTimeForConfig = (UInt64)(3600 * float.Parse(args[7]));
+            // get time running for configuration from GUI (minute)
+            UInt64 runTimeForConfig = 1000* (60 * UInt64.Parse(args[7])) / (UInt64)(pOnTime+pOffTime);
             // good read flag signal when change configure by host mode (reverse)
             bool ackGoodFlag = false;
             // flag indicate host mode enter and exit correct (reverse)
@@ -626,43 +627,45 @@ namespace HMPAuto1
             ClientConnection tcpclient1 = new ClientConnection(Addr, peerPort1);
             ClientConnection tcpclient2 = new ClientConnection(Addr, peerPort2);
 
-            /*----------------------------------------------------------------*/
-
+            /*----------------------Open port 1023 & 51236----------------------------*/
+            tcpclient1.Open();
+            tcpclient2.Open();
             /*-----------------connect to host mode------------------ */
+            Console.WriteLine("Entering Host Mode, should not close this window!!!");
+            tcpclient1.SendBytes(message1);
+            Thread.Sleep(2000);
+            receivemessage = tcpclient1.ReceiveBytes();
+            expectmessage = new Byte[] { 0x1B, 0x48, 0x0D, 0x0A };
+
+            for (int i = 0; i < receivemessage.Length; i++)
+            {
+                if (receivemessage[i] == expectmessage[i]) { }
+                else isResponseCorrect = true;
+            }
+
+            tcpclient1.SendBytes(message2);
+            Thread.Sleep(2000);
+            receivemessage = tcpclient1.ReceiveBytes();
+            expectmessage = new Byte[] { 0x1B, 0x53, 0x0D, 0x0A };
+            for (int i = 0; i < receivemessage.Length; i++)
+            {
+                if (receivemessage[i] == expectmessage[i]) { }
+                else isResponseCorrect = true;
+            }
+            if (isResponseCorrect)
+            {
+                Console.WriteLine("Enter Host Mode Error!!!");
+            }
+            else
+            {
+                Console.WriteLine("Enter Host Mode Succesfully!");
+            }
+
             while (!isResponseCorrect)
             {
                 while(!ackGoodFlag)
                 {
-                    tcpclient1.Open();
-                    tcpclient1.SendBytes(message1);
-                    Thread.Sleep(2000);
-                    receivemessage = tcpclient1.ReceiveBytes();
-                    expectmessage = new Byte[] { 0x1B, 0x48, 0x0D, 0x0A };
 
-                    for (int i = 0; i < receivemessage.Length; i++)
-                    {
-                        if (receivemessage[i] == expectmessage[i]) { }
-                        else isResponseCorrect = true;
-                    }
-
-                    tcpclient1.SendBytes(message2);
-                    Thread.Sleep(2000);
-                    receivemessage = tcpclient1.ReceiveBytes();
-                    expectmessage = new Byte[] { 0x1B, 0x53, 0x0D, 0x0A };
-                    for (int i = 0; i < receivemessage.Length; i++)
-                    {
-                        if (receivemessage[i] == expectmessage[i]) { }
-                        else isResponseCorrect = true;
-                    }
-                    if(isResponseCorrect)
-                    {
-                        Console.WriteLine("Enter Host Mode Error");
-                        break;
-                    }
-                    else
-                    {
-
-                    }
                     command = "CHANGE_CFG " + configName[j%2];
                     command = command + "\n";
                     command = command + "\r";
@@ -675,53 +678,85 @@ namespace HMPAuto1
                     {
                         ackGoodFlag = true;
                     }
+                    // check error when change configuration
                     if(ackGoodFlag)
                     {
-                        Console.WriteLine("Change configuration Error");
-                        Console.WriteLine("Job name may not exist");
+                        Console.WriteLine("Change configuration error!!!");
+                        Console.WriteLine("Job name may not exist!!!");
+                        isResponseCorrect = true;
                         break;
                     }
                     else { }
-                    tcpclient1.SendBytes(message3);
-                    Thread.Sleep(2000);
-                    receivemessage = tcpclient1.ReceiveBytes();
-                    expectmessage = new Byte[] { 0x1B, 0x5B, 0x58 };
-                    for (int i = 0; i < receivemessage.Length; i++)
-                    {
-                        if (receivemessage[i] == expectmessage[i]) { }
-                        else isResponseCorrect = true;
-                    }
-                    tcpclient1.Close();
-                    Thread.Sleep(5000);
-                    tcpclient2.Open();
-                    k = 0;
+                    // delay after change config successfully
+                    Thread.Sleep(3000);
+                    // loop until the time end
                     while(k < runTimeForConfig)
                     {
                         // phase on and off
                         tcpclient2.SendString(pOn[j%2]);
-                        Thread.Sleep(900);
+                        Thread.Sleep(pOnTime);
                         tcpclient2.SendString(pOff[j%2]);
-                        Thread.Sleep(100);
+                        Thread.Sleep(pOffTime);
                         // get result
                         receivestring = tcpclient2.ReceiveString();
                         // if no read stop every thing
-                        if (receivestring.Contains("noread") || receivestring.Length ==0)
+                        if (receivestring.Contains("noread"))
                         {
-                            Console.WriteLine("No read message OR no message trasmit detected");
-                            Console.WriteLine("Confiuration :" + configName[j % 2] + " may has problem with the focus autolearn");
+                            Console.WriteLine("No read message detected");
+                            Console.WriteLine("At the " + (j + 1) + "th of changing configuration, issue occur");
+                            Console.WriteLine("The current configuration is :" + configName[j % 2]);
+                            Console.WriteLine("Total running time of device: " + ((float)(j * UInt32.Parse(args[7])) + ((float)k / (float)runTimeForConfig) * float.Parse(args[7])) + " minutes");
                             ackGoodFlag = true;
                             isResponseCorrect = true;
                             break;
                         }
-
+                        else if (receivestring.Length == 0)
+                        {
+                            Console.WriteLine("No message trasmit detected!");
+                            Console.WriteLine("At the " + (j + 1) + "th of changing configuration, issue occur");
+                            Console.WriteLine("The current configuration is :" + configName[j % 2]);
+                            Console.WriteLine("Total running time of device: " + ((float)(j * UInt32.Parse(args[7])) + ((float)k / (float)runTimeForConfig) * float.Parse(args[7])) + " minutes");
+                            ackGoodFlag = true;
+                            isResponseCorrect = true;
+                            break;
+                        }
+                        else
+                        {
+                            // do nothing
+                        }
                         k++;
                     }
-                    tcpclient2.Close();
+                    k = 0;
                     // if counter overflow, auto reset to zero
                     j++;
                 }
             }
-            Console.WriteLine("Press any key to exit");
+
+            // exit host mode after detect "noread" or no message transmit
+            isResponseCorrect = false;
+            Console.WriteLine("Exiting host mode...");
+            tcpclient1.SendBytes(message3);
+            Thread.Sleep(2000);
+            receivemessage = tcpclient1.ReceiveBytes();
+            expectmessage = new Byte[] { 0x1B, 0x5B, 0x58 };
+            for (int i = 0; i < receivemessage.Length; i++)
+            {
+                if (receivemessage[i] == expectmessage[i]) { }
+                else
+                {
+                    isResponseCorrect = true;
+                    Console.WriteLine("Exit Host Mode Error, please exit manualy!");
+                }
+            }
+            if(!isResponseCorrect)
+            {
+                Console.WriteLine("Exited host mode!!!");
+            }
+            tcpclient1.Close();
+            tcpclient2.Close();
+
+
+            Console.WriteLine("Press any key to exit...");
             Console.ReadLine();
 
         }
