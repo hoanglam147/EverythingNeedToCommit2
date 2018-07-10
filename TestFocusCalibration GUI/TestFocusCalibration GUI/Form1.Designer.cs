@@ -115,11 +115,11 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(91, 121);
+            this.label4.Location = new System.Drawing.Point(77, 117);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(53, 13);
+            this.label4.Size = new System.Drawing.Size(101, 13);
             this.label4.TabIndex = 7;
-            this.label4.Text = "Run Time";
+            this.label4.Text = "Job changed period";
             // 
             // label5
             // 
@@ -236,7 +236,7 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(91, 147);
+            this.label10.Location = new System.Drawing.Point(77, 147);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(77, 13);
             this.label10.TabIndex = 21;
@@ -245,7 +245,7 @@
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(91, 173);
+            this.label11.Location = new System.Drawing.Point(77, 173);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(77, 13);
             this.label11.TabIndex = 22;

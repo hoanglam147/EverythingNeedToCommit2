@@ -8,7 +8,6 @@ using System.Linq;
 using System.Text;
 using System.IO.Ports;
 using System.IO;
-
 using System.Threading;
 using System.Net;
 using System.Net.Sockets;
@@ -498,7 +497,7 @@ namespace HMPAuto1
                         string replace = String.Concat(message.Select(c => Char.IsControl(c) ?
                                                                      String.Format("[{0:X2}]", (int)c) :
                                                                      c.ToString()));
-                        logger.WriteLine(DateTime.Now.ToString("dd/MM HH:mm:ss.fff") + portLogString + replace);
+                        logger.WriteLine(DateTime.Now.Millisecond.ToString("yy/MM/dd HH:mm:ss:fff") + portLogString + replace);
                         logger.Flush();
                     }
                     //if (goodReadRGX.IsMatch(message))
@@ -589,13 +588,13 @@ namespace HMPAuto1
                 serialPort.Dispose();
         }
     }
-
+    
     class Program
     {
-
         static void Main(string[] args)
         {
-
+            StreamWriter file = new StreamWriter("result.txt");
+            
             string command, receivestring;
             Byte[] message1, message2, message3, receivemessage, expectmessage;
             // ip address of device, configname saved on device, phase on/off command
@@ -605,6 +604,15 @@ namespace HMPAuto1
             string[] pOff = { args[4], args[6] };
             int pOnTime = int.Parse(args[8]);
             int pOffTime = int.Parse(args[9]);
+
+            //string Addr = "192.168.1.164";
+            //string[] configName = { "cfg1", "cfg2" };
+            //string[] pOn = { "T11", "T12" };
+            //string[] pOff = { "T21", "T22" };
+            //int pOnTime = 300;
+            //int pOffTime = 100;
+
+
             Int32 peerPort1 = 1023;
             Int32 peerPort2 = 51236;
             // run varialbe to select config 1 or config2
@@ -630,8 +638,15 @@ namespace HMPAuto1
             /*----------------------Open port 1023 & 51236----------------------------*/
             tcpclient1.Open();
             tcpclient2.Open();
+
+            Console.WriteLine("***************Welcome***************");
+            Console.WriteLine("This console window should not close by click X icon!!!");
+            Console.WriteLine("Currently this tool can only close when have noread or no message trasmitted");
+            Console.WriteLine("***************End***************");
+
             /*-----------------connect to host mode------------------ */
-            Console.WriteLine("Entering Host Mode, should not close this window!!!");
+            Console.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") +  ": Entering Host Mode, should not close this window!!!");
+            file.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Entering Host Mode, should not close this window!!!");
             tcpclient1.SendBytes(message1);
             Thread.Sleep(2000);
             receivemessage = tcpclient1.ReceiveBytes();
@@ -654,43 +669,47 @@ namespace HMPAuto1
             }
             if (isResponseCorrect)
             {
-                Console.WriteLine("Enter Host Mode Error!!!");
+                Console.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Enter Host Mode Error!!!");
+                file.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Enter Host Mode Error!!!");
             }
             else
             {
-                Console.WriteLine("Enter Host Mode Succesfully!");
+                Console.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Enter Host Mode Succesfully!");
+                file.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Enter Host Mode Succesfully!");
             }
 
-            while (!isResponseCorrect)
+            while (!isResponseCorrect  )
             {
-                while(!ackGoodFlag)
+                while(!ackGoodFlag  )
                 {
-
+                    Console.Write(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": ");
+                    file.Write(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": ");
+                    
                     command = "CHANGE_CFG " + configName[j%2];
                     command = command + "\n";
                     command = command + "\r";
-                    Console.WriteLine(command);
+                    Console.WriteLine("CHANGE_CFG " + configName[j % 2] +  "; Change counter: " + j);
+                    file.WriteLine("CHANGE_CFG " + configName[j % 2] + "; Change counter: " + j);
                     tcpclient1.SendString(command);
                     Thread.Sleep(2000);
                     receivestring = tcpclient1.ReceiveString();
                     receivestring = receivestring.Substring(0, receivestring.Length - 1);
+                    // check error when change configuration
                     if (receivestring != "ACK")
                     {
                         ackGoodFlag = true;
-                    }
-                    // check error when change configuration
-                    if(ackGoodFlag)
-                    {
-                        Console.WriteLine("Change configuration error!!!");
-                        Console.WriteLine("Job name may not exist!!!");
+                        Console.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Change configuration error. Job name may not exist!!!");
+                        file.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Change configuration error. Job name may not exist!!!");
                         isResponseCorrect = true;
                         break;
                     }
-                    else { }
+
                     // delay after change config successfully
-                    Thread.Sleep(3000);
+                    Thread.Sleep(5000);
+                    Console.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Change configuration sucessfully done. Run " + configName[j%2]);
+                    file.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Change configuration sucessfully done. Run " + configName[j % 2]);
                     // loop until the time end
-                    while(k < runTimeForConfig)
+                    while (k < runTimeForConfig)
                     {
                         // phase on and off
                         tcpclient2.SendString(pOn[j%2]);
@@ -702,20 +721,40 @@ namespace HMPAuto1
                         // if no read stop every thing
                         if (receivestring.Contains("noread"))
                         {
-                            Console.WriteLine("No read message detected");
+                            Console.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": No read message detected!!!");
+                            Console.SetCursorPosition(20,Console.CursorTop);
                             Console.WriteLine("At the " + (j + 1) + "th of changing configuration, issue occur");
+                            Console.SetCursorPosition(20, Console.CursorTop);
                             Console.WriteLine("The current configuration is :" + configName[j % 2]);
+                            Console.SetCursorPosition(20, Console.CursorTop);
                             Console.WriteLine("Total running time of device: " + ((float)(j * UInt32.Parse(args[7])) + ((float)k / (float)runTimeForConfig) * float.Parse(args[7])) + " minutes");
+
+                            file.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": No read message detected!!!");
+                            file.WriteLine("At the " + (j + 1) + "th of changing configuration, issue occur");
+                            file.WriteLine("The current configuration is :" + configName[j % 2]);
+                            file.WriteLine("Total running time of device: " + ((float)(j * UInt32.Parse(args[7])) + ((float)k / (float)runTimeForConfig) * float.Parse(args[7])) + " minutes");
+
+
                             ackGoodFlag = true;
                             isResponseCorrect = true;
                             break;
                         }
                         else if (receivestring.Length == 0)
                         {
-                            Console.WriteLine("No message trasmit detected!");
+                            Console.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": No message trasmit detected!!!");
+                            Console.SetCursorPosition(20, Console.CursorTop);
                             Console.WriteLine("At the " + (j + 1) + "th of changing configuration, issue occur");
+                            Console.SetCursorPosition(20, Console.CursorTop);
                             Console.WriteLine("The current configuration is :" + configName[j % 2]);
+                            Console.SetCursorPosition(20, Console.CursorTop);
                             Console.WriteLine("Total running time of device: " + ((float)(j * UInt32.Parse(args[7])) + ((float)k / (float)runTimeForConfig) * float.Parse(args[7])) + " minutes");
+
+                            file.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": No message trasmit detected!!!");
+                            file.WriteLine("At the " + (j + 1) + "th of changing configuration, issue occur");
+                            file.WriteLine("The current configuration is :" + configName[j % 2]);
+                            file.WriteLine("Total running time of device: " + ((float)(j * UInt32.Parse(args[7])) + ((float)k / (float)runTimeForConfig) * float.Parse(args[7])) + " minutes");
+
+
                             ackGoodFlag = true;
                             isResponseCorrect = true;
                             break;
@@ -729,12 +768,14 @@ namespace HMPAuto1
                     k = 0;
                     // if counter overflow, auto reset to zero
                     j++;
+                    
                 }
             }
 
             // exit host mode after detect "noread" or no message transmit
             isResponseCorrect = false;
-            Console.WriteLine("Exiting host mode...");
+            Console.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Exiting host mode...");
+            file.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Exiting host mode...");
             tcpclient1.SendBytes(message3);
             Thread.Sleep(2000);
             receivemessage = tcpclient1.ReceiveBytes();
@@ -745,18 +786,19 @@ namespace HMPAuto1
                 else
                 {
                     isResponseCorrect = true;
-                    Console.WriteLine("Exit Host Mode Error, please exit manualy!");
+                    Console.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Exit Host Mode Error, please exit manualy!");
+                    file.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Exit Host Mode Error, please exit manualy!");
                 }
             }
             if(!isResponseCorrect)
             {
-                Console.WriteLine("Exited host mode!!!");
+                Console.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Exited host mode sucessfully.");
+                file.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Exited host mode sucessfully.");
             }
             tcpclient1.Close();
             tcpclient2.Close();
-
-
-            Console.WriteLine("Press any key to exit...");
+            Console.WriteLine(DateTime.Now.ToString("yy/MM/dd HH:mm:ss:fff") + ": Press any key to exit...");
+            file.Close();
             Console.ReadLine();
 
         }
