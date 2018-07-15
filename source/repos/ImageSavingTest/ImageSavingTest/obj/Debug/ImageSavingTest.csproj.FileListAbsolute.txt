@@ -1,0 +1,11 @@
+E:\lam\CSharpSource\source\repos\ImageSavingTest\ImageSavingTest\bin\Debug\ImageSavingTest.exe.config
+E:\lam\CSharpSource\source\repos\ImageSavingTest\ImageSavingTest\bin\Debug\ImageSavingTest.exe
+E:\lam\CSharpSource\source\repos\ImageSavingTest\ImageSavingTest\bin\Debug\ImageSavingTest.pdb
+E:\lam\CSharpSource\source\repos\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csprojAssemblyReference.cache
+E:\lam\CSharpSource\source\repos\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csproj.ResolveComReference.cache
+E:\lam\CSharpSource\source\repos\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.Form1.resources
+E:\lam\CSharpSource\source\repos\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.Properties.Resources.resources
+E:\lam\CSharpSource\source\repos\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csproj.GenerateResource.cache
+E:\lam\CSharpSource\source\repos\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csproj.CoreCompileInputs.cache
+E:\lam\CSharpSource\source\repos\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.exe
+E:\lam\CSharpSource\source\repos\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.pdb
