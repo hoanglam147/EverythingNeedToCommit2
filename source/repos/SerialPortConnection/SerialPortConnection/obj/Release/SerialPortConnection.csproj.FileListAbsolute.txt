@@ -1,0 +1,5 @@
+c:\users\lhoang\source\repos\SerialPortConnection\SerialPortConnection\bin\Release\SerialPortConnection.dll
+c:\users\lhoang\source\repos\SerialPortConnection\SerialPortConnection\bin\Release\SerialPortConnection.pdb
+c:\users\lhoang\source\repos\SerialPortConnection\SerialPortConnection\obj\Release\SerialPortConnection.csproj.CoreCompileInputs.cache
+c:\users\lhoang\source\repos\SerialPortConnection\SerialPortConnection\obj\Release\SerialPortConnection.dll
+c:\users\lhoang\source\repos\SerialPortConnection\SerialPortConnection\obj\Release\SerialPortConnection.pdb

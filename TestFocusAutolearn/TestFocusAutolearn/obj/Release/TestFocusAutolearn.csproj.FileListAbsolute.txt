@@ -1,0 +1,6 @@
+E:\Rs\repos\TestFocusAutolearn\TestFocusAutolearn\bin\Release\TestFocusAutolearn.exe.config
+E:\Rs\repos\TestFocusAutolearn\TestFocusAutolearn\bin\Release\TestFocusAutolearn.exe
+E:\Rs\repos\TestFocusAutolearn\TestFocusAutolearn\bin\Release\TestFocusAutolearn.pdb
+E:\Rs\repos\TestFocusAutolearn\TestFocusAutolearn\obj\Release\TestFocusAutolearn.csproj.CoreCompileInputs.cache
+E:\Rs\repos\TestFocusAutolearn\TestFocusAutolearn\obj\Release\TestFocusAutolearn.exe
+E:\Rs\repos\TestFocusAutolearn\TestFocusAutolearn\obj\Release\TestFocusAutolearn.pdb

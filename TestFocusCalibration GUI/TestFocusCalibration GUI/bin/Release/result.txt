@@ -1,0 +1,2180 @@
+18/06/29 17:09:12:368: Entering Host Mode, should not close this window!!!
+18/06/29 17:09:16:371: Enter Host Mode Succesfully!
+18/06/29 17:09:16:371: CHANGE_CFG cfg1; Change counter: 0
+18/06/29 17:09:23:373: Change configuration sucessfully done. Run cfg1
+18/06/29 17:10:23:457: CHANGE_CFG cfg2; Change counter: 1
+18/06/29 17:10:30:458: Change configuration sucessfully done. Run cfg2
+18/06/29 17:11:30:541: CHANGE_CFG cfg1; Change counter: 2
+18/06/29 17:11:37:543: Change configuration sucessfully done. Run cfg1
+18/06/29 17:12:37:626: CHANGE_CFG cfg2; Change counter: 3
+18/06/29 17:12:44:627: Change configuration sucessfully done. Run cfg2
+18/06/29 17:13:44:711: CHANGE_CFG cfg1; Change counter: 4
+18/06/29 17:13:51:712: Change configuration sucessfully done. Run cfg1
+18/06/29 17:14:52:099: CHANGE_CFG cfg2; Change counter: 5
+18/06/29 17:14:59:114: Change configuration sucessfully done. Run cfg2
+18/06/29 17:15:59:877: CHANGE_CFG cfg1; Change counter: 6
+18/06/29 17:16:06:886: Change configuration sucessfully done. Run cfg1
+18/06/29 17:17:07:660: CHANGE_CFG cfg2; Change counter: 7
+18/06/29 17:17:14:683: Change configuration sucessfully done. Run cfg2
+18/06/29 17:18:15:372: CHANGE_CFG cfg1; Change counter: 8
+18/06/29 17:18:22:397: Change configuration sucessfully done. Run cfg1
+18/06/29 17:19:23:169: CHANGE_CFG cfg2; Change counter: 9
+18/06/29 17:19:30:177: Change configuration sucessfully done. Run cfg2
+18/06/29 17:20:30:936: CHANGE_CFG cfg1; Change counter: 10
+18/06/29 17:20:37:946: Change configuration sucessfully done. Run cfg1
+18/06/29 17:21:38:742: CHANGE_CFG cfg2; Change counter: 11
+18/06/29 17:21:45:770: Change configuration sucessfully done. Run cfg2
+18/06/29 17:22:46:516: CHANGE_CFG cfg1; Change counter: 12
+18/06/29 17:22:53:526: Change configuration sucessfully done. Run cfg1
+18/06/29 17:23:54:295: CHANGE_CFG cfg2; Change counter: 13
+18/06/29 17:24:01:317: Change configuration sucessfully done. Run cfg2
+18/06/29 17:25:02:049: CHANGE_CFG cfg1; Change counter: 14
+18/06/29 17:25:09:058: Change configuration sucessfully done. Run cfg1
+18/06/29 17:26:09:788: CHANGE_CFG cfg2; Change counter: 15
+18/06/29 17:26:16:798: Change configuration sucessfully done. Run cfg2
+18/06/29 17:27:17:524: CHANGE_CFG cfg1; Change counter: 16
+18/06/29 17:27:24:528: Change configuration sucessfully done. Run cfg1
+18/06/29 17:28:25:286: CHANGE_CFG cfg2; Change counter: 17
+18/06/29 17:28:32:293: Change configuration sucessfully done. Run cfg2
+18/06/29 17:29:33:038: CHANGE_CFG cfg1; Change counter: 18
+18/06/29 17:29:40:049: Change configuration sucessfully done. Run cfg1
+18/06/29 17:30:40:814: CHANGE_CFG cfg2; Change counter: 19
+18/06/29 17:30:47:839: Change configuration sucessfully done. Run cfg2
+18/06/29 17:31:48:543: CHANGE_CFG cfg1; Change counter: 20
+18/06/29 17:31:55:553: Change configuration sucessfully done. Run cfg1
+18/06/29 17:32:56:244: CHANGE_CFG cfg2; Change counter: 21
+18/06/29 17:33:03:260: Change configuration sucessfully done. Run cfg2
+18/06/29 17:34:04:018: CHANGE_CFG cfg1; Change counter: 22
+18/06/29 17:34:11:030: Change configuration sucessfully done. Run cfg1
+18/06/29 17:35:11:816: CHANGE_CFG cfg2; Change counter: 23
+18/06/29 17:35:18:823: Change configuration sucessfully done. Run cfg2
+18/06/29 17:36:19:591: CHANGE_CFG cfg1; Change counter: 24
+18/06/29 17:36:26:601: Change configuration sucessfully done. Run cfg1
+18/06/29 17:37:27:326: CHANGE_CFG cfg2; Change counter: 25
+18/06/29 17:37:34:339: Change configuration sucessfully done. Run cfg2
+18/06/29 17:38:35:105: CHANGE_CFG cfg1; Change counter: 26
+18/06/29 17:38:42:118: Change configuration sucessfully done. Run cfg1
+18/06/29 17:39:42:887: CHANGE_CFG cfg2; Change counter: 27
+18/06/29 17:39:49:899: Change configuration sucessfully done. Run cfg2
+18/06/29 17:40:50:645: CHANGE_CFG cfg1; Change counter: 28
+18/06/29 17:40:57:651: Change configuration sucessfully done. Run cfg1
+18/06/29 17:41:58:409: CHANGE_CFG cfg2; Change counter: 29
+18/06/29 17:42:05:422: Change configuration sucessfully done. Run cfg2
+18/06/29 17:43:06:123: CHANGE_CFG cfg1; Change counter: 30
+18/06/29 17:43:13:131: Change configuration sucessfully done. Run cfg1
+18/06/29 17:44:13:858: CHANGE_CFG cfg2; Change counter: 31
+18/06/29 17:44:20:870: Change configuration sucessfully done. Run cfg2
+18/06/29 17:45:21:596: CHANGE_CFG cfg1; Change counter: 32
+18/06/29 17:45:28:608: Change configuration sucessfully done. Run cfg1
+18/06/29 17:46:29:306: CHANGE_CFG cfg2; Change counter: 33
+18/06/29 17:46:36:347: Change configuration sucessfully done. Run cfg2
+18/06/29 17:47:37:058: CHANGE_CFG cfg1; Change counter: 34
+18/06/29 17:47:44:079: Change configuration sucessfully done. Run cfg1
+18/06/29 17:48:44:771: CHANGE_CFG cfg2; Change counter: 35
+18/06/29 17:48:51:782: Change configuration sucessfully done. Run cfg2
+18/06/29 17:49:52:543: CHANGE_CFG cfg1; Change counter: 36
+18/06/29 17:49:59:554: Change configuration sucessfully done. Run cfg1
+18/06/29 17:51:00:279: CHANGE_CFG cfg2; Change counter: 37
+18/06/29 17:51:07:285: Change configuration sucessfully done. Run cfg2
+18/06/29 17:52:08:035: CHANGE_CFG cfg1; Change counter: 38
+18/06/29 17:52:15:059: Change configuration sucessfully done. Run cfg1
+18/06/29 17:53:15:819: CHANGE_CFG cfg2; Change counter: 39
+18/06/29 17:53:22:833: Change configuration sucessfully done. Run cfg2
+18/06/29 17:54:23:608: CHANGE_CFG cfg1; Change counter: 40
+18/06/29 17:54:30:616: Change configuration sucessfully done. Run cfg1
+18/06/29 17:55:31:357: CHANGE_CFG cfg2; Change counter: 41
+18/06/29 17:55:38:374: Change configuration sucessfully done. Run cfg2
+18/06/29 17:56:39:088: CHANGE_CFG cfg1; Change counter: 42
+18/06/29 17:56:46:110: Change configuration sucessfully done. Run cfg1
+18/06/29 17:57:46:848: CHANGE_CFG cfg2; Change counter: 43
+18/06/29 17:57:53:859: Change configuration sucessfully done. Run cfg2
+18/06/29 17:58:54:574: CHANGE_CFG cfg1; Change counter: 44
+18/06/29 17:59:01:585: Change configuration sucessfully done. Run cfg1
+18/06/29 18:00:02:318: CHANGE_CFG cfg2; Change counter: 45
+18/06/29 18:00:09:347: Change configuration sucessfully done. Run cfg2
+18/06/29 18:01:10:113: CHANGE_CFG cfg1; Change counter: 46
+18/06/29 18:01:17:124: Change configuration sucessfully done. Run cfg1
+18/06/29 18:02:17:891: CHANGE_CFG cfg2; Change counter: 47
+18/06/29 18:02:24:899: Change configuration sucessfully done. Run cfg2
+18/06/29 18:03:25:655: CHANGE_CFG cfg1; Change counter: 48
+18/06/29 18:03:32:667: Change configuration sucessfully done. Run cfg1
+18/06/29 18:04:33:444: CHANGE_CFG cfg2; Change counter: 49
+18/06/29 18:04:40:455: Change configuration sucessfully done. Run cfg2
+18/06/29 18:05:41:171: CHANGE_CFG cfg1; Change counter: 50
+18/06/29 18:05:48:184: Change configuration sucessfully done. Run cfg1
+18/06/29 18:06:48:931: CHANGE_CFG cfg2; Change counter: 51
+18/06/29 18:06:55:946: Change configuration sucessfully done. Run cfg2
+18/06/29 18:07:56:649: CHANGE_CFG cfg1; Change counter: 52
+18/06/29 18:08:03:660: Change configuration sucessfully done. Run cfg1
+18/06/29 18:09:04:431: CHANGE_CFG cfg2; Change counter: 53
+18/06/29 18:09:11:444: Change configuration sucessfully done. Run cfg2
+18/06/29 18:10:12:186: CHANGE_CFG cfg1; Change counter: 54
+18/06/29 18:10:19:205: Change configuration sucessfully done. Run cfg1
+18/06/29 18:11:19:933: CHANGE_CFG cfg2; Change counter: 55
+18/06/29 18:11:26:948: Change configuration sucessfully done. Run cfg2
+18/06/29 18:12:27:734: CHANGE_CFG cfg1; Change counter: 56
+18/06/29 18:12:34:745: Change configuration sucessfully done. Run cfg1
+18/06/29 18:13:35:485: CHANGE_CFG cfg2; Change counter: 57
+18/06/29 18:13:42:502: Change configuration sucessfully done. Run cfg2
+18/06/29 18:14:43:262: CHANGE_CFG cfg1; Change counter: 58
+18/06/29 18:14:50:272: Change configuration sucessfully done. Run cfg1
+18/06/29 18:15:51:003: CHANGE_CFG cfg2; Change counter: 59
+18/06/29 18:15:58:013: Change configuration sucessfully done. Run cfg2
+18/06/29 18:16:58:750: CHANGE_CFG cfg1; Change counter: 60
+18/06/29 18:17:05:764: Change configuration sucessfully done. Run cfg1
+18/06/29 18:18:06:522: CHANGE_CFG cfg2; Change counter: 61
+18/06/29 18:18:13:528: Change configuration sucessfully done. Run cfg2
+18/06/29 18:19:14:272: CHANGE_CFG cfg1; Change counter: 62
+18/06/29 18:19:21:289: Change configuration sucessfully done. Run cfg1
+18/06/29 18:20:22:047: CHANGE_CFG cfg2; Change counter: 63
+18/06/29 18:20:29:056: Change configuration sucessfully done. Run cfg2
+18/06/29 18:21:29:799: CHANGE_CFG cfg1; Change counter: 64
+18/06/29 18:21:36:805: Change configuration sucessfully done. Run cfg1
+18/06/29 18:22:37:580: CHANGE_CFG cfg2; Change counter: 65
+18/06/29 18:22:44:592: Change configuration sucessfully done. Run cfg2
+18/06/29 18:23:45:343: CHANGE_CFG cfg1; Change counter: 66
+18/06/29 18:23:52:351: Change configuration sucessfully done. Run cfg1
+18/06/29 18:24:53:104: CHANGE_CFG cfg2; Change counter: 67
+18/06/29 18:25:00:121: Change configuration sucessfully done. Run cfg2
+18/06/29 18:26:00:858: CHANGE_CFG cfg1; Change counter: 68
+18/06/29 18:26:07:867: Change configuration sucessfully done. Run cfg1
+18/06/29 18:27:08:628: CHANGE_CFG cfg2; Change counter: 69
+18/06/29 18:27:15:654: Change configuration sucessfully done. Run cfg2
+18/06/29 18:28:16:430: CHANGE_CFG cfg1; Change counter: 70
+18/06/29 18:28:23:441: Change configuration sucessfully done. Run cfg1
+18/06/29 18:29:24:180: CHANGE_CFG cfg2; Change counter: 71
+18/06/29 18:29:31:192: Change configuration sucessfully done. Run cfg2
+18/06/29 18:30:31:912: CHANGE_CFG cfg1; Change counter: 72
+18/06/29 18:30:38:923: Change configuration sucessfully done. Run cfg1
+18/06/29 18:31:39:650: CHANGE_CFG cfg2; Change counter: 73
+18/06/29 18:31:46:670: Change configuration sucessfully done. Run cfg2
+18/06/29 18:32:47:426: CHANGE_CFG cfg1; Change counter: 74
+18/06/29 18:32:54:437: Change configuration sucessfully done. Run cfg1
+18/06/29 18:33:55:203: CHANGE_CFG cfg2; Change counter: 75
+18/06/29 18:34:02:224: Change configuration sucessfully done. Run cfg2
+18/06/29 18:35:02:967: CHANGE_CFG cfg1; Change counter: 76
+18/06/29 18:35:09:982: Change configuration sucessfully done. Run cfg1
+18/06/29 18:36:10:738: CHANGE_CFG cfg2; Change counter: 77
+18/06/29 18:36:17:752: Change configuration sucessfully done. Run cfg2
+18/06/29 18:37:18:506: CHANGE_CFG cfg1; Change counter: 78
+18/06/29 18:37:25:511: Change configuration sucessfully done. Run cfg1
+18/06/29 18:38:26:233: CHANGE_CFG cfg2; Change counter: 79
+18/06/29 18:38:33:246: Change configuration sucessfully done. Run cfg2
+18/06/29 18:39:34:012: CHANGE_CFG cfg1; Change counter: 80
+18/06/29 18:39:41:021: Change configuration sucessfully done. Run cfg1
+18/06/29 18:40:41:761: CHANGE_CFG cfg2; Change counter: 81
+18/06/29 18:40:48:782: Change configuration sucessfully done. Run cfg2
+18/06/29 18:41:49:522: CHANGE_CFG cfg1; Change counter: 82
+18/06/29 18:41:56:532: Change configuration sucessfully done. Run cfg1
+18/06/29 18:42:57:288: CHANGE_CFG cfg2; Change counter: 83
+18/06/29 18:43:04:299: Change configuration sucessfully done. Run cfg2
+18/06/29 18:44:05:051: CHANGE_CFG cfg1; Change counter: 84
+18/06/29 18:44:12:059: Change configuration sucessfully done. Run cfg1
+18/06/29 18:45:12:814: CHANGE_CFG cfg2; Change counter: 85
+18/06/29 18:45:19:830: Change configuration sucessfully done. Run cfg2
+18/06/29 18:46:20:618: CHANGE_CFG cfg1; Change counter: 86
+18/06/29 18:46:27:632: Change configuration sucessfully done. Run cfg1
+18/06/29 18:47:28:399: CHANGE_CFG cfg2; Change counter: 87
+18/06/29 18:47:35:410: Change configuration sucessfully done. Run cfg2
+18/06/29 18:48:36:149: CHANGE_CFG cfg1; Change counter: 88
+18/06/29 18:48:43:161: Change configuration sucessfully done. Run cfg1
+18/06/29 18:49:43:934: CHANGE_CFG cfg2; Change counter: 89
+18/06/29 18:49:50:945: Change configuration sucessfully done. Run cfg2
+18/06/29 18:50:51:682: CHANGE_CFG cfg1; Change counter: 90
+18/06/29 18:50:58:695: Change configuration sucessfully done. Run cfg1
+18/06/29 18:51:59:462: CHANGE_CFG cfg2; Change counter: 91
+18/06/29 18:52:06:471: Change configuration sucessfully done. Run cfg2
+18/06/29 18:53:07:231: CHANGE_CFG cfg1; Change counter: 92
+18/06/29 18:53:14:244: Change configuration sucessfully done. Run cfg1
+18/06/29 18:54:15:023: CHANGE_CFG cfg2; Change counter: 93
+18/06/29 18:54:22:034: Change configuration sucessfully done. Run cfg2
+18/06/29 18:55:22:712: CHANGE_CFG cfg1; Change counter: 94
+18/06/29 18:55:29:725: Change configuration sucessfully done. Run cfg1
+18/06/29 18:56:30:471: CHANGE_CFG cfg2; Change counter: 95
+18/06/29 18:56:37:497: Change configuration sucessfully done. Run cfg2
+18/06/29 18:57:38:168: CHANGE_CFG cfg1; Change counter: 96
+18/06/29 18:57:45:194: Change configuration sucessfully done. Run cfg1
+18/06/29 18:58:45:927: CHANGE_CFG cfg2; Change counter: 97
+18/06/29 18:58:52:943: Change configuration sucessfully done. Run cfg2
+18/06/29 18:59:53:668: CHANGE_CFG cfg1; Change counter: 98
+18/06/29 19:00:00:694: Change configuration sucessfully done. Run cfg1
+18/06/29 19:01:01:416: CHANGE_CFG cfg2; Change counter: 99
+18/06/29 19:01:08:426: Change configuration sucessfully done. Run cfg2
+18/06/29 19:02:09:161: CHANGE_CFG cfg1; Change counter: 100
+18/06/29 19:02:16:187: Change configuration sucessfully done. Run cfg1
+18/06/29 19:03:16:889: CHANGE_CFG cfg2; Change counter: 101
+18/06/29 19:03:23:899: Change configuration sucessfully done. Run cfg2
+18/06/29 19:04:24:610: CHANGE_CFG cfg1; Change counter: 102
+18/06/29 19:04:31:639: Change configuration sucessfully done. Run cfg1
+18/06/29 19:05:32:406: CHANGE_CFG cfg2; Change counter: 103
+18/06/29 19:05:39:416: Change configuration sucessfully done. Run cfg2
+18/06/29 19:06:40:183: CHANGE_CFG cfg1; Change counter: 104
+18/06/29 19:06:47:205: Change configuration sucessfully done. Run cfg1
+18/06/29 19:07:47:937: CHANGE_CFG cfg2; Change counter: 105
+18/06/29 19:07:54:945: Change configuration sucessfully done. Run cfg2
+18/06/29 19:08:55:732: CHANGE_CFG cfg1; Change counter: 106
+18/06/29 19:09:02:743: Change configuration sucessfully done. Run cfg1
+18/06/29 19:10:03:499: CHANGE_CFG cfg2; Change counter: 107
+18/06/29 19:10:10:515: Change configuration sucessfully done. Run cfg2
+18/06/29 19:11:11:249: CHANGE_CFG cfg1; Change counter: 108
+18/06/29 19:11:18:251: Change configuration sucessfully done. Run cfg1
+18/06/29 19:12:19:024: CHANGE_CFG cfg2; Change counter: 109
+18/06/29 19:12:26:031: Change configuration sucessfully done. Run cfg2
+18/06/29 19:13:26:808: CHANGE_CFG cfg1; Change counter: 110
+18/06/29 19:13:33:819: Change configuration sucessfully done. Run cfg1
+18/06/29 19:14:34:546: CHANGE_CFG cfg2; Change counter: 111
+18/06/29 19:14:41:556: Change configuration sucessfully done. Run cfg2
+18/06/29 19:15:42:282: CHANGE_CFG cfg1; Change counter: 112
+18/06/29 19:15:49:312: Change configuration sucessfully done. Run cfg1
+18/06/29 19:16:50:049: CHANGE_CFG cfg2; Change counter: 113
+18/06/29 19:16:57:065: Change configuration sucessfully done. Run cfg2
+18/06/29 19:17:57:760: CHANGE_CFG cfg1; Change counter: 114
+18/06/29 19:18:04:767: Change configuration sucessfully done. Run cfg1
+18/06/29 19:19:05:499: CHANGE_CFG cfg2; Change counter: 115
+18/06/29 19:19:12:514: Change configuration sucessfully done. Run cfg2
+18/06/29 19:20:13:253: CHANGE_CFG cfg1; Change counter: 116
+18/06/29 19:20:20:260: Change configuration sucessfully done. Run cfg1
+18/06/29 19:21:21:032: CHANGE_CFG cfg2; Change counter: 117
+18/06/29 19:21:28:045: Change configuration sucessfully done. Run cfg2
+18/06/29 19:22:28:741: CHANGE_CFG cfg1; Change counter: 118
+18/06/29 19:22:35:757: Change configuration sucessfully done. Run cfg1
+18/06/29 19:23:36:500: CHANGE_CFG cfg2; Change counter: 119
+18/06/29 19:23:43:505: Change configuration sucessfully done. Run cfg2
+18/06/29 19:24:44:272: CHANGE_CFG cfg1; Change counter: 120
+18/06/29 19:24:51:283: Change configuration sucessfully done. Run cfg1
+18/06/29 19:25:52:042: CHANGE_CFG cfg2; Change counter: 121
+18/06/29 19:25:59:050: Change configuration sucessfully done. Run cfg2
+18/06/29 19:26:59:780: CHANGE_CFG cfg1; Change counter: 122
+18/06/29 19:27:06:788: Change configuration sucessfully done. Run cfg1
+18/06/29 19:28:07:530: CHANGE_CFG cfg2; Change counter: 123
+18/06/29 19:28:14:535: Change configuration sucessfully done. Run cfg2
+18/06/29 19:29:15:337: CHANGE_CFG cfg1; Change counter: 124
+18/06/29 19:29:22:346: Change configuration sucessfully done. Run cfg1
+18/06/29 19:30:23:151: CHANGE_CFG cfg2; Change counter: 125
+18/06/29 19:30:30:164: Change configuration sucessfully done. Run cfg2
+18/06/29 19:31:30:959: CHANGE_CFG cfg1; Change counter: 126
+18/06/29 19:31:37:971: Change configuration sucessfully done. Run cfg1
+18/06/29 19:32:38:699: CHANGE_CFG cfg2; Change counter: 127
+18/06/29 19:32:45:722: Change configuration sucessfully done. Run cfg2
+18/06/29 19:33:46:388: CHANGE_CFG cfg1; Change counter: 128
+18/06/29 19:33:53:398: Change configuration sucessfully done. Run cfg1
+18/06/29 19:34:54:133: CHANGE_CFG cfg2; Change counter: 129
+18/06/29 19:35:01:158: Change configuration sucessfully done. Run cfg2
+18/06/29 19:36:01:921: CHANGE_CFG cfg1; Change counter: 130
+18/06/29 19:36:08:927: Change configuration sucessfully done. Run cfg1
+18/06/29 19:37:09:693: CHANGE_CFG cfg2; Change counter: 131
+18/06/29 19:37:16:707: Change configuration sucessfully done. Run cfg2
+18/06/29 19:38:17:474: CHANGE_CFG cfg1; Change counter: 132
+18/06/29 19:38:24:486: Change configuration sucessfully done. Run cfg1
+18/06/29 19:39:25:226: CHANGE_CFG cfg2; Change counter: 133
+18/06/29 19:39:32:241: Change configuration sucessfully done. Run cfg2
+18/06/29 19:40:33:005: CHANGE_CFG cfg1; Change counter: 134
+18/06/29 19:40:40:013: Change configuration sucessfully done. Run cfg1
+18/06/29 19:41:40:776: CHANGE_CFG cfg2; Change counter: 135
+18/06/29 19:41:47:800: Change configuration sucessfully done. Run cfg2
+18/06/29 19:42:48:509: CHANGE_CFG cfg1; Change counter: 136
+18/06/29 19:42:55:516: Change configuration sucessfully done. Run cfg1
+18/06/29 19:43:56:296: CHANGE_CFG cfg2; Change counter: 137
+18/06/29 19:44:03:305: Change configuration sucessfully done. Run cfg2
+18/06/29 19:45:04:063: CHANGE_CFG cfg1; Change counter: 138
+18/06/29 19:45:11:072: Change configuration sucessfully done. Run cfg1
+18/06/29 19:46:11:843: CHANGE_CFG cfg2; Change counter: 139
+18/06/29 19:46:18:856: Change configuration sucessfully done. Run cfg2
+18/06/29 19:47:19:602: CHANGE_CFG cfg1; Change counter: 140
+18/06/29 19:47:26:619: Change configuration sucessfully done. Run cfg1
+18/06/29 19:48:27:396: CHANGE_CFG cfg2; Change counter: 141
+18/06/29 19:48:34:409: Change configuration sucessfully done. Run cfg2
+18/06/29 19:49:35:136: CHANGE_CFG cfg1; Change counter: 142
+18/06/29 19:49:42:148: Change configuration sucessfully done. Run cfg1
+18/06/29 19:50:42:892: CHANGE_CFG cfg2; Change counter: 143
+18/06/29 19:50:49:905: Change configuration sucessfully done. Run cfg2
+18/06/29 19:51:50:638: CHANGE_CFG cfg1; Change counter: 144
+18/06/29 19:51:57:658: Change configuration sucessfully done. Run cfg1
+18/06/29 19:52:58:435: CHANGE_CFG cfg2; Change counter: 145
+18/06/29 19:53:05:441: Change configuration sucessfully done. Run cfg2
+18/06/29 19:54:06:199: CHANGE_CFG cfg1; Change counter: 146
+18/06/29 19:54:13:209: Change configuration sucessfully done. Run cfg1
+18/06/29 19:55:13:909: CHANGE_CFG cfg2; Change counter: 147
+18/06/29 19:55:20:916: Change configuration sucessfully done. Run cfg2
+18/06/29 19:56:21:716: CHANGE_CFG cfg1; Change counter: 148
+18/06/29 19:56:28:730: Change configuration sucessfully done. Run cfg1
+18/06/29 19:57:29:480: CHANGE_CFG cfg2; Change counter: 149
+18/06/29 19:57:36:494: Change configuration sucessfully done. Run cfg2
+18/06/29 19:58:37:215: CHANGE_CFG cfg1; Change counter: 150
+18/06/29 19:58:44:226: Change configuration sucessfully done. Run cfg1
+18/06/29 19:59:44:916: CHANGE_CFG cfg2; Change counter: 151
+18/06/29 19:59:51:927: Change configuration sucessfully done. Run cfg2
+18/06/29 20:00:52:689: CHANGE_CFG cfg1; Change counter: 152
+18/06/29 20:00:59:719: Change configuration sucessfully done. Run cfg1
+18/06/29 20:02:00:482: CHANGE_CFG cfg2; Change counter: 153
+18/06/29 20:02:07:496: Change configuration sucessfully done. Run cfg2
+18/06/29 20:03:08:205: CHANGE_CFG cfg1; Change counter: 154
+18/06/29 20:03:15:218: Change configuration sucessfully done. Run cfg1
+18/06/29 20:04:15:917: CHANGE_CFG cfg2; Change counter: 155
+18/06/29 20:04:22:930: Change configuration sucessfully done. Run cfg2
+18/06/29 20:05:23:670: CHANGE_CFG cfg1; Change counter: 156
+18/06/29 20:05:30:676: Change configuration sucessfully done. Run cfg1
+18/06/29 20:06:31:421: CHANGE_CFG cfg2; Change counter: 157
+18/06/29 20:06:38:427: Change configuration sucessfully done. Run cfg2
+18/06/29 20:07:39:181: CHANGE_CFG cfg1; Change counter: 158
+18/06/29 20:07:46:195: Change configuration sucessfully done. Run cfg1
+18/06/29 20:08:46:973: CHANGE_CFG cfg2; Change counter: 159
+18/06/29 20:08:53:985: Change configuration sucessfully done. Run cfg2
+18/06/29 20:09:54:689: CHANGE_CFG cfg1; Change counter: 160
+18/06/29 20:10:01:705: Change configuration sucessfully done. Run cfg1
+18/06/29 20:11:02:426: CHANGE_CFG cfg2; Change counter: 161
+18/06/29 20:11:09:440: Change configuration sucessfully done. Run cfg2
+18/06/29 20:12:10:135: CHANGE_CFG cfg1; Change counter: 162
+18/06/29 20:12:17:149: Change configuration sucessfully done. Run cfg1
+18/06/29 20:13:17:887: CHANGE_CFG cfg2; Change counter: 163
+18/06/29 20:13:24:898: Change configuration sucessfully done. Run cfg2
+18/06/29 20:14:25:631: CHANGE_CFG cfg1; Change counter: 164
+18/06/29 20:14:32:645: Change configuration sucessfully done. Run cfg1
+18/06/29 20:15:33:402: CHANGE_CFG cfg2; Change counter: 165
+18/06/29 20:15:40:415: Change configuration sucessfully done. Run cfg2
+18/06/29 20:16:41:182: CHANGE_CFG cfg1; Change counter: 166
+18/06/29 20:16:48:188: Change configuration sucessfully done. Run cfg1
+18/06/29 20:17:48:988: CHANGE_CFG cfg2; Change counter: 167
+18/06/29 20:17:56:014: Change configuration sucessfully done. Run cfg2
+18/06/29 20:18:56:780: CHANGE_CFG cfg1; Change counter: 168
+18/06/29 20:19:03:792: Change configuration sucessfully done. Run cfg1
+18/06/29 20:20:04:553: CHANGE_CFG cfg2; Change counter: 169
+18/06/29 20:20:11:565: Change configuration sucessfully done. Run cfg2
+18/06/29 20:21:12:283: CHANGE_CFG cfg1; Change counter: 170
+18/06/29 20:21:19:299: Change configuration sucessfully done. Run cfg1
+18/06/29 20:22:20:049: CHANGE_CFG cfg2; Change counter: 171
+18/06/29 20:22:27:058: Change configuration sucessfully done. Run cfg2
+18/06/29 20:23:27:791: CHANGE_CFG cfg1; Change counter: 172
+18/06/29 20:23:34:802: Change configuration sucessfully done. Run cfg1
+18/06/29 20:24:35:555: CHANGE_CFG cfg2; Change counter: 173
+18/06/29 20:24:42:569: Change configuration sucessfully done. Run cfg2
+18/06/29 20:25:43:334: CHANGE_CFG cfg1; Change counter: 174
+18/06/29 20:25:50:343: Change configuration sucessfully done. Run cfg1
+18/06/29 20:26:51:096: CHANGE_CFG cfg2; Change counter: 175
+18/06/29 20:26:58:105: Change configuration sucessfully done. Run cfg2
+18/06/29 20:27:58:845: CHANGE_CFG cfg1; Change counter: 176
+18/06/29 20:28:05:871: Change configuration sucessfully done. Run cfg1
+18/06/29 20:29:06:614: CHANGE_CFG cfg2; Change counter: 177
+18/06/29 20:29:13:623: Change configuration sucessfully done. Run cfg2
+18/06/29 20:30:14:398: CHANGE_CFG cfg1; Change counter: 178
+18/06/29 20:30:21:413: Change configuration sucessfully done. Run cfg1
+18/06/29 20:31:22:197: CHANGE_CFG cfg2; Change counter: 179
+18/06/29 20:31:29:206: Change configuration sucessfully done. Run cfg2
+18/06/29 20:32:29:933: CHANGE_CFG cfg1; Change counter: 180
+18/06/29 20:32:36:947: Change configuration sucessfully done. Run cfg1
+18/06/29 20:33:37:656: CHANGE_CFG cfg2; Change counter: 181
+18/06/29 20:33:44:668: Change configuration sucessfully done. Run cfg2
+18/06/29 20:34:45:314: CHANGE_CFG cfg1; Change counter: 182
+18/06/29 20:34:52:323: Change configuration sucessfully done. Run cfg1
+18/06/29 20:35:53:054: CHANGE_CFG cfg2; Change counter: 183
+18/06/29 20:36:00:070: Change configuration sucessfully done. Run cfg2
+18/06/29 20:37:00:823: CHANGE_CFG cfg1; Change counter: 184
+18/06/29 20:37:07:843: Change configuration sucessfully done. Run cfg1
+18/06/29 20:38:08:586: CHANGE_CFG cfg2; Change counter: 185
+18/06/29 20:38:15:599: Change configuration sucessfully done. Run cfg2
+18/06/29 20:39:16:333: CHANGE_CFG cfg1; Change counter: 186
+18/06/29 20:39:23:341: Change configuration sucessfully done. Run cfg1
+18/06/29 20:40:24:099: CHANGE_CFG cfg2; Change counter: 187
+18/06/29 20:40:31:123: Change configuration sucessfully done. Run cfg2
+18/06/29 20:41:31:851: CHANGE_CFG cfg1; Change counter: 188
+18/06/29 20:41:38:862: Change configuration sucessfully done. Run cfg1
+18/06/29 20:42:39:606: CHANGE_CFG cfg2; Change counter: 189
+18/06/29 20:42:46:616: Change configuration sucessfully done. Run cfg2
+18/06/29 20:43:47:367: CHANGE_CFG cfg1; Change counter: 190
+18/06/29 20:43:54:387: Change configuration sucessfully done. Run cfg1
+18/06/29 20:44:55:099: CHANGE_CFG cfg2; Change counter: 191
+18/06/29 20:45:02:120: Change configuration sucessfully done. Run cfg2
+18/06/29 20:46:02:894: CHANGE_CFG cfg1; Change counter: 192
+18/06/29 20:46:09:923: Change configuration sucessfully done. Run cfg1
+18/06/29 20:47:10:665: CHANGE_CFG cfg2; Change counter: 193
+18/06/29 20:47:17:675: Change configuration sucessfully done. Run cfg2
+18/06/29 20:48:18:418: CHANGE_CFG cfg1; Change counter: 194
+18/06/29 20:48:25:430: Change configuration sucessfully done. Run cfg1
+18/06/29 20:49:26:145: CHANGE_CFG cfg2; Change counter: 195
+18/06/29 20:49:33:156: Change configuration sucessfully done. Run cfg2
+18/06/29 20:50:33:915: CHANGE_CFG cfg1; Change counter: 196
+18/06/29 20:50:40:927: Change configuration sucessfully done. Run cfg1
+18/06/29 20:51:41:702: CHANGE_CFG cfg2; Change counter: 197
+18/06/29 20:51:48:711: Change configuration sucessfully done. Run cfg2
+18/06/29 20:52:49:503: CHANGE_CFG cfg1; Change counter: 198
+18/06/29 20:52:56:515: Change configuration sucessfully done. Run cfg1
+18/06/29 20:53:57:255: CHANGE_CFG cfg2; Change counter: 199
+18/06/29 20:54:04:268: Change configuration sucessfully done. Run cfg2
+18/06/29 20:55:05:010: CHANGE_CFG cfg1; Change counter: 200
+18/06/29 20:55:12:019: Change configuration sucessfully done. Run cfg1
+18/06/29 20:56:12:791: CHANGE_CFG cfg2; Change counter: 201
+18/06/29 20:56:19:799: Change configuration sucessfully done. Run cfg2
+18/06/29 20:57:20:565: CHANGE_CFG cfg1; Change counter: 202
+18/06/29 20:57:27:582: Change configuration sucessfully done. Run cfg1
+18/06/29 20:58:28:323: CHANGE_CFG cfg2; Change counter: 203
+18/06/29 20:58:35:329: Change configuration sucessfully done. Run cfg2
+18/06/29 20:59:36:092: CHANGE_CFG cfg1; Change counter: 204
+18/06/29 20:59:43:105: Change configuration sucessfully done. Run cfg1
+18/06/29 21:00:43:860: CHANGE_CFG cfg2; Change counter: 205
+18/06/29 21:00:50:869: Change configuration sucessfully done. Run cfg2
+18/06/29 21:01:51:631: CHANGE_CFG cfg1; Change counter: 206
+18/06/29 21:01:58:641: Change configuration sucessfully done. Run cfg1
+18/06/29 21:02:59:327: CHANGE_CFG cfg2; Change counter: 207
+18/06/29 21:03:06:339: Change configuration sucessfully done. Run cfg2
+18/06/29 21:04:07:085: CHANGE_CFG cfg1; Change counter: 208
+18/06/29 21:04:14:096: Change configuration sucessfully done. Run cfg1
+18/06/29 21:05:14:845: CHANGE_CFG cfg2; Change counter: 209
+18/06/29 21:05:21:854: Change configuration sucessfully done. Run cfg2
+18/06/29 21:06:22:577: CHANGE_CFG cfg1; Change counter: 210
+18/06/29 21:06:29:589: Change configuration sucessfully done. Run cfg1
+18/06/29 21:07:30:305: CHANGE_CFG cfg2; Change counter: 211
+18/06/29 21:07:37:317: Change configuration sucessfully done. Run cfg2
+18/06/29 21:08:38:100: CHANGE_CFG cfg1; Change counter: 212
+18/06/29 21:08:45:113: Change configuration sucessfully done. Run cfg1
+18/06/29 21:09:45:840: CHANGE_CFG cfg2; Change counter: 213
+18/06/29 21:09:52:862: Change configuration sucessfully done. Run cfg2
+18/06/29 21:10:53:665: CHANGE_CFG cfg1; Change counter: 214
+18/06/29 21:11:00:688: Change configuration sucessfully done. Run cfg1
+18/06/29 21:12:01:443: CHANGE_CFG cfg2; Change counter: 215
+18/06/29 21:12:08:454: Change configuration sucessfully done. Run cfg2
+18/06/29 21:13:09:237: CHANGE_CFG cfg1; Change counter: 216
+18/06/29 21:13:16:263: Change configuration sucessfully done. Run cfg1
+18/06/29 21:14:17:007: CHANGE_CFG cfg2; Change counter: 217
+18/06/29 21:14:24:017: Change configuration sucessfully done. Run cfg2
+18/06/29 21:15:24:703: CHANGE_CFG cfg1; Change counter: 218
+18/06/29 21:15:31:718: Change configuration sucessfully done. Run cfg1
+18/06/29 21:16:32:440: CHANGE_CFG cfg2; Change counter: 219
+18/06/29 21:16:39:447: Change configuration sucessfully done. Run cfg2
+18/06/29 21:17:40:218: CHANGE_CFG cfg1; Change counter: 220
+18/06/29 21:17:47:231: Change configuration sucessfully done. Run cfg1
+18/06/29 21:18:47:989: CHANGE_CFG cfg2; Change counter: 221
+18/06/29 21:18:55:002: Change configuration sucessfully done. Run cfg2
+18/06/29 21:19:55:746: CHANGE_CFG cfg1; Change counter: 222
+18/06/29 21:20:02:759: Change configuration sucessfully done. Run cfg1
+18/06/29 21:21:03:497: CHANGE_CFG cfg2; Change counter: 223
+18/06/29 21:21:10:506: Change configuration sucessfully done. Run cfg2
+18/06/29 21:22:11:213: CHANGE_CFG cfg1; Change counter: 224
+18/06/29 21:22:18:227: Change configuration sucessfully done. Run cfg1
+18/06/29 21:23:18:921: CHANGE_CFG cfg2; Change counter: 225
+18/06/29 21:23:25:936: Change configuration sucessfully done. Run cfg2
+18/06/29 21:24:26:655: CHANGE_CFG cfg1; Change counter: 226
+18/06/29 21:24:33:661: Change configuration sucessfully done. Run cfg1
+18/06/29 21:25:34:380: CHANGE_CFG cfg2; Change counter: 227
+18/06/29 21:25:41:391: Change configuration sucessfully done. Run cfg2
+18/06/29 21:26:42:135: CHANGE_CFG cfg1; Change counter: 228
+18/06/29 21:26:49:146: Change configuration sucessfully done. Run cfg1
+18/06/29 21:27:49:909: CHANGE_CFG cfg2; Change counter: 229
+18/06/29 21:27:56:918: Change configuration sucessfully done. Run cfg2
+18/06/29 21:28:57:660: CHANGE_CFG cfg1; Change counter: 230
+18/06/29 21:29:04:671: Change configuration sucessfully done. Run cfg1
+18/06/29 21:30:05:423: CHANGE_CFG cfg2; Change counter: 231
+18/06/29 21:30:12:429: Change configuration sucessfully done. Run cfg2
+18/06/29 21:31:13:068: CHANGE_CFG cfg1; Change counter: 232
+18/06/29 21:31:20:074: Change configuration sucessfully done. Run cfg1
+18/06/29 21:32:20:813: CHANGE_CFG cfg2; Change counter: 233
+18/06/29 21:32:27:822: Change configuration sucessfully done. Run cfg2
+18/06/29 21:33:28:538: CHANGE_CFG cfg1; Change counter: 234
+18/06/29 21:33:35:567: Change configuration sucessfully done. Run cfg1
+18/06/29 21:34:36:277: CHANGE_CFG cfg2; Change counter: 235
+18/06/29 21:34:43:290: Change configuration sucessfully done. Run cfg2
+18/06/29 21:35:44:040: CHANGE_CFG cfg1; Change counter: 236
+18/06/29 21:35:51:068: Change configuration sucessfully done. Run cfg1
+18/06/29 21:36:51:811: CHANGE_CFG cfg2; Change counter: 237
+18/06/29 21:36:58:821: Change configuration sucessfully done. Run cfg2
+18/06/29 21:37:59:565: CHANGE_CFG cfg1; Change counter: 238
+18/06/29 21:38:06:585: Change configuration sucessfully done. Run cfg1
+18/06/29 21:39:07:339: CHANGE_CFG cfg2; Change counter: 239
+18/06/29 21:39:14:348: Change configuration sucessfully done. Run cfg2
+18/06/29 21:40:15:112: CHANGE_CFG cfg1; Change counter: 240
+18/06/29 21:40:22:122: Change configuration sucessfully done. Run cfg1
+18/06/29 21:41:22:911: CHANGE_CFG cfg2; Change counter: 241
+18/06/29 21:41:29:930: Change configuration sucessfully done. Run cfg2
+18/06/29 21:42:30:695: CHANGE_CFG cfg1; Change counter: 242
+18/06/29 21:42:37:702: Change configuration sucessfully done. Run cfg1
+18/06/29 21:43:38:391: CHANGE_CFG cfg2; Change counter: 243
+18/06/29 21:43:45:403: Change configuration sucessfully done. Run cfg2
+18/06/29 21:44:46:131: CHANGE_CFG cfg1; Change counter: 244
+18/06/29 21:44:53:148: Change configuration sucessfully done. Run cfg1
+18/06/29 21:45:53:920: CHANGE_CFG cfg2; Change counter: 245
+18/06/29 21:46:00:934: Change configuration sucessfully done. Run cfg2
+18/06/29 21:47:01:683: CHANGE_CFG cfg1; Change counter: 246
+18/06/29 21:47:08:691: Change configuration sucessfully done. Run cfg1
+18/06/29 21:48:09:445: CHANGE_CFG cfg2; Change counter: 247
+18/06/29 21:48:16:454: Change configuration sucessfully done. Run cfg2
+18/06/29 21:49:17:204: CHANGE_CFG cfg1; Change counter: 248
+18/06/29 21:49:24:213: Change configuration sucessfully done. Run cfg1
+18/06/29 21:50:24:951: CHANGE_CFG cfg2; Change counter: 249
+18/06/29 21:50:31:964: Change configuration sucessfully done. Run cfg2
+18/06/29 21:51:32:714: CHANGE_CFG cfg1; Change counter: 250
+18/06/29 21:51:39:726: Change configuration sucessfully done. Run cfg1
+18/06/29 21:52:40:454: CHANGE_CFG cfg2; Change counter: 251
+18/06/29 21:52:47:468: Change configuration sucessfully done. Run cfg2
+18/06/29 21:53:48:165: CHANGE_CFG cfg1; Change counter: 252
+18/06/29 21:53:55:169: Change configuration sucessfully done. Run cfg1
+18/06/29 21:54:55:882: CHANGE_CFG cfg2; Change counter: 253
+18/06/29 21:55:02:895: Change configuration sucessfully done. Run cfg2
+18/06/29 21:56:03:646: CHANGE_CFG cfg1; Change counter: 254
+18/06/29 21:56:10:666: Change configuration sucessfully done. Run cfg1
+18/06/29 21:57:11:418: CHANGE_CFG cfg2; Change counter: 255
+18/06/29 21:57:18:446: Change configuration sucessfully done. Run cfg2
+18/06/29 21:58:19:163: CHANGE_CFG cfg1; Change counter: 256
+18/06/29 21:58:26:175: Change configuration sucessfully done. Run cfg1
+18/06/29 21:59:26:924: CHANGE_CFG cfg2; Change counter: 257
+18/06/29 21:59:33:930: Change configuration sucessfully done. Run cfg2
+18/06/29 22:00:34:673: CHANGE_CFG cfg1; Change counter: 258
+18/06/29 22:00:41:683: Change configuration sucessfully done. Run cfg1
+18/06/29 22:01:42:482: CHANGE_CFG cfg2; Change counter: 259
+18/06/29 22:01:49:488: Change configuration sucessfully done. Run cfg2
+18/06/29 22:02:50:226: CHANGE_CFG cfg1; Change counter: 260
+18/06/29 22:02:57:237: Change configuration sucessfully done. Run cfg1
+18/06/29 22:03:57:975: CHANGE_CFG cfg2; Change counter: 261
+18/06/29 22:04:04:998: Change configuration sucessfully done. Run cfg2
+18/06/29 22:05:05:690: CHANGE_CFG cfg1; Change counter: 262
+18/06/29 22:05:12:699: Change configuration sucessfully done. Run cfg1
+18/06/29 22:06:13:434: CHANGE_CFG cfg2; Change counter: 263
+18/06/29 22:06:20:438: Change configuration sucessfully done. Run cfg2
+18/06/29 22:07:21:156: CHANGE_CFG cfg1; Change counter: 264
+18/06/29 22:07:28:178: Change configuration sucessfully done. Run cfg1
+18/06/29 22:08:28:886: CHANGE_CFG cfg2; Change counter: 265
+18/06/29 22:08:35:909: Change configuration sucessfully done. Run cfg2
+18/06/29 22:09:36:661: CHANGE_CFG cfg1; Change counter: 266
+18/06/29 22:09:43:672: Change configuration sucessfully done. Run cfg1
+18/06/29 22:10:44:432: CHANGE_CFG cfg2; Change counter: 267
+18/06/29 22:10:51:452: Change configuration sucessfully done. Run cfg2
+18/06/29 22:11:52:164: CHANGE_CFG cfg1; Change counter: 268
+18/06/29 22:11:59:173: Change configuration sucessfully done. Run cfg1
+18/06/29 22:12:59:884: CHANGE_CFG cfg2; Change counter: 269
+18/06/29 22:13:06:892: Change configuration sucessfully done. Run cfg2
+18/06/29 22:14:07:621: CHANGE_CFG cfg1; Change counter: 270
+18/06/29 22:14:14:630: Change configuration sucessfully done. Run cfg1
+18/06/29 22:15:15:352: CHANGE_CFG cfg2; Change counter: 271
+18/06/29 22:15:22:378: Change configuration sucessfully done. Run cfg2
+18/06/29 22:16:23:094: CHANGE_CFG cfg1; Change counter: 272
+18/06/29 22:16:30:105: Change configuration sucessfully done. Run cfg1
+18/06/29 22:17:30:887: CHANGE_CFG cfg2; Change counter: 273
+18/06/29 22:17:37:894: Change configuration sucessfully done. Run cfg2
+18/06/29 22:18:38:632: CHANGE_CFG cfg1; Change counter: 274
+18/06/29 22:18:45:652: Change configuration sucessfully done. Run cfg1
+18/06/29 22:19:46:366: CHANGE_CFG cfg2; Change counter: 275
+18/06/29 22:19:53:375: Change configuration sucessfully done. Run cfg2
+18/06/29 22:20:54:158: CHANGE_CFG cfg1; Change counter: 276
+18/06/29 22:21:01:165: Change configuration sucessfully done. Run cfg1
+18/06/29 22:22:01:889: CHANGE_CFG cfg2; Change counter: 277
+18/06/29 22:22:08:913: Change configuration sucessfully done. Run cfg2
+18/06/29 22:23:09:723: CHANGE_CFG cfg1; Change counter: 278
+18/06/29 22:23:16:733: Change configuration sucessfully done. Run cfg1
+18/06/29 22:24:17:493: CHANGE_CFG cfg2; Change counter: 279
+18/06/29 22:24:24:503: Change configuration sucessfully done. Run cfg2
+18/06/29 22:25:25:263: CHANGE_CFG cfg1; Change counter: 280
+18/06/29 22:25:32:273: Change configuration sucessfully done. Run cfg1
+18/06/29 22:26:33:046: CHANGE_CFG cfg2; Change counter: 281
+18/06/29 22:26:40:051: Change configuration sucessfully done. Run cfg2
+18/06/29 22:27:40:731: CHANGE_CFG cfg1; Change counter: 282
+18/06/29 22:27:47:744: Change configuration sucessfully done. Run cfg1
+18/06/29 22:28:48:478: CHANGE_CFG cfg2; Change counter: 283
+18/06/29 22:28:55:495: Change configuration sucessfully done. Run cfg2
+18/06/29 22:29:56:243: CHANGE_CFG cfg1; Change counter: 284
+18/06/29 22:30:03:256: Change configuration sucessfully done. Run cfg1
+18/06/29 22:31:03:946: CHANGE_CFG cfg2; Change counter: 285
+18/06/29 22:31:10:957: Change configuration sucessfully done. Run cfg2
+18/06/29 22:32:11:722: CHANGE_CFG cfg1; Change counter: 286
+18/06/29 22:32:18:732: Change configuration sucessfully done. Run cfg1
+18/06/29 22:33:19:477: CHANGE_CFG cfg2; Change counter: 287
+18/06/29 22:33:26:493: Change configuration sucessfully done. Run cfg2
+18/06/29 22:34:27:213: CHANGE_CFG cfg1; Change counter: 288
+18/06/29 22:34:34:230: Change configuration sucessfully done. Run cfg1
+18/06/29 22:35:35:015: CHANGE_CFG cfg2; Change counter: 289
+18/06/29 22:35:42:031: Change configuration sucessfully done. Run cfg2
+18/06/29 22:36:42:769: CHANGE_CFG cfg1; Change counter: 290
+18/06/29 22:36:49:790: Change configuration sucessfully done. Run cfg1
+18/06/29 22:37:50:528: CHANGE_CFG cfg2; Change counter: 291
+18/06/29 22:37:57:535: Change configuration sucessfully done. Run cfg2
+18/06/29 22:38:58:279: CHANGE_CFG cfg1; Change counter: 292
+18/06/29 22:39:05:296: Change configuration sucessfully done. Run cfg1
+18/06/29 22:40:06:030: CHANGE_CFG cfg2; Change counter: 293
+18/06/29 22:40:13:040: Change configuration sucessfully done. Run cfg2
+18/06/29 22:41:13:809: CHANGE_CFG cfg1; Change counter: 294
+18/06/29 22:41:20:846: Change configuration sucessfully done. Run cfg1
+18/06/29 22:42:21:606: CHANGE_CFG cfg2; Change counter: 295
+18/06/29 22:42:28:621: Change configuration sucessfully done. Run cfg2
+18/06/29 22:43:29:358: CHANGE_CFG cfg1; Change counter: 296
+18/06/29 22:43:36:378: Change configuration sucessfully done. Run cfg1
+18/06/29 22:44:37:121: CHANGE_CFG cfg2; Change counter: 297
+18/06/29 22:44:44:146: Change configuration sucessfully done. Run cfg2
+18/06/29 22:45:44:892: CHANGE_CFG cfg1; Change counter: 298
+18/06/29 22:45:51:929: Change configuration sucessfully done. Run cfg1
+18/06/29 22:46:52:656: CHANGE_CFG cfg2; Change counter: 299
+18/06/29 22:46:59:680: Change configuration sucessfully done. Run cfg2
+18/06/29 22:48:00:402: CHANGE_CFG cfg1; Change counter: 300
+18/06/29 22:48:07:423: Change configuration sucessfully done. Run cfg1
+18/06/29 22:49:08:181: CHANGE_CFG cfg2; Change counter: 301
+18/06/29 22:49:15:193: Change configuration sucessfully done. Run cfg2
+18/06/29 22:50:15:925: CHANGE_CFG cfg1; Change counter: 302
+18/06/29 22:50:22:949: Change configuration sucessfully done. Run cfg1
+18/06/29 22:51:23:701: CHANGE_CFG cfg2; Change counter: 303
+18/06/29 22:51:30:705: Change configuration sucessfully done. Run cfg2
+18/06/29 22:52:31:475: CHANGE_CFG cfg1; Change counter: 304
+18/06/29 22:52:38:482: Change configuration sucessfully done. Run cfg1
+18/06/29 22:53:39:297: CHANGE_CFG cfg2; Change counter: 305
+18/06/29 22:53:46:311: Change configuration sucessfully done. Run cfg2
+18/06/29 22:54:47:081: CHANGE_CFG cfg1; Change counter: 306
+18/06/29 22:54:54:092: Change configuration sucessfully done. Run cfg1
+18/06/29 22:55:54:884: CHANGE_CFG cfg2; Change counter: 307
+18/06/29 22:56:01:905: Change configuration sucessfully done. Run cfg2
+18/06/29 22:57:02:683: CHANGE_CFG cfg1; Change counter: 308
+18/06/29 22:57:09:705: Change configuration sucessfully done. Run cfg1
+18/06/29 22:58:10:424: CHANGE_CFG cfg2; Change counter: 309
+18/06/29 22:58:17:434: Change configuration sucessfully done. Run cfg2
+18/06/29 22:59:18:144: CHANGE_CFG cfg1; Change counter: 310
+18/06/29 22:59:25:155: Change configuration sucessfully done. Run cfg1
+18/06/29 23:00:25:906: CHANGE_CFG cfg2; Change counter: 311
+18/06/29 23:00:32:917: Change configuration sucessfully done. Run cfg2
+18/06/29 23:01:33:659: CHANGE_CFG cfg1; Change counter: 312
+18/06/29 23:01:40:668: Change configuration sucessfully done. Run cfg1
+18/06/29 23:02:41:460: CHANGE_CFG cfg2; Change counter: 313
+18/06/29 23:02:48:474: Change configuration sucessfully done. Run cfg2
+18/06/29 23:03:49:195: CHANGE_CFG cfg1; Change counter: 314
+18/06/29 23:03:56:208: Change configuration sucessfully done. Run cfg1
+18/06/29 23:04:56:946: CHANGE_CFG cfg2; Change counter: 315
+18/06/29 23:05:03:958: Change configuration sucessfully done. Run cfg2
+18/06/29 23:06:04:735: CHANGE_CFG cfg1; Change counter: 316
+18/06/29 23:06:11:752: Change configuration sucessfully done. Run cfg1
+18/06/29 23:07:12:501: CHANGE_CFG cfg2; Change counter: 317
+18/06/29 23:07:19:524: Change configuration sucessfully done. Run cfg2
+18/06/29 23:08:20:262: CHANGE_CFG cfg1; Change counter: 318
+18/06/29 23:08:27:274: Change configuration sucessfully done. Run cfg1
+18/06/29 23:09:28:044: CHANGE_CFG cfg2; Change counter: 319
+18/06/29 23:09:35:051: Change configuration sucessfully done. Run cfg2
+18/06/29 23:10:35:766: CHANGE_CFG cfg1; Change counter: 320
+18/06/29 23:10:42:785: Change configuration sucessfully done. Run cfg1
+18/06/29 23:11:43:522: CHANGE_CFG cfg2; Change counter: 321
+18/06/29 23:11:50:541: Change configuration sucessfully done. Run cfg2
+18/06/29 23:12:51:327: CHANGE_CFG cfg1; Change counter: 322
+18/06/29 23:12:58:353: Change configuration sucessfully done. Run cfg1
+18/06/29 23:13:59:118: CHANGE_CFG cfg2; Change counter: 323
+18/06/29 23:14:06:143: Change configuration sucessfully done. Run cfg2
+18/06/29 23:15:06:879: CHANGE_CFG cfg1; Change counter: 324
+18/06/29 23:15:13:887: Change configuration sucessfully done. Run cfg1
+18/06/29 23:16:14:623: CHANGE_CFG cfg2; Change counter: 325
+18/06/29 23:16:21:646: Change configuration sucessfully done. Run cfg2
+18/06/29 23:17:22:404: CHANGE_CFG cfg1; Change counter: 326
+18/06/29 23:17:29:413: Change configuration sucessfully done. Run cfg1
+18/06/29 23:18:30:149: CHANGE_CFG cfg2; Change counter: 327
+18/06/29 23:18:37:158: Change configuration sucessfully done. Run cfg2
+18/06/29 23:19:37:842: CHANGE_CFG cfg1; Change counter: 328
+18/06/29 23:19:44:867: Change configuration sucessfully done. Run cfg1
+18/06/29 23:20:45:622: CHANGE_CFG cfg2; Change counter: 329
+18/06/29 23:20:52:632: Change configuration sucessfully done. Run cfg2
+18/06/29 23:21:53:362: CHANGE_CFG cfg1; Change counter: 330
+18/06/29 23:22:00:370: Change configuration sucessfully done. Run cfg1
+18/06/29 23:23:01:135: CHANGE_CFG cfg2; Change counter: 331
+18/06/29 23:23:08:147: Change configuration sucessfully done. Run cfg2
+18/06/29 23:24:08:909: CHANGE_CFG cfg1; Change counter: 332
+18/06/29 23:24:15:930: Change configuration sucessfully done. Run cfg1
+18/06/29 23:25:16:679: CHANGE_CFG cfg2; Change counter: 333
+18/06/29 23:25:23:692: Change configuration sucessfully done. Run cfg2
+18/06/29 23:26:24:365: CHANGE_CFG cfg1; Change counter: 334
+18/06/29 23:26:31:376: Change configuration sucessfully done. Run cfg1
+18/06/29 23:27:32:091: CHANGE_CFG cfg2; Change counter: 335
+18/06/29 23:27:39:101: Change configuration sucessfully done. Run cfg2
+18/06/29 23:28:39:858: CHANGE_CFG cfg1; Change counter: 336
+18/06/29 23:28:46:881: Change configuration sucessfully done. Run cfg1
+18/06/29 23:29:47:665: CHANGE_CFG cfg2; Change counter: 337
+18/06/29 23:29:54:675: Change configuration sucessfully done. Run cfg2
+18/06/29 23:30:55:405: CHANGE_CFG cfg1; Change counter: 338
+18/06/29 23:31:02:417: Change configuration sucessfully done. Run cfg1
+18/06/29 23:32:03:163: CHANGE_CFG cfg2; Change counter: 339
+18/06/29 23:32:10:173: Change configuration sucessfully done. Run cfg2
+18/06/29 23:33:10:910: CHANGE_CFG cfg1; Change counter: 340
+18/06/29 23:33:17:925: Change configuration sucessfully done. Run cfg1
+18/06/29 23:34:18:661: CHANGE_CFG cfg2; Change counter: 341
+18/06/29 23:34:25:671: Change configuration sucessfully done. Run cfg2
+18/06/29 23:35:26:434: CHANGE_CFG cfg1; Change counter: 342
+18/06/29 23:35:33:442: Change configuration sucessfully done. Run cfg1
+18/06/29 23:36:34:185: CHANGE_CFG cfg2; Change counter: 343
+18/06/29 23:36:41:193: Change configuration sucessfully done. Run cfg2
+18/06/29 23:37:41:874: CHANGE_CFG cfg1; Change counter: 344
+18/06/29 23:37:48:894: Change configuration sucessfully done. Run cfg1
+18/06/29 23:38:49:641: CHANGE_CFG cfg2; Change counter: 345
+18/06/29 23:38:56:655: Change configuration sucessfully done. Run cfg2
+18/06/29 23:39:57:392: CHANGE_CFG cfg1; Change counter: 346
+18/06/29 23:40:04:402: Change configuration sucessfully done. Run cfg1
+18/06/29 23:41:05:136: CHANGE_CFG cfg2; Change counter: 347
+18/06/29 23:41:12:144: Change configuration sucessfully done. Run cfg2
+18/06/29 23:42:12:879: CHANGE_CFG cfg1; Change counter: 348
+18/06/29 23:42:19:916: Change configuration sucessfully done. Run cfg1
+18/06/29 23:43:20:649: CHANGE_CFG cfg2; Change counter: 349
+18/06/29 23:43:27:675: Change configuration sucessfully done. Run cfg2
+18/06/29 23:44:28:416: CHANGE_CFG cfg1; Change counter: 350
+18/06/29 23:44:35:427: Change configuration sucessfully done. Run cfg1
+18/06/29 23:45:36:142: CHANGE_CFG cfg2; Change counter: 351
+18/06/29 23:45:43:152: Change configuration sucessfully done. Run cfg2
+18/06/29 23:46:43:892: CHANGE_CFG cfg1; Change counter: 352
+18/06/29 23:46:50:910: Change configuration sucessfully done. Run cfg1
+18/06/29 23:47:51:586: CHANGE_CFG cfg2; Change counter: 353
+18/06/29 23:47:58:600: Change configuration sucessfully done. Run cfg2
+18/06/29 23:48:59:308: CHANGE_CFG cfg1; Change counter: 354
+18/06/29 23:49:06:317: Change configuration sucessfully done. Run cfg1
+18/06/29 23:50:07:002: CHANGE_CFG cfg2; Change counter: 355
+18/06/29 23:50:14:010: Change configuration sucessfully done. Run cfg2
+18/06/29 23:51:14:759: CHANGE_CFG cfg1; Change counter: 356
+18/06/29 23:51:21:777: Change configuration sucessfully done. Run cfg1
+18/06/29 23:52:22:538: CHANGE_CFG cfg2; Change counter: 357
+18/06/29 23:52:29:559: Change configuration sucessfully done. Run cfg2
+18/06/29 23:53:30:370: CHANGE_CFG cfg1; Change counter: 358
+18/06/29 23:53:37:380: Change configuration sucessfully done. Run cfg1
+18/06/29 23:54:38:099: CHANGE_CFG cfg2; Change counter: 359
+18/06/29 23:54:45:113: Change configuration sucessfully done. Run cfg2
+18/06/29 23:55:45:861: CHANGE_CFG cfg1; Change counter: 360
+18/06/29 23:55:52:873: Change configuration sucessfully done. Run cfg1
+18/06/29 23:56:53:611: CHANGE_CFG cfg2; Change counter: 361
+18/06/29 23:57:00:620: Change configuration sucessfully done. Run cfg2
+18/06/29 23:58:01:357: CHANGE_CFG cfg1; Change counter: 362
+18/06/29 23:58:08:365: Change configuration sucessfully done. Run cfg1
+18/06/29 23:59:09:094: CHANGE_CFG cfg2; Change counter: 363
+18/06/29 23:59:16:111: Change configuration sucessfully done. Run cfg2
+18/06/30 00:00:16:883: CHANGE_CFG cfg1; Change counter: 364
+18/06/30 00:00:23:894: Change configuration sucessfully done. Run cfg1
+18/06/30 00:01:24:647: CHANGE_CFG cfg2; Change counter: 365
+18/06/30 00:01:31:666: Change configuration sucessfully done. Run cfg2
+18/06/30 00:02:32:399: CHANGE_CFG cfg1; Change counter: 366
+18/06/30 00:02:39:406: Change configuration sucessfully done. Run cfg1
+18/06/30 00:03:40:133: CHANGE_CFG cfg2; Change counter: 367
+18/06/30 00:03:47:155: Change configuration sucessfully done. Run cfg2
+18/06/30 00:04:47:884: CHANGE_CFG cfg1; Change counter: 368
+18/06/30 00:04:54:897: Change configuration sucessfully done. Run cfg1
+18/06/30 00:05:55:689: CHANGE_CFG cfg2; Change counter: 369
+18/06/30 00:06:02:701: Change configuration sucessfully done. Run cfg2
+18/06/30 00:07:03:426: CHANGE_CFG cfg1; Change counter: 370
+18/06/30 00:07:10:433: Change configuration sucessfully done. Run cfg1
+18/06/30 00:08:11:180: CHANGE_CFG cfg2; Change counter: 371
+18/06/30 00:08:18:186: Change configuration sucessfully done. Run cfg2
+18/06/30 00:09:18:909: CHANGE_CFG cfg1; Change counter: 372
+18/06/30 00:09:25:916: Change configuration sucessfully done. Run cfg1
+18/06/30 00:10:26:652: CHANGE_CFG cfg2; Change counter: 373
+18/06/30 00:10:33:667: Change configuration sucessfully done. Run cfg2
+18/06/30 00:11:34:394: CHANGE_CFG cfg1; Change counter: 374
+18/06/30 00:11:41:408: Change configuration sucessfully done. Run cfg1
+18/06/30 00:12:42:129: CHANGE_CFG cfg2; Change counter: 375
+18/06/30 00:12:49:140: Change configuration sucessfully done. Run cfg2
+18/06/30 00:13:49:863: CHANGE_CFG cfg1; Change counter: 376
+18/06/30 00:13:56:870: Change configuration sucessfully done. Run cfg1
+18/06/30 00:14:57:607: CHANGE_CFG cfg2; Change counter: 377
+18/06/30 00:15:04:619: Change configuration sucessfully done. Run cfg2
+18/06/30 00:16:05:410: CHANGE_CFG cfg1; Change counter: 378
+18/06/30 00:16:12:417: Change configuration sucessfully done. Run cfg1
+18/06/30 00:17:13:165: CHANGE_CFG cfg2; Change counter: 379
+18/06/30 00:17:20:176: Change configuration sucessfully done. Run cfg2
+18/06/30 00:18:20:921: CHANGE_CFG cfg1; Change counter: 380
+18/06/30 00:18:27:934: Change configuration sucessfully done. Run cfg1
+18/06/30 00:19:28:707: CHANGE_CFG cfg2; Change counter: 381
+18/06/30 00:19:35:716: Change configuration sucessfully done. Run cfg2
+18/06/30 00:20:36:458: CHANGE_CFG cfg1; Change counter: 382
+18/06/30 00:20:43:468: Change configuration sucessfully done. Run cfg1
+18/06/30 00:21:44:195: CHANGE_CFG cfg2; Change counter: 383
+18/06/30 00:21:51:212: Change configuration sucessfully done. Run cfg2
+18/06/30 00:22:51:897: CHANGE_CFG cfg1; Change counter: 384
+18/06/30 00:22:58:927: Change configuration sucessfully done. Run cfg1
+18/06/30 00:23:59:670: CHANGE_CFG cfg2; Change counter: 385
+18/06/30 00:24:06:683: Change configuration sucessfully done. Run cfg2
+18/06/30 00:25:07:402: CHANGE_CFG cfg1; Change counter: 386
+18/06/30 00:25:14:415: Change configuration sucessfully done. Run cfg1
+18/06/30 00:26:15:172: CHANGE_CFG cfg2; Change counter: 387
+18/06/30 00:26:22:182: Change configuration sucessfully done. Run cfg2
+18/06/30 00:27:22:936: CHANGE_CFG cfg1; Change counter: 388
+18/06/30 00:27:29:953: Change configuration sucessfully done. Run cfg1
+18/06/30 00:28:30:706: CHANGE_CFG cfg2; Change counter: 389
+18/06/30 00:28:37:719: Change configuration sucessfully done. Run cfg2
+18/06/30 00:29:38:435: CHANGE_CFG cfg1; Change counter: 390
+18/06/30 00:29:45:448: Change configuration sucessfully done. Run cfg1
+18/06/30 00:30:46:197: CHANGE_CFG cfg2; Change counter: 391
+18/06/30 00:30:53:212: Change configuration sucessfully done. Run cfg2
+18/06/30 00:31:54:001: CHANGE_CFG cfg1; Change counter: 392
+18/06/30 00:32:01:014: Change configuration sucessfully done. Run cfg1
+18/06/30 00:33:01:728: CHANGE_CFG cfg2; Change counter: 393
+18/06/30 00:33:08:747: Change configuration sucessfully done. Run cfg2
+18/06/30 00:34:09:469: CHANGE_CFG cfg1; Change counter: 394
+18/06/30 00:34:16:483: Change configuration sucessfully done. Run cfg1
+18/06/30 00:35:17:224: CHANGE_CFG cfg2; Change counter: 395
+18/06/30 00:35:24:238: Change configuration sucessfully done. Run cfg2
+18/06/30 00:36:24:965: CHANGE_CFG cfg1; Change counter: 396
+18/06/30 00:36:31:978: Change configuration sucessfully done. Run cfg1
+18/06/30 00:37:32:738: CHANGE_CFG cfg2; Change counter: 397
+18/06/30 00:37:39:751: Change configuration sucessfully done. Run cfg2
+18/06/30 00:38:40:497: CHANGE_CFG cfg1; Change counter: 398
+18/06/30 00:38:47:506: Change configuration sucessfully done. Run cfg1
+18/06/30 00:39:48:247: CHANGE_CFG cfg2; Change counter: 399
+18/06/30 00:39:55:254: Change configuration sucessfully done. Run cfg2
+18/06/30 00:40:55:927: CHANGE_CFG cfg1; Change counter: 400
+18/06/30 00:41:02:940: Change configuration sucessfully done. Run cfg1
+18/06/30 00:42:03:637: CHANGE_CFG cfg2; Change counter: 401
+18/06/30 00:42:10:647: Change configuration sucessfully done. Run cfg2
+18/06/30 00:43:11:415: CHANGE_CFG cfg1; Change counter: 402
+18/06/30 00:43:18:431: Change configuration sucessfully done. Run cfg1
+18/06/30 00:44:19:148: CHANGE_CFG cfg2; Change counter: 403
+18/06/30 00:44:26:174: Change configuration sucessfully done. Run cfg2
+18/06/30 00:45:26:902: CHANGE_CFG cfg1; Change counter: 404
+18/06/30 00:45:33:920: Change configuration sucessfully done. Run cfg1
+18/06/30 00:46:34:682: CHANGE_CFG cfg2; Change counter: 405
+18/06/30 00:46:41:690: Change configuration sucessfully done. Run cfg2
+18/06/30 00:47:42:439: CHANGE_CFG cfg1; Change counter: 406
+18/06/30 00:47:49:449: Change configuration sucessfully done. Run cfg1
+18/06/30 00:48:50:204: CHANGE_CFG cfg2; Change counter: 407
+18/06/30 00:48:57:216: Change configuration sucessfully done. Run cfg2
+18/06/30 00:49:57:923: CHANGE_CFG cfg1; Change counter: 408
+18/06/30 00:50:04:933: Change configuration sucessfully done. Run cfg1
+18/06/30 00:51:05:699: CHANGE_CFG cfg2; Change counter: 409
+18/06/30 00:51:12:709: Change configuration sucessfully done. Run cfg2
+18/06/30 00:52:13:416: CHANGE_CFG cfg1; Change counter: 410
+18/06/30 00:52:20:428: Change configuration sucessfully done. Run cfg1
+18/06/30 00:53:21:142: CHANGE_CFG cfg2; Change counter: 411
+18/06/30 00:53:28:152: Change configuration sucessfully done. Run cfg2
+18/06/30 00:54:28:916: CHANGE_CFG cfg1; Change counter: 412
+18/06/30 00:54:35:924: Change configuration sucessfully done. Run cfg1
+18/06/30 00:55:36:665: CHANGE_CFG cfg2; Change counter: 413
+18/06/30 00:55:43:693: Change configuration sucessfully done. Run cfg2
+18/06/30 00:56:44:448: CHANGE_CFG cfg1; Change counter: 414
+18/06/30 00:56:51:467: Change configuration sucessfully done. Run cfg1
+18/06/30 00:57:52:238: CHANGE_CFG cfg2; Change counter: 415
+18/06/30 00:57:59:246: Change configuration sucessfully done. Run cfg2
+18/06/30 00:59:00:020: CHANGE_CFG cfg1; Change counter: 416
+18/06/30 00:59:07:030: Change configuration sucessfully done. Run cfg1
+18/06/30 01:00:07:777: CHANGE_CFG cfg2; Change counter: 417
+18/06/30 01:00:14:790: Change configuration sucessfully done. Run cfg2
+18/06/30 01:01:15:547: CHANGE_CFG cfg1; Change counter: 418
+18/06/30 01:01:22:570: Change configuration sucessfully done. Run cfg1
+18/06/30 01:02:23:307: CHANGE_CFG cfg2; Change counter: 419
+18/06/30 01:02:30:327: Change configuration sucessfully done. Run cfg2
+18/06/30 01:03:31:008: CHANGE_CFG cfg1; Change counter: 420
+18/06/30 01:03:38:025: Change configuration sucessfully done. Run cfg1
+18/06/30 01:04:38:751: CHANGE_CFG cfg2; Change counter: 421
+18/06/30 01:04:45:765: Change configuration sucessfully done. Run cfg2
+18/06/30 01:05:46:481: CHANGE_CFG cfg1; Change counter: 422
+18/06/30 01:05:53:494: Change configuration sucessfully done. Run cfg1
+18/06/30 01:06:54:235: CHANGE_CFG cfg2; Change counter: 423
+18/06/30 01:07:01:243: Change configuration sucessfully done. Run cfg2
+18/06/30 01:08:01:981: CHANGE_CFG cfg1; Change counter: 424
+18/06/30 01:08:08:993: Change configuration sucessfully done. Run cfg1
+18/06/30 01:09:09:719: CHANGE_CFG cfg2; Change counter: 425
+18/06/30 01:09:16:725: Change configuration sucessfully done. Run cfg2
+18/06/30 01:10:17:476: CHANGE_CFG cfg1; Change counter: 426
+18/06/30 01:10:24:503: Change configuration sucessfully done. Run cfg1
+18/06/30 01:11:25:276: CHANGE_CFG cfg2; Change counter: 427
+18/06/30 01:11:32:282: Change configuration sucessfully done. Run cfg2
+18/06/30 01:12:33:090: CHANGE_CFG cfg1; Change counter: 428
+18/06/30 01:12:40:119: Change configuration sucessfully done. Run cfg1
+18/06/30 01:13:40:901: CHANGE_CFG cfg2; Change counter: 429
+18/06/30 01:13:47:913: Change configuration sucessfully done. Run cfg2
+18/06/30 01:14:48:659: CHANGE_CFG cfg1; Change counter: 430
+18/06/30 01:14:55:667: Change configuration sucessfully done. Run cfg1
+18/06/30 01:15:56:373: CHANGE_CFG cfg2; Change counter: 431
+18/06/30 01:16:03:376: Change configuration sucessfully done. Run cfg2
+18/06/30 01:17:04:094: CHANGE_CFG cfg1; Change counter: 432
+18/06/30 01:17:11:111: Change configuration sucessfully done. Run cfg1
+18/06/30 01:18:11:809: CHANGE_CFG cfg2; Change counter: 433
+18/06/30 01:18:18:832: Change configuration sucessfully done. Run cfg2
+18/06/30 01:19:19:535: CHANGE_CFG cfg1; Change counter: 434
+18/06/30 01:19:26:549: Change configuration sucessfully done. Run cfg1
+18/06/30 01:20:27:283: CHANGE_CFG cfg2; Change counter: 435
+18/06/30 01:20:34:292: Change configuration sucessfully done. Run cfg2
+18/06/30 01:21:35:045: CHANGE_CFG cfg1; Change counter: 436
+18/06/30 01:21:42:069: Change configuration sucessfully done. Run cfg1
+18/06/30 01:22:42:787: CHANGE_CFG cfg2; Change counter: 437
+18/06/30 01:22:49:808: Change configuration sucessfully done. Run cfg2
+18/06/30 01:23:50:501: CHANGE_CFG cfg1; Change counter: 438
+18/06/30 01:23:57:513: Change configuration sucessfully done. Run cfg1
+18/06/30 01:24:58:255: CHANGE_CFG cfg2; Change counter: 439
+18/06/30 01:25:05:265: Change configuration sucessfully done. Run cfg2
+18/06/30 01:26:06:005: CHANGE_CFG cfg1; Change counter: 440
+18/06/30 01:26:13:013: Change configuration sucessfully done. Run cfg1
+18/06/30 01:27:13:760: CHANGE_CFG cfg2; Change counter: 441
+18/06/30 01:27:20:765: Change configuration sucessfully done. Run cfg2
+18/06/30 01:28:21:479: CHANGE_CFG cfg1; Change counter: 442
+18/06/30 01:28:28:503: Change configuration sucessfully done. Run cfg1
+18/06/30 01:29:29:252: CHANGE_CFG cfg2; Change counter: 443
+18/06/30 01:29:36:265: Change configuration sucessfully done. Run cfg2
+18/06/30 01:30:37:007: CHANGE_CFG cfg1; Change counter: 444
+18/06/30 01:30:44:023: Change configuration sucessfully done. Run cfg1
+18/06/30 01:31:44:799: CHANGE_CFG cfg2; Change counter: 445
+18/06/30 01:31:51:824: Change configuration sucessfully done. Run cfg2
+18/06/30 01:32:52:579: CHANGE_CFG cfg1; Change counter: 446
+18/06/30 01:32:59:589: Change configuration sucessfully done. Run cfg1
+18/06/30 01:34:00:357: CHANGE_CFG cfg2; Change counter: 447
+18/06/30 01:34:07:371: Change configuration sucessfully done. Run cfg2
+18/06/30 01:35:08:169: CHANGE_CFG cfg1; Change counter: 448
+18/06/30 01:35:15:192: Change configuration sucessfully done. Run cfg1
+18/06/30 01:36:15:950: CHANGE_CFG cfg2; Change counter: 449
+18/06/30 01:36:22:967: Change configuration sucessfully done. Run cfg2
+18/06/30 01:37:23:682: CHANGE_CFG cfg1; Change counter: 450
+18/06/30 01:37:30:691: Change configuration sucessfully done. Run cfg1
+18/06/30 01:38:31:429: CHANGE_CFG cfg2; Change counter: 451
+18/06/30 01:38:38:443: Change configuration sucessfully done. Run cfg2
+18/06/30 01:39:39:140: CHANGE_CFG cfg1; Change counter: 452
+18/06/30 01:39:46:150: Change configuration sucessfully done. Run cfg1
+18/06/30 01:40:46:882: CHANGE_CFG cfg2; Change counter: 453
+18/06/30 01:40:53:895: Change configuration sucessfully done. Run cfg2
+18/06/30 01:41:54:582: CHANGE_CFG cfg1; Change counter: 454
+18/06/30 01:42:01:596: Change configuration sucessfully done. Run cfg1
+18/06/30 01:43:02:300: CHANGE_CFG cfg2; Change counter: 455
+18/06/30 01:43:09:318: Change configuration sucessfully done. Run cfg2
+18/06/30 01:44:10:073: CHANGE_CFG cfg1; Change counter: 456
+18/06/30 01:44:17:093: Change configuration sucessfully done. Run cfg1
+18/06/30 01:45:17:841: CHANGE_CFG cfg2; Change counter: 457
+18/06/30 01:45:24:855: Change configuration sucessfully done. Run cfg2
+18/06/30 01:46:25:576: CHANGE_CFG cfg1; Change counter: 458
+18/06/30 01:46:32:584: Change configuration sucessfully done. Run cfg1
+18/06/30 01:47:33:349: CHANGE_CFG cfg2; Change counter: 459
+18/06/30 01:47:40:366: Change configuration sucessfully done. Run cfg2
+18/06/30 01:48:41:116: CHANGE_CFG cfg1; Change counter: 460
+18/06/30 01:48:48:139: Change configuration sucessfully done. Run cfg1
+18/06/30 01:49:48:866: CHANGE_CFG cfg2; Change counter: 461
+18/06/30 01:49:55:878: Change configuration sucessfully done. Run cfg2
+18/06/30 01:50:56:610: CHANGE_CFG cfg1; Change counter: 462
+18/06/30 01:51:03:622: Change configuration sucessfully done. Run cfg1
+18/06/30 01:52:04:399: CHANGE_CFG cfg2; Change counter: 463
+18/06/30 01:52:11:418: Change configuration sucessfully done. Run cfg2
+18/06/30 01:53:12:183: CHANGE_CFG cfg1; Change counter: 464
+18/06/30 01:53:19:194: Change configuration sucessfully done. Run cfg1
+18/06/30 01:54:19:940: CHANGE_CFG cfg2; Change counter: 465
+18/06/30 01:54:26:953: Change configuration sucessfully done. Run cfg2
+18/06/30 01:55:27:678: CHANGE_CFG cfg1; Change counter: 466
+18/06/30 01:55:34:689: Change configuration sucessfully done. Run cfg1
+18/06/30 01:56:35:408: CHANGE_CFG cfg2; Change counter: 467
+18/06/30 01:56:42:416: Change configuration sucessfully done. Run cfg2
+18/06/30 01:57:43:165: CHANGE_CFG cfg1; Change counter: 468
+18/06/30 01:57:50:180: Change configuration sucessfully done. Run cfg1
+18/06/30 01:58:50:893: CHANGE_CFG cfg2; Change counter: 469
+18/06/30 01:58:57:903: Change configuration sucessfully done. Run cfg2
+18/06/30 01:59:58:663: CHANGE_CFG cfg1; Change counter: 470
+18/06/30 02:00:05:676: Change configuration sucessfully done. Run cfg1
+18/06/30 02:01:06:461: CHANGE_CFG cfg2; Change counter: 471
+18/06/30 02:01:13:470: Change configuration sucessfully done. Run cfg2
+18/06/30 02:02:14:203: CHANGE_CFG cfg1; Change counter: 472
+18/06/30 02:02:21:218: Change configuration sucessfully done. Run cfg1
+18/06/30 02:03:21:922: CHANGE_CFG cfg2; Change counter: 473
+18/06/30 02:03:28:928: Change configuration sucessfully done. Run cfg2
+18/06/30 02:04:29:679: CHANGE_CFG cfg1; Change counter: 474
+18/06/30 02:04:36:706: Change configuration sucessfully done. Run cfg1
+18/06/30 02:05:37:416: CHANGE_CFG cfg2; Change counter: 475
+18/06/30 02:05:44:424: Change configuration sucessfully done. Run cfg2
+18/06/30 02:06:45:187: CHANGE_CFG cfg1; Change counter: 476
+18/06/30 02:06:52:208: Change configuration sucessfully done. Run cfg1
+18/06/30 02:07:52:956: CHANGE_CFG cfg2; Change counter: 477
+18/06/30 02:07:59:964: Change configuration sucessfully done. Run cfg2
+18/06/30 02:09:00:704: CHANGE_CFG cfg1; Change counter: 478
+18/06/30 02:09:07:715: Change configuration sucessfully done. Run cfg1
+18/06/30 02:10:08:458: CHANGE_CFG cfg2; Change counter: 479
+18/06/30 02:10:15:465: Change configuration sucessfully done. Run cfg2
+18/06/30 02:11:16:223: CHANGE_CFG cfg1; Change counter: 480
+18/06/30 02:11:23:233: Change configuration sucessfully done. Run cfg1
+18/06/30 02:12:23:983: CHANGE_CFG cfg2; Change counter: 481
+18/06/30 02:12:31:006: Change configuration sucessfully done. Run cfg2
+18/06/30 02:13:31:748: CHANGE_CFG cfg1; Change counter: 482
+18/06/30 02:13:38:757: Change configuration sucessfully done. Run cfg1
+18/06/30 02:14:39:546: CHANGE_CFG cfg2; Change counter: 483
+18/06/30 02:14:46:556: Change configuration sucessfully done. Run cfg2
+18/06/30 02:15:47:305: CHANGE_CFG cfg1; Change counter: 484
+18/06/30 02:15:54:313: Change configuration sucessfully done. Run cfg1
+18/06/30 02:16:55:091: CHANGE_CFG cfg2; Change counter: 485
+18/06/30 02:17:02:104: Change configuration sucessfully done. Run cfg2
+18/06/30 02:18:02:817: CHANGE_CFG cfg1; Change counter: 486
+18/06/30 02:18:09:827: Change configuration sucessfully done. Run cfg1
+18/06/30 02:19:10:611: CHANGE_CFG cfg2; Change counter: 487
+18/06/30 02:19:17:622: Change configuration sucessfully done. Run cfg2
+18/06/30 02:20:18:331: CHANGE_CFG cfg1; Change counter: 488
+18/06/30 02:20:25:348: Change configuration sucessfully done. Run cfg1
+18/06/30 02:21:26:066: CHANGE_CFG cfg2; Change counter: 489
+18/06/30 02:21:33:078: Change configuration sucessfully done. Run cfg2
+18/06/30 02:22:33:857: CHANGE_CFG cfg1; Change counter: 490
+18/06/30 02:22:40:889: Change configuration sucessfully done. Run cfg1
+18/06/30 02:23:41:613: CHANGE_CFG cfg2; Change counter: 491
+18/06/30 02:23:48:640: Change configuration sucessfully done. Run cfg2
+18/06/30 02:24:49:395: CHANGE_CFG cfg1; Change counter: 492
+18/06/30 02:24:56:410: Change configuration sucessfully done. Run cfg1
+18/06/30 02:25:57:139: CHANGE_CFG cfg2; Change counter: 493
+18/06/30 02:26:04:148: Change configuration sucessfully done. Run cfg2
+18/06/30 02:27:04:868: CHANGE_CFG cfg1; Change counter: 494
+18/06/30 02:27:11:892: Change configuration sucessfully done. Run cfg1
+18/06/30 02:28:12:686: CHANGE_CFG cfg2; Change counter: 495
+18/06/30 02:28:19:708: Change configuration sucessfully done. Run cfg2
+18/06/30 02:29:20:460: CHANGE_CFG cfg1; Change counter: 496
+18/06/30 02:29:27:469: Change configuration sucessfully done. Run cfg1
+18/06/30 02:30:28:219: CHANGE_CFG cfg2; Change counter: 497
+18/06/30 02:30:35:233: Change configuration sucessfully done. Run cfg2
+18/06/30 02:31:36:036: CHANGE_CFG cfg1; Change counter: 498
+18/06/30 02:31:43:047: Change configuration sucessfully done. Run cfg1
+18/06/30 02:32:43:787: CHANGE_CFG cfg2; Change counter: 499
+18/06/30 02:32:50:812: Change configuration sucessfully done. Run cfg2
+18/06/30 02:33:51:504: CHANGE_CFG cfg1; Change counter: 500
+18/06/30 02:33:58:521: Change configuration sucessfully done. Run cfg1
+18/06/30 02:34:59:279: CHANGE_CFG cfg2; Change counter: 501
+18/06/30 02:35:06:305: Change configuration sucessfully done. Run cfg2
+18/06/30 02:36:07:038: CHANGE_CFG cfg1; Change counter: 502
+18/06/30 02:36:14:061: Change configuration sucessfully done. Run cfg1
+18/06/30 02:37:14:797: CHANGE_CFG cfg2; Change counter: 503
+18/06/30 02:37:21:808: Change configuration sucessfully done. Run cfg2
+18/06/30 02:38:22:550: CHANGE_CFG cfg1; Change counter: 504
+18/06/30 02:38:29:562: Change configuration sucessfully done. Run cfg1
+18/06/30 02:39:30:270: CHANGE_CFG cfg2; Change counter: 505
+18/06/30 02:39:37:293: Change configuration sucessfully done. Run cfg2
+18/06/30 02:40:38:021: CHANGE_CFG cfg1; Change counter: 506
+18/06/30 02:40:45:029: Change configuration sucessfully done. Run cfg1
+18/06/30 02:41:45:797: CHANGE_CFG cfg2; Change counter: 507
+18/06/30 02:41:52:807: Change configuration sucessfully done. Run cfg2
+18/06/30 02:42:53:554: CHANGE_CFG cfg1; Change counter: 508
+18/06/30 02:43:00:577: Change configuration sucessfully done. Run cfg1
+18/06/30 02:44:01:344: CHANGE_CFG cfg2; Change counter: 509
+18/06/30 02:44:08:356: Change configuration sucessfully done. Run cfg2
+18/06/30 02:45:09:045: CHANGE_CFG cfg1; Change counter: 510
+18/06/30 02:45:16:053: Change configuration sucessfully done. Run cfg1
+18/06/30 02:46:16:774: CHANGE_CFG cfg2; Change counter: 511
+18/06/30 02:46:23:779: Change configuration sucessfully done. Run cfg2
+18/06/30 02:47:24:506: CHANGE_CFG cfg1; Change counter: 512
+18/06/30 02:47:31:520: Change configuration sucessfully done. Run cfg1
+18/06/30 02:48:32:273: CHANGE_CFG cfg2; Change counter: 513
+18/06/30 02:48:39:286: Change configuration sucessfully done. Run cfg2
+18/06/30 02:49:40:017: CHANGE_CFG cfg1; Change counter: 514
+18/06/30 02:49:47:029: Change configuration sucessfully done. Run cfg1
+18/06/30 02:50:47:809: CHANGE_CFG cfg2; Change counter: 515
+18/06/30 02:50:54:830: Change configuration sucessfully done. Run cfg2
+18/06/30 02:51:55:558: CHANGE_CFG cfg1; Change counter: 516
+18/06/30 02:52:02:568: Change configuration sucessfully done. Run cfg1
+18/06/30 02:53:03:285: CHANGE_CFG cfg2; Change counter: 517
+18/06/30 02:53:10:288: Change configuration sucessfully done. Run cfg2
+18/06/30 02:54:11:017: CHANGE_CFG cfg1; Change counter: 518
+18/06/30 02:54:18:027: Change configuration sucessfully done. Run cfg1
+18/06/30 02:55:18:788: CHANGE_CFG cfg2; Change counter: 519
+18/06/30 02:55:25:795: Change configuration sucessfully done. Run cfg2
+18/06/30 02:56:26:545: CHANGE_CFG cfg1; Change counter: 520
+18/06/30 02:56:33:559: Change configuration sucessfully done. Run cfg1
+18/06/30 02:57:34:300: CHANGE_CFG cfg2; Change counter: 521
+18/06/30 02:57:41:311: Change configuration sucessfully done. Run cfg2
+18/06/30 02:58:42:038: CHANGE_CFG cfg1; Change counter: 522
+18/06/30 02:58:49:052: Change configuration sucessfully done. Run cfg1
+18/06/30 02:59:49:775: CHANGE_CFG cfg2; Change counter: 523
+18/06/30 02:59:56:795: Change configuration sucessfully done. Run cfg2
+18/06/30 03:00:57:532: CHANGE_CFG cfg1; Change counter: 524
+18/06/30 03:01:04:544: Change configuration sucessfully done. Run cfg1
+18/06/30 03:02:05:295: CHANGE_CFG cfg2; Change counter: 525
+18/06/30 03:02:12:307: Change configuration sucessfully done. Run cfg2
+18/06/30 03:03:12:977: CHANGE_CFG cfg1; Change counter: 526
+18/06/30 03:03:19:990: Change configuration sucessfully done. Run cfg1
+18/06/30 03:04:20:743: CHANGE_CFG cfg2; Change counter: 527
+18/06/30 03:04:27:752: Change configuration sucessfully done. Run cfg2
+18/06/30 03:05:28:474: CHANGE_CFG cfg1; Change counter: 528
+18/06/30 03:05:35:486: Change configuration sucessfully done. Run cfg1
+18/06/30 03:06:36:246: CHANGE_CFG cfg2; Change counter: 529
+18/06/30 03:06:43:256: Change configuration sucessfully done. Run cfg2
+18/06/30 03:07:43:993: CHANGE_CFG cfg1; Change counter: 530
+18/06/30 03:07:51:003: Change configuration sucessfully done. Run cfg1
+18/06/30 03:08:51:778: CHANGE_CFG cfg2; Change counter: 531
+18/06/30 03:08:58:793: Change configuration sucessfully done. Run cfg2
+18/06/30 03:09:59:547: CHANGE_CFG cfg1; Change counter: 532
+18/06/30 03:10:06:556: Change configuration sucessfully done. Run cfg1
+18/06/30 03:11:07:284: CHANGE_CFG cfg2; Change counter: 533
+18/06/30 03:11:14:293: Change configuration sucessfully done. Run cfg2
+18/06/30 03:12:15:040: CHANGE_CFG cfg1; Change counter: 534
+18/06/30 03:12:22:056: Change configuration sucessfully done. Run cfg1
+18/06/30 03:13:22:743: CHANGE_CFG cfg2; Change counter: 535
+18/06/30 03:13:29:752: Change configuration sucessfully done. Run cfg2
+18/06/30 03:14:30:486: CHANGE_CFG cfg1; Change counter: 536
+18/06/30 03:14:37:505: Change configuration sucessfully done. Run cfg1
+18/06/30 03:15:38:235: CHANGE_CFG cfg2; Change counter: 537
+18/06/30 03:15:45:249: Change configuration sucessfully done. Run cfg2
+18/06/30 03:16:45:995: CHANGE_CFG cfg1; Change counter: 538
+18/06/30 03:16:53:007: Change configuration sucessfully done. Run cfg1
+18/06/30 03:17:53:795: CHANGE_CFG cfg2; Change counter: 539
+18/06/30 03:18:00:807: Change configuration sucessfully done. Run cfg2
+18/06/30 03:19:01:547: CHANGE_CFG cfg1; Change counter: 540
+18/06/30 03:19:08:558: Change configuration sucessfully done. Run cfg1
+18/06/30 03:20:09:317: CHANGE_CFG cfg2; Change counter: 541
+18/06/30 03:20:16:331: Change configuration sucessfully done. Run cfg2
+18/06/30 03:21:17:051: CHANGE_CFG cfg1; Change counter: 542
+18/06/30 03:21:24:076: Change configuration sucessfully done. Run cfg1
+18/06/30 03:22:24:767: CHANGE_CFG cfg2; Change counter: 543
+18/06/30 03:22:31:794: Change configuration sucessfully done. Run cfg2
+18/06/30 03:23:32:528: CHANGE_CFG cfg1; Change counter: 544
+18/06/30 03:23:39:538: Change configuration sucessfully done. Run cfg1
+18/06/30 03:24:40:272: CHANGE_CFG cfg2; Change counter: 545
+18/06/30 03:24:47:279: Change configuration sucessfully done. Run cfg2
+18/06/30 03:25:48:026: CHANGE_CFG cfg1; Change counter: 546
+18/06/30 03:25:55:035: Change configuration sucessfully done. Run cfg1
+18/06/30 03:26:55:766: CHANGE_CFG cfg2; Change counter: 547
+18/06/30 03:27:02:781: Change configuration sucessfully done. Run cfg2
+18/06/30 03:28:03:517: CHANGE_CFG cfg1; Change counter: 548
+18/06/30 03:28:10:528: Change configuration sucessfully done. Run cfg1
+18/06/30 03:29:11:315: CHANGE_CFG cfg2; Change counter: 549
+18/06/30 03:29:18:336: Change configuration sucessfully done. Run cfg2
+18/06/30 03:30:19:124: CHANGE_CFG cfg1; Change counter: 550
+18/06/30 03:30:26:136: Change configuration sucessfully done. Run cfg1
+18/06/30 03:31:26:882: CHANGE_CFG cfg2; Change counter: 551
+18/06/30 03:31:33:896: Change configuration sucessfully done. Run cfg2
+18/06/30 03:32:34:645: CHANGE_CFG cfg1; Change counter: 552
+18/06/30 03:32:41:685: Change configuration sucessfully done. Run cfg1
+18/06/30 03:33:42:452: CHANGE_CFG cfg2; Change counter: 553
+18/06/30 03:33:49:461: Change configuration sucessfully done. Run cfg2
+18/06/30 03:34:50:231: CHANGE_CFG cfg1; Change counter: 554
+18/06/30 03:34:57:245: Change configuration sucessfully done. Run cfg1
+18/06/30 03:35:58:000: CHANGE_CFG cfg2; Change counter: 555
+18/06/30 03:36:05:025: Change configuration sucessfully done. Run cfg2
+18/06/30 03:37:05:741: CHANGE_CFG cfg1; Change counter: 556
+18/06/30 03:37:12:755: Change configuration sucessfully done. Run cfg1
+18/06/30 03:38:13:498: CHANGE_CFG cfg2; Change counter: 557
+18/06/30 03:38:20:522: Change configuration sucessfully done. Run cfg2
+18/06/30 03:39:21:267: CHANGE_CFG cfg1; Change counter: 558
+18/06/30 03:39:28:281: Change configuration sucessfully done. Run cfg1
+18/06/30 03:40:28:924: CHANGE_CFG cfg2; Change counter: 559
+18/06/30 03:40:35:934: Change configuration sucessfully done. Run cfg2
+18/06/30 03:41:36:807: CHANGE_CFG cfg1; Change counter: 560
+18/06/30 03:41:43:826: Change configuration sucessfully done. Run cfg1
+18/06/30 03:42:44:712: CHANGE_CFG cfg2; Change counter: 561
+18/06/30 03:42:51:751: Change configuration sucessfully done. Run cfg2
+18/06/30 03:43:52:488: CHANGE_CFG cfg1; Change counter: 562
+18/06/30 03:43:59:504: Change configuration sucessfully done. Run cfg1
+18/06/30 03:45:00:266: CHANGE_CFG cfg2; Change counter: 563
+18/06/30 03:45:07:284: Change configuration sucessfully done. Run cfg2
+18/06/30 03:46:08:154: CHANGE_CFG cfg1; Change counter: 564
+18/06/30 03:46:15:175: Change configuration sucessfully done. Run cfg1
+18/06/30 03:47:16:075: CHANGE_CFG cfg2; Change counter: 565
+18/06/30 03:47:23:087: Change configuration sucessfully done. Run cfg2
+18/06/30 03:48:23:888: CHANGE_CFG cfg1; Change counter: 566
+18/06/30 03:48:30:913: Change configuration sucessfully done. Run cfg1
+18/06/30 03:49:31:763: CHANGE_CFG cfg2; Change counter: 567
+18/06/30 03:49:38:783: Change configuration sucessfully done. Run cfg2
+18/06/30 03:50:39:765: CHANGE_CFG cfg1; Change counter: 568
+18/06/30 03:50:46:784: Change configuration sucessfully done. Run cfg1
+18/06/30 03:51:47:509: CHANGE_CFG cfg2; Change counter: 569
+18/06/30 03:51:54:522: Change configuration sucessfully done. Run cfg2
+18/06/30 03:52:55:263: CHANGE_CFG cfg1; Change counter: 570
+18/06/30 03:53:02:276: Change configuration sucessfully done. Run cfg1
+18/06/30 03:54:03:023: CHANGE_CFG cfg2; Change counter: 571
+18/06/30 03:54:10:032: Change configuration sucessfully done. Run cfg2
+18/06/30 03:55:10:770: CHANGE_CFG cfg1; Change counter: 572
+18/06/30 03:55:17:791: Change configuration sucessfully done. Run cfg1
+18/06/30 03:56:18:583: CHANGE_CFG cfg2; Change counter: 573
+18/06/30 03:56:25:588: Change configuration sucessfully done. Run cfg2
+18/06/30 03:57:26:323: CHANGE_CFG cfg1; Change counter: 574
+18/06/30 03:57:33:334: Change configuration sucessfully done. Run cfg1
+18/06/30 03:58:34:083: CHANGE_CFG cfg2; Change counter: 575
+18/06/30 03:58:41:096: Change configuration sucessfully done. Run cfg2
+18/06/30 03:59:41:832: CHANGE_CFG cfg1; Change counter: 576
+18/06/30 03:59:48:845: Change configuration sucessfully done. Run cfg1
+18/06/30 04:00:49:582: CHANGE_CFG cfg2; Change counter: 577
+18/06/30 04:00:56:591: Change configuration sucessfully done. Run cfg2
+18/06/30 04:01:57:314: CHANGE_CFG cfg1; Change counter: 578
+18/06/30 04:02:04:323: Change configuration sucessfully done. Run cfg1
+18/06/30 04:03:05:047: CHANGE_CFG cfg2; Change counter: 579
+18/06/30 04:03:12:061: Change configuration sucessfully done. Run cfg2
+18/06/30 04:04:12:811: CHANGE_CFG cfg1; Change counter: 580
+18/06/30 04:04:19:822: Change configuration sucessfully done. Run cfg1
+18/06/30 04:05:20:555: CHANGE_CFG cfg2; Change counter: 581
+18/06/30 04:05:27:572: Change configuration sucessfully done. Run cfg2
+18/06/30 04:06:28:330: CHANGE_CFG cfg1; Change counter: 582
+18/06/30 04:06:35:338: Change configuration sucessfully done. Run cfg1
+18/06/30 04:07:36:106: CHANGE_CFG cfg2; Change counter: 583
+18/06/30 04:07:43:112: Change configuration sucessfully done. Run cfg2
+18/06/30 04:08:43:857: CHANGE_CFG cfg1; Change counter: 584
+18/06/30 04:08:50:875: Change configuration sucessfully done. Run cfg1
+18/06/30 04:09:51:620: CHANGE_CFG cfg2; Change counter: 585
+18/06/30 04:09:58:629: Change configuration sucessfully done. Run cfg2
+18/06/30 04:10:59:349: CHANGE_CFG cfg1; Change counter: 586
+18/06/30 04:11:06:363: Change configuration sucessfully done. Run cfg1
+18/06/30 04:12:07:133: CHANGE_CFG cfg2; Change counter: 587
+18/06/30 04:12:14:143: Change configuration sucessfully done. Run cfg2
+18/06/30 04:13:14:864: CHANGE_CFG cfg1; Change counter: 588
+18/06/30 04:13:21:881: Change configuration sucessfully done. Run cfg1
+18/06/30 04:14:22:579: CHANGE_CFG cfg2; Change counter: 589
+18/06/30 04:14:29:589: Change configuration sucessfully done. Run cfg2
+18/06/30 04:15:30:344: CHANGE_CFG cfg1; Change counter: 590
+18/06/30 04:15:37:368: Change configuration sucessfully done. Run cfg1
+18/06/30 04:16:38:128: CHANGE_CFG cfg2; Change counter: 591
+18/06/30 04:16:45:136: Change configuration sucessfully done. Run cfg2
+18/06/30 04:17:45:894: CHANGE_CFG cfg1; Change counter: 592
+18/06/30 04:17:52:907: Change configuration sucessfully done. Run cfg1
+18/06/30 04:18:53:639: CHANGE_CFG cfg2; Change counter: 593
+18/06/30 04:19:00:646: Change configuration sucessfully done. Run cfg2
+18/06/30 04:20:01:356: CHANGE_CFG cfg1; Change counter: 594
+18/06/30 04:20:08:368: Change configuration sucessfully done. Run cfg1
+18/06/30 04:21:09:101: CHANGE_CFG cfg2; Change counter: 595
+18/06/30 04:21:16:112: Change configuration sucessfully done. Run cfg2
+18/06/30 04:22:16:817: CHANGE_CFG cfg1; Change counter: 596
+18/06/30 04:22:23:841: Change configuration sucessfully done. Run cfg1
+18/06/30 04:23:24:552: CHANGE_CFG cfg2; Change counter: 597
+18/06/30 04:23:31:561: Change configuration sucessfully done. Run cfg2
+18/06/30 04:24:32:372: CHANGE_CFG cfg1; Change counter: 598
+18/06/30 04:24:39:385: Change configuration sucessfully done. Run cfg1
+18/06/30 04:25:40:151: CHANGE_CFG cfg2; Change counter: 599
+18/06/30 04:25:47:160: Change configuration sucessfully done. Run cfg2
+18/06/30 04:26:47:896: CHANGE_CFG cfg1; Change counter: 600
+18/06/30 04:26:54:934: Change configuration sucessfully done. Run cfg1
+18/06/30 04:27:55:645: CHANGE_CFG cfg2; Change counter: 601
+18/06/30 04:28:02:672: Change configuration sucessfully done. Run cfg2
+18/06/30 04:29:03:448: CHANGE_CFG cfg1; Change counter: 602
+18/06/30 04:29:10:455: Change configuration sucessfully done. Run cfg1
+18/06/30 04:30:11:213: CHANGE_CFG cfg2; Change counter: 603
+18/06/30 04:30:18:219: Change configuration sucessfully done. Run cfg2
+18/06/30 04:31:18:937: CHANGE_CFG cfg1; Change counter: 604
+18/06/30 04:31:25:960: Change configuration sucessfully done. Run cfg1
+18/06/30 04:32:26:697: CHANGE_CFG cfg2; Change counter: 605
+18/06/30 04:32:33:701: Change configuration sucessfully done. Run cfg2
+18/06/30 04:33:34:487: CHANGE_CFG cfg1; Change counter: 606
+18/06/30 04:33:41:498: Change configuration sucessfully done. Run cfg1
+18/06/30 04:34:42:246: CHANGE_CFG cfg2; Change counter: 607
+18/06/30 04:34:49:262: Change configuration sucessfully done. Run cfg2
+18/06/30 04:35:50:055: CHANGE_CFG cfg1; Change counter: 608
+18/06/30 04:35:57:067: Change configuration sucessfully done. Run cfg1
+18/06/30 04:36:57:801: CHANGE_CFG cfg2; Change counter: 609
+18/06/30 04:37:04:810: Change configuration sucessfully done. Run cfg2
+18/06/30 04:38:05:622: CHANGE_CFG cfg1; Change counter: 610
+18/06/30 04:38:12:631: Change configuration sucessfully done. Run cfg1
+18/06/30 04:39:13:355: CHANGE_CFG cfg2; Change counter: 611
+18/06/30 04:39:20:364: Change configuration sucessfully done. Run cfg2
+18/06/30 04:40:21:062: CHANGE_CFG cfg1; Change counter: 612
+18/06/30 04:40:28:088: Change configuration sucessfully done. Run cfg1
+18/06/30 04:41:28:826: CHANGE_CFG cfg2; Change counter: 613
+18/06/30 04:41:35:851: Change configuration sucessfully done. Run cfg2
+18/06/30 04:42:36:569: CHANGE_CFG cfg1; Change counter: 614
+18/06/30 04:42:43:572: Change configuration sucessfully done. Run cfg1
+18/06/30 04:43:44:262: CHANGE_CFG cfg2; Change counter: 615
+18/06/30 04:43:51:278: Change configuration sucessfully done. Run cfg2
+18/06/30 04:44:52:028: CHANGE_CFG cfg1; Change counter: 616
+18/06/30 04:44:59:038: Change configuration sucessfully done. Run cfg1
+18/06/30 04:45:59:785: CHANGE_CFG cfg2; Change counter: 617
+18/06/30 04:46:06:798: Change configuration sucessfully done. Run cfg2
+18/06/30 04:47:07:503: CHANGE_CFG cfg1; Change counter: 618
+18/06/30 04:47:14:528: Change configuration sucessfully done. Run cfg1
+18/06/30 04:48:15:261: CHANGE_CFG cfg2; Change counter: 619
+18/06/30 04:48:22:272: Change configuration sucessfully done. Run cfg2
+18/06/30 04:49:23:049: CHANGE_CFG cfg1; Change counter: 620
+18/06/30 04:49:30:059: Change configuration sucessfully done. Run cfg1
+18/06/30 04:50:30:768: CHANGE_CFG cfg2; Change counter: 621
+18/06/30 04:50:37:777: Change configuration sucessfully done. Run cfg2
+18/06/30 04:51:38:547: CHANGE_CFG cfg1; Change counter: 622
+18/06/30 04:51:45:555: Change configuration sucessfully done. Run cfg1
+18/06/30 04:52:46:299: CHANGE_CFG cfg2; Change counter: 623
+18/06/30 04:52:53:316: Change configuration sucessfully done. Run cfg2
+18/06/30 04:53:54:098: CHANGE_CFG cfg1; Change counter: 624
+18/06/30 04:54:01:125: Change configuration sucessfully done. Run cfg1
+18/06/30 04:55:01:847: CHANGE_CFG cfg2; Change counter: 625
+18/06/30 04:55:08:865: Change configuration sucessfully done. Run cfg2
+18/06/30 04:56:09:578: CHANGE_CFG cfg1; Change counter: 626
+18/06/30 04:56:16:589: Change configuration sucessfully done. Run cfg1
+18/06/30 04:57:17:327: CHANGE_CFG cfg2; Change counter: 627
+18/06/30 04:57:24:354: Change configuration sucessfully done. Run cfg2
+18/06/30 04:58:25:056: CHANGE_CFG cfg1; Change counter: 628
+18/06/30 04:58:32:071: Change configuration sucessfully done. Run cfg1
+18/06/30 04:59:32:848: CHANGE_CFG cfg2; Change counter: 629
+18/06/30 04:59:39:856: Change configuration sucessfully done. Run cfg2
+18/06/30 05:00:40:615: CHANGE_CFG cfg1; Change counter: 630
+18/06/30 05:00:47:628: Change configuration sucessfully done. Run cfg1
+18/06/30 05:01:48:299: CHANGE_CFG cfg2; Change counter: 631
+18/06/30 05:01:55:306: Change configuration sucessfully done. Run cfg2
+18/06/30 05:02:56:037: CHANGE_CFG cfg1; Change counter: 632
+18/06/30 05:03:03:048: Change configuration sucessfully done. Run cfg1
+18/06/30 05:04:03:780: CHANGE_CFG cfg2; Change counter: 633
+18/06/30 05:04:10:802: Change configuration sucessfully done. Run cfg2
+18/06/30 05:05:11:534: CHANGE_CFG cfg1; Change counter: 634
+18/06/30 05:05:18:545: Change configuration sucessfully done. Run cfg1
+18/06/30 05:06:19:306: CHANGE_CFG cfg2; Change counter: 635
+18/06/30 05:06:26:317: Change configuration sucessfully done. Run cfg2
+18/06/30 05:07:27:069: CHANGE_CFG cfg1; Change counter: 636
+18/06/30 05:07:34:081: Change configuration sucessfully done. Run cfg1
+18/06/30 05:08:34:839: CHANGE_CFG cfg2; Change counter: 637
+18/06/30 05:08:41:850: Change configuration sucessfully done. Run cfg2
+18/06/30 05:09:42:618: CHANGE_CFG cfg1; Change counter: 638
+18/06/30 05:09:49:628: Change configuration sucessfully done. Run cfg1
+18/06/30 05:10:50:378: CHANGE_CFG cfg2; Change counter: 639
+18/06/30 05:10:57:390: Change configuration sucessfully done. Run cfg2
+18/06/30 05:11:58:149: CHANGE_CFG cfg1; Change counter: 640
+18/06/30 05:12:05:162: Change configuration sucessfully done. Run cfg1
+18/06/30 05:13:05:871: CHANGE_CFG cfg2; Change counter: 641
+18/06/30 05:13:12:879: Change configuration sucessfully done. Run cfg2
+18/06/30 05:14:13:603: CHANGE_CFG cfg1; Change counter: 642
+18/06/30 05:14:20:615: Change configuration sucessfully done. Run cfg1
+18/06/30 05:15:21:371: CHANGE_CFG cfg2; Change counter: 643
+18/06/30 05:15:28:388: Change configuration sucessfully done. Run cfg2
+18/06/30 05:16:29:120: CHANGE_CFG cfg1; Change counter: 644
+18/06/30 05:16:36:133: Change configuration sucessfully done. Run cfg1
+18/06/30 05:17:36:840: CHANGE_CFG cfg2; Change counter: 645
+18/06/30 05:17:43:846: Change configuration sucessfully done. Run cfg2
+18/06/30 05:18:44:563: CHANGE_CFG cfg1; Change counter: 646
+18/06/30 05:18:51:571: Change configuration sucessfully done. Run cfg1
+18/06/30 05:19:52:291: CHANGE_CFG cfg2; Change counter: 647
+18/06/30 05:19:59:301: Change configuration sucessfully done. Run cfg2
+18/06/30 05:21:00:101: CHANGE_CFG cfg1; Change counter: 648
+18/06/30 05:21:07:110: Change configuration sucessfully done. Run cfg1
+18/06/30 05:22:07:840: CHANGE_CFG cfg2; Change counter: 649
+18/06/30 05:22:14:848: Change configuration sucessfully done. Run cfg2
+18/06/30 05:23:15:568: CHANGE_CFG cfg1; Change counter: 650
+18/06/30 05:23:22:581: Change configuration sucessfully done. Run cfg1
+18/06/30 05:24:23:299: CHANGE_CFG cfg2; Change counter: 651
+18/06/30 05:24:30:316: Change configuration sucessfully done. Run cfg2
+18/06/30 05:25:31:057: CHANGE_CFG cfg1; Change counter: 652
+18/06/30 05:25:38:085: Change configuration sucessfully done. Run cfg1
+18/06/30 05:26:38:857: CHANGE_CFG cfg2; Change counter: 653
+18/06/30 05:26:45:871: Change configuration sucessfully done. Run cfg2
+18/06/30 05:27:46:620: CHANGE_CFG cfg1; Change counter: 654
+18/06/30 05:27:53:640: Change configuration sucessfully done. Run cfg1
+18/06/30 05:28:54:392: CHANGE_CFG cfg2; Change counter: 655
+18/06/30 05:29:01:400: Change configuration sucessfully done. Run cfg2
+18/06/30 05:30:02:143: CHANGE_CFG cfg1; Change counter: 656
+18/06/30 05:30:09:156: Change configuration sucessfully done. Run cfg1
+18/06/30 05:31:09:911: CHANGE_CFG cfg2; Change counter: 657
+18/06/30 05:31:16:921: Change configuration sucessfully done. Run cfg2
+18/06/30 05:32:17:667: CHANGE_CFG cfg1; Change counter: 658
+18/06/30 05:32:24:686: Change configuration sucessfully done. Run cfg1
+18/06/30 05:33:25:448: CHANGE_CFG cfg2; Change counter: 659
+18/06/30 05:33:32:458: Change configuration sucessfully done. Run cfg2
+18/06/30 05:34:33:161: CHANGE_CFG cfg1; Change counter: 660
+18/06/30 05:34:40:167: Change configuration sucessfully done. Run cfg1
+18/06/30 05:35:40:864: CHANGE_CFG cfg2; Change counter: 661
+18/06/30 05:35:47:873: Change configuration sucessfully done. Run cfg2
+18/06/30 05:36:48:657: CHANGE_CFG cfg1; Change counter: 662
+18/06/30 05:36:55:668: Change configuration sucessfully done. Run cfg1
+18/06/30 05:37:56:424: CHANGE_CFG cfg2; Change counter: 663
+18/06/30 05:38:03:461: Change configuration sucessfully done. Run cfg2
+18/06/30 05:39:04:178: CHANGE_CFG cfg1; Change counter: 664
+18/06/30 05:39:11:187: Change configuration sucessfully done. Run cfg1
+18/06/30 05:40:11:903: CHANGE_CFG cfg2; Change counter: 665
+18/06/30 05:40:18:922: Change configuration sucessfully done. Run cfg2
+18/06/30 05:41:19:626: CHANGE_CFG cfg1; Change counter: 666
+18/06/30 05:41:26:638: Change configuration sucessfully done. Run cfg1
+18/06/30 05:42:27:372: CHANGE_CFG cfg2; Change counter: 667
+18/06/30 05:42:34:380: Change configuration sucessfully done. Run cfg2
+18/06/30 05:43:35:130: CHANGE_CFG cfg1; Change counter: 668
+18/06/30 05:43:42:143: Change configuration sucessfully done. Run cfg1
+18/06/30 05:44:42:929: CHANGE_CFG cfg2; Change counter: 669
+18/06/30 05:44:49:940: Change configuration sucessfully done. Run cfg2
+18/06/30 05:45:50:687: CHANGE_CFG cfg1; Change counter: 670
+18/06/30 05:45:57:706: Change configuration sucessfully done. Run cfg1
+18/06/30 05:46:58:471: CHANGE_CFG cfg2; Change counter: 671
+18/06/30 05:47:05:482: Change configuration sucessfully done. Run cfg2
+18/06/30 05:48:06:188: CHANGE_CFG cfg1; Change counter: 672
+18/06/30 05:48:13:195: Change configuration sucessfully done. Run cfg1
+18/06/30 05:49:13:969: CHANGE_CFG cfg2; Change counter: 673
+18/06/30 05:49:20:978: Change configuration sucessfully done. Run cfg2
+18/06/30 05:50:21:715: CHANGE_CFG cfg1; Change counter: 674
+18/06/30 05:50:28:729: Change configuration sucessfully done. Run cfg1
+18/06/30 05:51:29:498: CHANGE_CFG cfg2; Change counter: 675
+18/06/30 05:51:36:509: Change configuration sucessfully done. Run cfg2
+18/06/30 05:52:37:226: CHANGE_CFG cfg1; Change counter: 676
+18/06/30 05:52:44:236: Change configuration sucessfully done. Run cfg1
+18/06/30 05:53:44:953: CHANGE_CFG cfg2; Change counter: 677
+18/06/30 05:53:51:964: Change configuration sucessfully done. Run cfg2
+18/06/30 05:54:52:776: CHANGE_CFG cfg1; Change counter: 678
+18/06/30 05:54:59:795: Change configuration sucessfully done. Run cfg1
+18/06/30 05:56:00:531: CHANGE_CFG cfg2; Change counter: 679
+18/06/30 05:56:07:539: Change configuration sucessfully done. Run cfg2
+18/06/30 05:57:08:272: CHANGE_CFG cfg1; Change counter: 680
+18/06/30 05:57:15:282: Change configuration sucessfully done. Run cfg1
+18/06/30 05:58:15:997: CHANGE_CFG cfg2; Change counter: 681
+18/06/30 05:58:23:009: Change configuration sucessfully done. Run cfg2
+18/06/30 05:59:23:773: CHANGE_CFG cfg1; Change counter: 682
+18/06/30 05:59:30:784: Change configuration sucessfully done. Run cfg1
+18/06/30 06:00:31:504: CHANGE_CFG cfg2; Change counter: 683
+18/06/30 06:00:38:515: Change configuration sucessfully done. Run cfg2
+18/06/30 06:01:39:235: CHANGE_CFG cfg1; Change counter: 684
+18/06/30 06:01:46:259: Change configuration sucessfully done. Run cfg1
+18/06/30 06:02:46:964: CHANGE_CFG cfg2; Change counter: 685
+18/06/30 06:02:53:986: Change configuration sucessfully done. Run cfg2
+18/06/30 06:03:54:735: CHANGE_CFG cfg1; Change counter: 686
+18/06/30 06:04:01:747: Change configuration sucessfully done. Run cfg1
+18/06/30 06:05:02:481: CHANGE_CFG cfg2; Change counter: 687
+18/06/30 06:05:09:495: Change configuration sucessfully done. Run cfg2
+18/06/30 06:06:10:219: CHANGE_CFG cfg1; Change counter: 688
+18/06/30 06:06:17:229: Change configuration sucessfully done. Run cfg1
+18/06/30 06:07:17:964: CHANGE_CFG cfg2; Change counter: 689
+18/06/30 06:07:24:984: Change configuration sucessfully done. Run cfg2
+18/06/30 06:08:25:713: CHANGE_CFG cfg1; Change counter: 690
+18/06/30 06:08:32:732: Change configuration sucessfully done. Run cfg1
+18/06/30 06:09:33:484: CHANGE_CFG cfg2; Change counter: 691
+18/06/30 06:09:40:493: Change configuration sucessfully done. Run cfg2
+18/06/30 06:10:41:252: CHANGE_CFG cfg1; Change counter: 692
+18/06/30 06:10:48:266: Change configuration sucessfully done. Run cfg1
+18/06/30 06:11:49:004: CHANGE_CFG cfg2; Change counter: 693
+18/06/30 06:11:56:024: Change configuration sucessfully done. Run cfg2
+18/06/30 06:12:56:790: CHANGE_CFG cfg1; Change counter: 694
+18/06/30 06:13:03:815: Change configuration sucessfully done. Run cfg1
+18/06/30 06:14:04:562: CHANGE_CFG cfg2; Change counter: 695
+18/06/30 06:14:11:576: Change configuration sucessfully done. Run cfg2
+18/06/30 06:15:12:324: CHANGE_CFG cfg1; Change counter: 696
+18/06/30 06:15:19:337: Change configuration sucessfully done. Run cfg1
+18/06/30 06:16:20:076: CHANGE_CFG cfg2; Change counter: 697
+18/06/30 06:16:27:089: Change configuration sucessfully done. Run cfg2
+18/06/30 06:17:27:853: CHANGE_CFG cfg1; Change counter: 698
+18/06/30 06:17:34:865: Change configuration sucessfully done. Run cfg1
+18/06/30 06:18:35:589: CHANGE_CFG cfg2; Change counter: 699
+18/06/30 06:18:42:601: Change configuration sucessfully done. Run cfg2
+18/06/30 06:19:43:357: CHANGE_CFG cfg1; Change counter: 700
+18/06/30 06:19:50:362: Change configuration sucessfully done. Run cfg1
+18/06/30 06:20:51:092: CHANGE_CFG cfg2; Change counter: 701
+18/06/30 06:20:58:108: Change configuration sucessfully done. Run cfg2
+18/06/30 06:21:58:855: CHANGE_CFG cfg1; Change counter: 702
+18/06/30 06:22:05:870: Change configuration sucessfully done. Run cfg1
+18/06/30 06:23:06:584: CHANGE_CFG cfg2; Change counter: 703
+18/06/30 06:23:13:595: Change configuration sucessfully done. Run cfg2
+18/06/30 06:24:14:342: CHANGE_CFG cfg1; Change counter: 704
+18/06/30 06:24:21:357: Change configuration sucessfully done. Run cfg1
+18/06/30 06:25:22:107: CHANGE_CFG cfg2; Change counter: 705
+18/06/30 06:25:29:121: Change configuration sucessfully done. Run cfg2
+18/06/30 06:26:29:822: CHANGE_CFG cfg1; Change counter: 706
+18/06/30 06:26:36:832: Change configuration sucessfully done. Run cfg1
+18/06/30 06:27:37:619: CHANGE_CFG cfg2; Change counter: 707
+18/06/30 06:27:44:631: Change configuration sucessfully done. Run cfg2
+18/06/30 06:28:45:383: CHANGE_CFG cfg1; Change counter: 708
+18/06/30 06:28:52:399: Change configuration sucessfully done. Run cfg1
+18/06/30 06:29:53:151: CHANGE_CFG cfg2; Change counter: 709
+18/06/30 06:30:00:164: Change configuration sucessfully done. Run cfg2
+18/06/30 06:31:00:849: CHANGE_CFG cfg1; Change counter: 710
+18/06/30 06:31:07:855: Change configuration sucessfully done. Run cfg1
+18/06/30 06:32:08:563: CHANGE_CFG cfg2; Change counter: 711
+18/06/30 06:32:15:575: Change configuration sucessfully done. Run cfg2
+18/06/30 06:33:16:242: CHANGE_CFG cfg1; Change counter: 712
+18/06/30 06:33:23:266: Change configuration sucessfully done. Run cfg1
+18/06/30 06:34:24:025: CHANGE_CFG cfg2; Change counter: 713
+18/06/30 06:34:31:041: Change configuration sucessfully done. Run cfg2
+18/06/30 06:35:31:749: CHANGE_CFG cfg1; Change counter: 714
+18/06/30 06:35:38:761: Change configuration sucessfully done. Run cfg1
+18/06/30 06:36:39:484: CHANGE_CFG cfg2; Change counter: 715
+18/06/30 06:36:46:493: Change configuration sucessfully done. Run cfg2
+18/06/30 06:37:47:220: CHANGE_CFG cfg1; Change counter: 716
+18/06/30 06:37:54:238: Change configuration sucessfully done. Run cfg1
+18/06/30 06:38:54:962: CHANGE_CFG cfg2; Change counter: 717
+18/06/30 06:39:01:978: Change configuration sucessfully done. Run cfg2
+18/06/30 06:40:02:742: CHANGE_CFG cfg1; Change counter: 718
+18/06/30 06:40:09:754: Change configuration sucessfully done. Run cfg1
+18/06/30 06:41:10:522: CHANGE_CFG cfg2; Change counter: 719
+18/06/30 06:41:17:550: Change configuration sucessfully done. Run cfg2
+18/06/30 06:42:18:316: CHANGE_CFG cfg1; Change counter: 720
+18/06/30 06:42:25:336: Change configuration sucessfully done. Run cfg1
+18/06/30 06:43:26:051: CHANGE_CFG cfg2; Change counter: 721
+18/06/30 06:43:33:068: Change configuration sucessfully done. Run cfg2
+18/06/30 06:44:33:819: CHANGE_CFG cfg1; Change counter: 722
+18/06/30 06:44:40:832: Change configuration sucessfully done. Run cfg1
+18/06/30 06:45:41:575: CHANGE_CFG cfg2; Change counter: 723
+18/06/30 06:45:48:588: Change configuration sucessfully done. Run cfg2
+18/06/30 06:46:49:300: CHANGE_CFG cfg1; Change counter: 724
+18/06/30 06:46:56:311: Change configuration sucessfully done. Run cfg1
+18/06/30 06:47:57:057: CHANGE_CFG cfg2; Change counter: 725
+18/06/30 06:48:04:067: Change configuration sucessfully done. Run cfg2
+18/06/30 06:49:04:781: CHANGE_CFG cfg1; Change counter: 726
+18/06/30 06:49:11:807: Change configuration sucessfully done. Run cfg1
+18/06/30 06:50:12:560: CHANGE_CFG cfg2; Change counter: 727
+18/06/30 06:50:19:588: Change configuration sucessfully done. Run cfg2
+18/06/30 06:51:20:321: CHANGE_CFG cfg1; Change counter: 728
+18/06/30 06:51:27:324: Change configuration sucessfully done. Run cfg1
+18/06/30 06:52:28:035: CHANGE_CFG cfg2; Change counter: 729
+18/06/30 06:52:35:041: Change configuration sucessfully done. Run cfg2
+18/06/30 06:53:35:785: CHANGE_CFG cfg1; Change counter: 730
+18/06/30 06:53:42:797: Change configuration sucessfully done. Run cfg1
+18/06/30 06:54:43:542: CHANGE_CFG cfg2; Change counter: 731
+18/06/30 06:54:50:554: Change configuration sucessfully done. Run cfg2
+18/06/30 06:55:51:350: CHANGE_CFG cfg1; Change counter: 732
+18/06/30 06:55:58:362: Change configuration sucessfully done. Run cfg1
+18/06/30 06:56:59:075: CHANGE_CFG cfg2; Change counter: 733
+18/06/30 06:57:06:089: Change configuration sucessfully done. Run cfg2
+18/06/30 06:58:06:827: CHANGE_CFG cfg1; Change counter: 734
+18/06/30 06:58:13:836: Change configuration sucessfully done. Run cfg1
+18/06/30 06:59:14:600: CHANGE_CFG cfg2; Change counter: 735
+18/06/30 06:59:21:610: Change configuration sucessfully done. Run cfg2
+18/06/30 07:00:22:352: CHANGE_CFG cfg1; Change counter: 736
+18/06/30 07:00:29:364: Change configuration sucessfully done. Run cfg1
+18/06/30 07:01:30:130: CHANGE_CFG cfg2; Change counter: 737
+18/06/30 07:01:37:143: Change configuration sucessfully done. Run cfg2
+18/06/30 07:02:37:903: CHANGE_CFG cfg1; Change counter: 738
+18/06/30 07:02:44:914: Change configuration sucessfully done. Run cfg1
+18/06/30 07:03:45:682: CHANGE_CFG cfg2; Change counter: 739
+18/06/30 07:03:52:696: Change configuration sucessfully done. Run cfg2
+18/06/30 07:04:53:432: CHANGE_CFG cfg1; Change counter: 740
+18/06/30 07:05:00:441: Change configuration sucessfully done. Run cfg1
+18/06/30 07:06:01:139: CHANGE_CFG cfg2; Change counter: 741
+18/06/30 07:06:08:162: Change configuration sucessfully done. Run cfg2
+18/06/30 07:07:08:919: CHANGE_CFG cfg1; Change counter: 742
+18/06/30 07:07:15:929: Change configuration sucessfully done. Run cfg1
+18/06/30 07:08:16:683: CHANGE_CFG cfg2; Change counter: 743
+18/06/30 07:08:23:707: Change configuration sucessfully done. Run cfg2
+18/06/30 07:09:24:436: CHANGE_CFG cfg1; Change counter: 744
+18/06/30 07:09:31:452: Change configuration sucessfully done. Run cfg1
+18/06/30 07:10:32:212: CHANGE_CFG cfg2; Change counter: 745
+18/06/30 07:10:39:223: Change configuration sucessfully done. Run cfg2
+18/06/30 07:11:39:961: CHANGE_CFG cfg1; Change counter: 746
+18/06/30 07:11:46:976: Change configuration sucessfully done. Run cfg1
+18/06/30 07:12:47:749: CHANGE_CFG cfg2; Change counter: 747
+18/06/30 07:12:54:763: Change configuration sucessfully done. Run cfg2
+18/06/30 07:13:55:544: CHANGE_CFG cfg1; Change counter: 748
+18/06/30 07:14:02:551: Change configuration sucessfully done. Run cfg1
+18/06/30 07:15:03:273: CHANGE_CFG cfg2; Change counter: 749
+18/06/30 07:15:10:282: Change configuration sucessfully done. Run cfg2
+18/06/30 07:16:11:012: CHANGE_CFG cfg1; Change counter: 750
+18/06/30 07:16:18:019: Change configuration sucessfully done. Run cfg1
+18/06/30 07:17:18:764: CHANGE_CFG cfg2; Change counter: 751
+18/06/30 07:17:25:787: Change configuration sucessfully done. Run cfg2
+18/06/30 07:18:26:530: CHANGE_CFG cfg1; Change counter: 752
+18/06/30 07:18:33:540: Change configuration sucessfully done. Run cfg1
+18/06/30 07:19:34:287: CHANGE_CFG cfg2; Change counter: 753
+18/06/30 07:19:41:307: Change configuration sucessfully done. Run cfg2
+18/06/30 07:20:42:040: CHANGE_CFG cfg1; Change counter: 754
+18/06/30 07:20:49:053: Change configuration sucessfully done. Run cfg1
+18/06/30 07:21:49:795: CHANGE_CFG cfg2; Change counter: 755
+18/06/30 07:21:56:807: Change configuration sucessfully done. Run cfg2
+18/06/30 07:22:57:584: CHANGE_CFG cfg1; Change counter: 756
+18/06/30 07:23:04:591: Change configuration sucessfully done. Run cfg1
+18/06/30 07:24:05:333: CHANGE_CFG cfg2; Change counter: 757
+18/06/30 07:24:12:344: Change configuration sucessfully done. Run cfg2
+18/06/30 07:25:13:108: CHANGE_CFG cfg1; Change counter: 758
+18/06/30 07:25:20:119: Change configuration sucessfully done. Run cfg1
+18/06/30 07:26:20:883: CHANGE_CFG cfg2; Change counter: 759
+18/06/30 07:26:27:897: Change configuration sucessfully done. Run cfg2
+18/06/30 07:27:28:657: CHANGE_CFG cfg1; Change counter: 760
+18/06/30 07:27:35:671: Change configuration sucessfully done. Run cfg1
+18/06/30 07:28:36:376: CHANGE_CFG cfg2; Change counter: 761
+18/06/30 07:28:43:381: Change configuration sucessfully done. Run cfg2
+18/06/30 07:29:44:109: CHANGE_CFG cfg1; Change counter: 762
+18/06/30 07:29:51:118: Change configuration sucessfully done. Run cfg1
+18/06/30 07:30:51:792: CHANGE_CFG cfg2; Change counter: 763
+18/06/30 07:30:58:801: Change configuration sucessfully done. Run cfg2
+18/06/30 07:31:59:516: CHANGE_CFG cfg1; Change counter: 764
+18/06/30 07:32:06:523: Change configuration sucessfully done. Run cfg1
+18/06/30 07:33:07:259: CHANGE_CFG cfg2; Change counter: 765
+18/06/30 07:33:14:268: Change configuration sucessfully done. Run cfg2
+18/06/30 07:34:15:009: CHANGE_CFG cfg1; Change counter: 766
+18/06/30 07:34:22:019: Change configuration sucessfully done. Run cfg1
+18/06/30 07:35:22:753: CHANGE_CFG cfg2; Change counter: 767
+18/06/30 07:35:29:769: Change configuration sucessfully done. Run cfg2
+18/06/30 07:36:30:488: CHANGE_CFG cfg1; Change counter: 768
+18/06/30 07:36:37:502: Change configuration sucessfully done. Run cfg1
+18/06/30 07:37:38:245: CHANGE_CFG cfg2; Change counter: 769
+18/06/30 07:37:45:255: Change configuration sucessfully done. Run cfg2
+18/06/30 07:38:45:960: CHANGE_CFG cfg1; Change counter: 770
+18/06/30 07:38:52:966: Change configuration sucessfully done. Run cfg1
+18/06/30 07:39:53:727: CHANGE_CFG cfg2; Change counter: 771
+18/06/30 07:40:00:752: Change configuration sucessfully done. Run cfg2
+18/06/30 07:41:01:560: CHANGE_CFG cfg1; Change counter: 772
+18/06/30 07:41:08:573: Change configuration sucessfully done. Run cfg1
+18/06/30 07:42:09:329: CHANGE_CFG cfg2; Change counter: 773
+18/06/30 07:42:16:346: Change configuration sucessfully done. Run cfg2
+18/06/30 07:43:17:115: CHANGE_CFG cfg1; Change counter: 774
+18/06/30 07:43:24:123: Change configuration sucessfully done. Run cfg1
+18/06/30 07:44:24:846: CHANGE_CFG cfg2; Change counter: 775
+18/06/30 07:44:31:859: Change configuration sucessfully done. Run cfg2
+18/06/30 07:45:32:566: CHANGE_CFG cfg1; Change counter: 776
+18/06/30 07:45:39:574: Change configuration sucessfully done. Run cfg1
+18/06/30 07:46:40:288: CHANGE_CFG cfg2; Change counter: 777
+18/06/30 07:46:47:304: Change configuration sucessfully done. Run cfg2
+18/06/30 07:47:48:050: CHANGE_CFG cfg1; Change counter: 778
+18/06/30 07:47:55:077: Change configuration sucessfully done. Run cfg1
+18/06/30 07:48:55:794: CHANGE_CFG cfg2; Change counter: 779
+18/06/30 07:49:02:808: Change configuration sucessfully done. Run cfg2
+18/06/30 07:50:03:536: CHANGE_CFG cfg1; Change counter: 780
+18/06/30 07:50:10:547: Change configuration sucessfully done. Run cfg1
+18/06/30 07:51:11:317: CHANGE_CFG cfg2; Change counter: 781
+18/06/30 07:51:18:324: Change configuration sucessfully done. Run cfg2
+18/06/30 07:52:19:064: CHANGE_CFG cfg1; Change counter: 782
+18/06/30 07:52:26:100: Change configuration sucessfully done. Run cfg1
+18/06/30 07:53:26:846: CHANGE_CFG cfg2; Change counter: 783
+18/06/30 07:53:33:852: Change configuration sucessfully done. Run cfg2
+18/06/30 07:54:34:605: CHANGE_CFG cfg1; Change counter: 784
+18/06/30 07:54:41:614: Change configuration sucessfully done. Run cfg1
+18/06/30 07:55:42:379: CHANGE_CFG cfg2; Change counter: 785
+18/06/30 07:55:49:388: Change configuration sucessfully done. Run cfg2
+18/06/30 07:56:50:163: CHANGE_CFG cfg1; Change counter: 786
+18/06/30 07:56:57:188: Change configuration sucessfully done. Run cfg1
+18/06/30 07:57:57:916: CHANGE_CFG cfg2; Change counter: 787
+18/06/30 07:58:04:939: Change configuration sucessfully done. Run cfg2
+18/06/30 07:59:05:660: CHANGE_CFG cfg1; Change counter: 788
+18/06/30 07:59:12:669: Change configuration sucessfully done. Run cfg1
+18/06/30 08:00:13:390: CHANGE_CFG cfg2; Change counter: 789
+18/06/30 08:00:20:405: Change configuration sucessfully done. Run cfg2
+18/06/30 08:01:21:141: CHANGE_CFG cfg1; Change counter: 790
+18/06/30 08:01:28:149: Change configuration sucessfully done. Run cfg1
+18/06/30 08:02:28:902: CHANGE_CFG cfg2; Change counter: 791
+18/06/30 08:02:35:908: Change configuration sucessfully done. Run cfg2
+18/06/30 08:03:36:679: CHANGE_CFG cfg1; Change counter: 792
+18/06/30 08:03:43:703: Change configuration sucessfully done. Run cfg1
+18/06/30 08:04:44:447: CHANGE_CFG cfg2; Change counter: 793
+18/06/30 08:04:51:457: Change configuration sucessfully done. Run cfg2
+18/06/30 08:05:52:231: CHANGE_CFG cfg1; Change counter: 794
+18/06/30 08:05:59:237: Change configuration sucessfully done. Run cfg1
+18/06/30 08:06:59:991: CHANGE_CFG cfg2; Change counter: 795
+18/06/30 08:07:07:002: Change configuration sucessfully done. Run cfg2
+18/06/30 08:08:07:724: CHANGE_CFG cfg1; Change counter: 796
+18/06/30 08:08:14:733: Change configuration sucessfully done. Run cfg1
+18/06/30 08:09:15:499: CHANGE_CFG cfg2; Change counter: 797
+18/06/30 08:09:22:516: Change configuration sucessfully done. Run cfg2
+18/06/30 08:10:23:265: CHANGE_CFG cfg1; Change counter: 798
+18/06/30 08:10:30:277: Change configuration sucessfully done. Run cfg1
+18/06/30 08:11:31:021: CHANGE_CFG cfg2; Change counter: 799
+18/06/30 08:11:38:033: Change configuration sucessfully done. Run cfg2
+18/06/30 08:12:38:775: CHANGE_CFG cfg1; Change counter: 800
+18/06/30 08:12:45:786: Change configuration sucessfully done. Run cfg1
+18/06/30 08:13:46:490: CHANGE_CFG cfg2; Change counter: 801
+18/06/30 08:13:53:518: Change configuration sucessfully done. Run cfg2
+18/06/30 08:14:54:302: CHANGE_CFG cfg1; Change counter: 802
+18/06/30 08:15:01:310: Change configuration sucessfully done. Run cfg1
+18/06/30 08:16:02:050: CHANGE_CFG cfg2; Change counter: 803
+18/06/30 08:16:09:062: Change configuration sucessfully done. Run cfg2
+18/06/30 08:17:09:781: CHANGE_CFG cfg1; Change counter: 804
+18/06/30 08:17:16:791: Change configuration sucessfully done. Run cfg1
+18/06/30 08:18:17:516: CHANGE_CFG cfg2; Change counter: 805
+18/06/30 08:18:24:543: Change configuration sucessfully done. Run cfg2
+18/06/30 08:19:25:308: CHANGE_CFG cfg1; Change counter: 806
+18/06/30 08:19:32:322: Change configuration sucessfully done. Run cfg1
+18/06/30 08:20:33:088: CHANGE_CFG cfg2; Change counter: 807
+18/06/30 08:20:40:113: Change configuration sucessfully done. Run cfg2
+18/06/30 08:21:40:867: CHANGE_CFG cfg1; Change counter: 808
+18/06/30 08:21:47:877: Change configuration sucessfully done. Run cfg1
+18/06/30 08:22:48:616: CHANGE_CFG cfg2; Change counter: 809
+18/06/30 08:22:55:635: Change configuration sucessfully done. Run cfg2
+18/06/30 08:23:56:387: CHANGE_CFG cfg1; Change counter: 810
+18/06/30 08:24:03:396: Change configuration sucessfully done. Run cfg1
+18/06/30 08:25:04:100: CHANGE_CFG cfg2; Change counter: 811
+18/06/30 08:25:11:112: Change configuration sucessfully done. Run cfg2
+18/06/30 08:26:11:891: CHANGE_CFG cfg1; Change counter: 812
+18/06/30 08:26:18:898: Change configuration sucessfully done. Run cfg1
+18/06/30 08:27:19:626: CHANGE_CFG cfg2; Change counter: 813
+18/06/30 08:27:26:638: Change configuration sucessfully done. Run cfg2
+18/06/30 08:28:27:374: CHANGE_CFG cfg1; Change counter: 814
+18/06/30 08:28:34:385: Change configuration sucessfully done. Run cfg1
+18/06/30 08:29:35:137: CHANGE_CFG cfg2; Change counter: 815
+18/06/30 08:29:42:151: Change configuration sucessfully done. Run cfg2
+18/06/30 08:30:42:894: CHANGE_CFG cfg1; Change counter: 816
+18/06/30 08:30:49:921: Change configuration sucessfully done. Run cfg1
+18/06/30 08:31:50:713: CHANGE_CFG cfg2; Change counter: 817
+18/06/30 08:31:57:725: Change configuration sucessfully done. Run cfg2
+18/06/30 08:32:58:427: CHANGE_CFG cfg1; Change counter: 818
+18/06/30 08:33:05:435: Change configuration sucessfully done. Run cfg1
+18/06/30 08:34:06:125: CHANGE_CFG cfg2; Change counter: 819
+18/06/30 08:34:13:137: Change configuration sucessfully done. Run cfg2
+18/06/30 08:35:13:895: CHANGE_CFG cfg1; Change counter: 820
+18/06/30 08:35:20:905: Change configuration sucessfully done. Run cfg1
+18/06/30 08:36:21:626: CHANGE_CFG cfg2; Change counter: 821
+18/06/30 08:36:28:648: Change configuration sucessfully done. Run cfg2
+18/06/30 08:37:29:436: CHANGE_CFG cfg1; Change counter: 822
+18/06/30 08:37:36:447: Change configuration sucessfully done. Run cfg1
+18/06/30 08:38:37:178: CHANGE_CFG cfg2; Change counter: 823
+18/06/30 08:38:44:203: Change configuration sucessfully done. Run cfg2
+18/06/30 08:39:44:919: CHANGE_CFG cfg1; Change counter: 824
+18/06/30 08:39:51:930: Change configuration sucessfully done. Run cfg1
+18/06/30 08:40:52:657: CHANGE_CFG cfg2; Change counter: 825
+18/06/30 08:40:59:668: Change configuration sucessfully done. Run cfg2
+18/06/30 08:42:00:451: CHANGE_CFG cfg1; Change counter: 826
+18/06/30 08:42:07:464: Change configuration sucessfully done. Run cfg1
+18/06/30 08:43:08:215: CHANGE_CFG cfg2; Change counter: 827
+18/06/30 08:43:15:227: Change configuration sucessfully done. Run cfg2
+18/06/30 08:44:15:973: CHANGE_CFG cfg1; Change counter: 828
+18/06/30 08:44:22:998: Change configuration sucessfully done. Run cfg1
+18/06/30 08:45:23:690: CHANGE_CFG cfg2; Change counter: 829
+18/06/30 08:45:30:702: Change configuration sucessfully done. Run cfg2
+18/06/30 08:46:31:479: CHANGE_CFG cfg1; Change counter: 830
+18/06/30 08:46:38:489: Change configuration sucessfully done. Run cfg1
+18/06/30 08:47:39:214: CHANGE_CFG cfg2; Change counter: 831
+18/06/30 08:47:46:223: Change configuration sucessfully done. Run cfg2
+18/06/30 08:48:47:010: CHANGE_CFG cfg1; Change counter: 832
+18/06/30 08:48:54:032: Change configuration sucessfully done. Run cfg1
+18/06/30 08:49:54:755: CHANGE_CFG cfg2; Change counter: 833
+18/06/30 08:50:01:767: Change configuration sucessfully done. Run cfg2
+18/06/30 08:51:02:515: CHANGE_CFG cfg1; Change counter: 834
+18/06/30 08:51:09:555: Change configuration sucessfully done. Run cfg1
+18/06/30 08:52:10:348: CHANGE_CFG cfg2; Change counter: 835
+18/06/30 08:52:17:364: Change configuration sucessfully done. Run cfg2
+18/06/30 08:53:18:072: CHANGE_CFG cfg1; Change counter: 836
+18/06/30 08:53:25:094: Change configuration sucessfully done. Run cfg1
+18/06/30 08:54:25:845: CHANGE_CFG cfg2; Change counter: 837
+18/06/30 08:54:32:869: Change configuration sucessfully done. Run cfg2
+18/06/30 08:55:33:564: CHANGE_CFG cfg1; Change counter: 838
+18/06/30 08:55:40:605: Change configuration sucessfully done. Run cfg1
+18/06/30 08:56:41:340: CHANGE_CFG cfg2; Change counter: 839
+18/06/30 08:56:48:347: Change configuration sucessfully done. Run cfg2
+18/06/30 08:57:49:111: CHANGE_CFG cfg1; Change counter: 840
+18/06/30 08:57:56:135: Change configuration sucessfully done. Run cfg1
+18/06/30 08:58:56:895: CHANGE_CFG cfg2; Change counter: 841
+18/06/30 08:59:03:907: Change configuration sucessfully done. Run cfg2
+18/06/30 09:00:04:662: CHANGE_CFG cfg1; Change counter: 842
+18/06/30 09:00:11:685: Change configuration sucessfully done. Run cfg1
+18/06/30 09:01:12:431: CHANGE_CFG cfg2; Change counter: 843
+18/06/30 09:01:19:442: Change configuration sucessfully done. Run cfg2
+18/06/30 09:02:20:140: CHANGE_CFG cfg1; Change counter: 844
+18/06/30 09:02:27:146: Change configuration sucessfully done. Run cfg1
+18/06/30 09:03:27:884: CHANGE_CFG cfg2; Change counter: 845
+18/06/30 09:03:34:896: Change configuration sucessfully done. Run cfg2
+18/06/30 09:04:35:631: CHANGE_CFG cfg1; Change counter: 846
+18/06/30 09:04:42:644: Change configuration sucessfully done. Run cfg1
+18/06/30 09:05:43:374: CHANGE_CFG cfg2; Change counter: 847
+18/06/30 09:05:50:383: Change configuration sucessfully done. Run cfg2
+18/06/30 09:06:51:079: CHANGE_CFG cfg1; Change counter: 848
+18/06/30 09:06:58:088: Change configuration sucessfully done. Run cfg1
+18/06/30 09:07:58:865: CHANGE_CFG cfg2; Change counter: 849
+18/06/30 09:08:05:880: Change configuration sucessfully done. Run cfg2
+18/06/30 09:09:06:613: CHANGE_CFG cfg1; Change counter: 850
+18/06/30 09:09:13:625: Change configuration sucessfully done. Run cfg1
+18/06/30 09:10:14:355: CHANGE_CFG cfg2; Change counter: 851
+18/06/30 09:10:21:374: Change configuration sucessfully done. Run cfg2
+18/06/30 09:11:22:114: CHANGE_CFG cfg1; Change counter: 852
+18/06/30 09:11:29:122: Change configuration sucessfully done. Run cfg1
+18/06/30 09:12:29:862: CHANGE_CFG cfg2; Change counter: 853
+18/06/30 09:12:36:873: Change configuration sucessfully done. Run cfg2
+18/06/30 09:13:37:624: CHANGE_CFG cfg1; Change counter: 854
+18/06/30 09:13:44:634: Change configuration sucessfully done. Run cfg1
+18/06/30 09:14:45:389: CHANGE_CFG cfg2; Change counter: 855
+18/06/30 09:14:52:395: Change configuration sucessfully done. Run cfg2
+18/06/30 09:15:53:125: CHANGE_CFG cfg1; Change counter: 856
+18/06/30 09:16:00:150: Change configuration sucessfully done. Run cfg1
+18/06/30 09:17:00:907: CHANGE_CFG cfg2; Change counter: 857
+18/06/30 09:17:07:917: Change configuration sucessfully done. Run cfg2
+18/06/30 09:18:08:663: CHANGE_CFG cfg1; Change counter: 858
+18/06/30 09:18:15:677: Change configuration sucessfully done. Run cfg1
+18/06/30 09:19:16:311: CHANGE_CFG cfg2; Change counter: 859
+18/06/30 09:19:23:321: Change configuration sucessfully done. Run cfg2
+18/06/30 09:20:24:054: CHANGE_CFG cfg1; Change counter: 860
+18/06/30 09:20:31:065: Change configuration sucessfully done. Run cfg1
+18/06/30 09:21:31:825: CHANGE_CFG cfg2; Change counter: 861
+18/06/30 09:21:38:832: Change configuration sucessfully done. Run cfg2
+18/06/30 09:22:39:581: CHANGE_CFG cfg1; Change counter: 862
+18/06/30 09:22:46:586: Change configuration sucessfully done. Run cfg1
+18/06/30 09:23:47:344: CHANGE_CFG cfg2; Change counter: 863
+18/06/30 09:23:54:351: Change configuration sucessfully done. Run cfg2
+18/06/30 09:24:55:065: CHANGE_CFG cfg1; Change counter: 864
+18/06/30 09:25:02:074: Change configuration sucessfully done. Run cfg1
+18/06/30 09:26:02:799: CHANGE_CFG cfg2; Change counter: 865
+18/06/30 09:26:09:813: Change configuration sucessfully done. Run cfg2
+18/06/30 09:27:10:532: CHANGE_CFG cfg1; Change counter: 866
+18/06/30 09:27:17:554: Change configuration sucessfully done. Run cfg1
+18/06/30 09:28:18:291: CHANGE_CFG cfg2; Change counter: 867
+18/06/30 09:28:25:309: Change configuration sucessfully done. Run cfg2
+18/06/30 09:29:26:089: CHANGE_CFG cfg1; Change counter: 868
+18/06/30 09:29:33:103: Change configuration sucessfully done. Run cfg1
+18/06/30 09:30:33:835: CHANGE_CFG cfg2; Change counter: 869
+18/06/30 09:30:40:862: Change configuration sucessfully done. Run cfg2
+18/06/30 09:31:41:606: CHANGE_CFG cfg1; Change counter: 870
+18/06/30 09:31:48:613: Change configuration sucessfully done. Run cfg1
+18/06/30 09:32:49:340: CHANGE_CFG cfg2; Change counter: 871
+18/06/30 09:32:56:358: Change configuration sucessfully done. Run cfg2
+18/06/30 09:33:57:088: CHANGE_CFG cfg1; Change counter: 872
+18/06/30 09:34:04:099: Change configuration sucessfully done. Run cfg1
+18/06/30 09:35:04:853: CHANGE_CFG cfg2; Change counter: 873
+18/06/30 09:35:11:865: Change configuration sucessfully done. Run cfg2
+18/06/30 09:36:12:595: CHANGE_CFG cfg1; Change counter: 874
+18/06/30 09:36:19:602: Change configuration sucessfully done. Run cfg1
+18/06/30 09:37:20:299: CHANGE_CFG cfg2; Change counter: 875
+18/06/30 09:37:27:306: Change configuration sucessfully done. Run cfg2
+18/06/30 09:38:28:039: CHANGE_CFG cfg1; Change counter: 876
+18/06/30 09:38:35:046: Change configuration sucessfully done. Run cfg1
+18/06/30 09:39:35:796: CHANGE_CFG cfg2; Change counter: 877
+18/06/30 09:39:42:809: Change configuration sucessfully done. Run cfg2
+18/06/30 09:40:43:547: CHANGE_CFG cfg1; Change counter: 878
+18/06/30 09:40:50:562: Change configuration sucessfully done. Run cfg1
+18/06/30 09:41:51:316: CHANGE_CFG cfg2; Change counter: 879
+18/06/30 09:41:58:325: Change configuration sucessfully done. Run cfg2
+18/06/30 09:42:59:075: CHANGE_CFG cfg1; Change counter: 880
+18/06/30 09:43:06:112: Change configuration sucessfully done. Run cfg1
+18/06/30 09:44:06:825: CHANGE_CFG cfg2; Change counter: 881
+18/06/30 09:44:13:837: Change configuration sucessfully done. Run cfg2
+18/06/30 09:45:14:561: CHANGE_CFG cfg1; Change counter: 882
+18/06/30 09:45:21:567: Change configuration sucessfully done. Run cfg1
+18/06/30 09:46:22:328: CHANGE_CFG cfg2; Change counter: 883
+18/06/30 09:46:29:339: Change configuration sucessfully done. Run cfg2
+18/06/30 09:47:30:026: CHANGE_CFG cfg1; Change counter: 884
+18/06/30 09:47:37:035: Change configuration sucessfully done. Run cfg1
+18/06/30 09:48:37:767: CHANGE_CFG cfg2; Change counter: 885
+18/06/30 09:48:44:773: Change configuration sucessfully done. Run cfg2
+18/06/30 09:49:45:491: CHANGE_CFG cfg1; Change counter: 886
+18/06/30 09:49:52:512: Change configuration sucessfully done. Run cfg1
+18/06/30 09:50:53:272: CHANGE_CFG cfg2; Change counter: 887
+18/06/30 09:51:00:279: Change configuration sucessfully done. Run cfg2
+18/06/30 09:52:01:005: CHANGE_CFG cfg1; Change counter: 888
+18/06/30 09:52:08:017: Change configuration sucessfully done. Run cfg1
+18/06/30 09:53:08:772: CHANGE_CFG cfg2; Change counter: 889
+18/06/30 09:53:15:784: Change configuration sucessfully done. Run cfg2
+18/06/30 09:54:16:548: CHANGE_CFG cfg1; Change counter: 890
+18/06/30 09:54:23:575: Change configuration sucessfully done. Run cfg1
+18/06/30 09:55:24:328: CHANGE_CFG cfg2; Change counter: 891
+18/06/30 09:55:31:346: Change configuration sucessfully done. Run cfg2
+18/06/30 09:56:32:014: CHANGE_CFG cfg1; Change counter: 892
+18/06/30 09:56:39:027: Change configuration sucessfully done. Run cfg1
+18/06/30 09:57:39:753: CHANGE_CFG cfg2; Change counter: 893
+18/06/30 09:57:46:759: Change configuration sucessfully done. Run cfg2
+18/06/30 09:58:47:473: CHANGE_CFG cfg1; Change counter: 894
+18/06/30 09:58:54:484: Change configuration sucessfully done. Run cfg1
+18/06/30 09:59:55:254: CHANGE_CFG cfg2; Change counter: 895
+18/06/30 10:00:02:262: Change configuration sucessfully done. Run cfg2
+18/06/30 10:01:03:002: CHANGE_CFG cfg1; Change counter: 896
+18/06/30 10:01:10:012: Change configuration sucessfully done. Run cfg1
+18/06/30 10:02:10:794: CHANGE_CFG cfg2; Change counter: 897
+18/06/30 10:02:17:809: Change configuration sucessfully done. Run cfg2
+18/06/30 10:03:18:478: CHANGE_CFG cfg1; Change counter: 898
+18/06/30 10:03:25:491: Change configuration sucessfully done. Run cfg1
+18/06/30 10:04:26:267: CHANGE_CFG cfg2; Change counter: 899
+18/06/30 10:04:33:275: Change configuration sucessfully done. Run cfg2
+18/06/30 10:05:33:973: CHANGE_CFG cfg1; Change counter: 900
+18/06/30 10:05:40:982: Change configuration sucessfully done. Run cfg1
+18/06/30 10:06:41:694: CHANGE_CFG cfg2; Change counter: 901
+18/06/30 10:06:48:703: Change configuration sucessfully done. Run cfg2
+18/06/30 10:07:49:450: CHANGE_CFG cfg1; Change counter: 902
+18/06/30 10:07:56:471: Change configuration sucessfully done. Run cfg1
+18/06/30 10:08:57:182: CHANGE_CFG cfg2; Change counter: 903
+18/06/30 10:09:04:192: Change configuration sucessfully done. Run cfg2
+18/06/30 10:10:04:965: CHANGE_CFG cfg1; Change counter: 904
+18/06/30 10:10:11:976: Change configuration sucessfully done. Run cfg1
+18/06/30 10:11:12:715: CHANGE_CFG cfg2; Change counter: 905
+18/06/30 10:11:19:724: Change configuration sucessfully done. Run cfg2
+18/06/30 10:12:20:477: CHANGE_CFG cfg1; Change counter: 906
+18/06/30 10:12:27:498: Change configuration sucessfully done. Run cfg1
+18/06/30 10:13:28:243: CHANGE_CFG cfg2; Change counter: 907
+18/06/30 10:13:35:255: Change configuration sucessfully done. Run cfg2
+18/06/30 10:14:35:990: CHANGE_CFG cfg1; Change counter: 908
+18/06/30 10:14:43:002: Change configuration sucessfully done. Run cfg1
+18/06/30 10:15:43:746: CHANGE_CFG cfg2; Change counter: 909
+18/06/30 10:15:50:754: Change configuration sucessfully done. Run cfg2
+18/06/30 10:16:51:465: CHANGE_CFG cfg1; Change counter: 910
+18/06/30 10:16:58:479: Change configuration sucessfully done. Run cfg1
+18/06/30 10:17:59:210: CHANGE_CFG cfg2; Change counter: 911
+18/06/30 10:18:06:222: Change configuration sucessfully done. Run cfg2
+18/06/30 10:19:06:951: CHANGE_CFG cfg1; Change counter: 912
+18/06/30 10:19:13:958: Change configuration sucessfully done. Run cfg1
+18/06/30 10:20:14:714: CHANGE_CFG cfg2; Change counter: 913
+18/06/30 10:20:21:727: Change configuration sucessfully done. Run cfg2
+18/06/30 10:21:22:480: CHANGE_CFG cfg1; Change counter: 914
+18/06/30 10:21:29:489: Change configuration sucessfully done. Run cfg1
+18/06/30 10:22:30:241: CHANGE_CFG cfg2; Change counter: 915
+18/06/30 10:22:37:254: Change configuration sucessfully done. Run cfg2
+18/06/30 10:23:37:983: CHANGE_CFG cfg1; Change counter: 916
+18/06/30 10:23:44:999: Change configuration sucessfully done. Run cfg1
+18/06/30 10:24:45:747: CHANGE_CFG cfg2; Change counter: 917
+18/06/30 10:24:52:759: Change configuration sucessfully done. Run cfg2
+18/06/30 10:25:53:491: CHANGE_CFG cfg1; Change counter: 918
+18/06/30 10:26:00:502: Change configuration sucessfully done. Run cfg1
+18/06/30 10:27:01:270: CHANGE_CFG cfg2; Change counter: 919
+18/06/30 10:27:08:280: Change configuration sucessfully done. Run cfg2
+18/06/30 10:28:09:026: CHANGE_CFG cfg1; Change counter: 920
+18/06/30 10:28:16:035: Change configuration sucessfully done. Run cfg1
+18/06/30 10:29:16:758: CHANGE_CFG cfg2; Change counter: 921
+18/06/30 10:29:23:763: Change configuration sucessfully done. Run cfg2
+18/06/30 10:30:24:493: CHANGE_CFG cfg1; Change counter: 922
+18/06/30 10:30:31:504: Change configuration sucessfully done. Run cfg1
+18/06/30 10:31:32:279: CHANGE_CFG cfg2; Change counter: 923
+18/06/30 10:31:39:290: Change configuration sucessfully done. Run cfg2
+18/06/30 10:32:40:019: CHANGE_CFG cfg1; Change counter: 924
+18/06/30 10:32:47:028: Change configuration sucessfully done. Run cfg1
+18/06/30 10:33:47:774: CHANGE_CFG cfg2; Change counter: 925
+18/06/30 10:33:54:790: Change configuration sucessfully done. Run cfg2
+18/06/30 10:34:55:505: CHANGE_CFG cfg1; Change counter: 926
+18/06/30 10:35:02:513: Change configuration sucessfully done. Run cfg1
+18/06/30 10:36:03:277: CHANGE_CFG cfg2; Change counter: 927
+18/06/30 10:36:10:304: Change configuration sucessfully done. Run cfg2
+18/06/30 10:37:11:097: CHANGE_CFG cfg1; Change counter: 928
+18/06/30 10:37:18:111: Change configuration sucessfully done. Run cfg1
+18/06/30 10:38:18:874: CHANGE_CFG cfg2; Change counter: 929
+18/06/30 10:38:25:897: Change configuration sucessfully done. Run cfg2
+18/06/30 10:39:26:599: CHANGE_CFG cfg1; Change counter: 930
+18/06/30 10:39:33:614: Change configuration sucessfully done. Run cfg1
+18/06/30 10:40:34:374: CHANGE_CFG cfg2; Change counter: 931
+18/06/30 10:40:41:387: Change configuration sucessfully done. Run cfg2
+18/06/30 10:41:42:155: CHANGE_CFG cfg1; Change counter: 932
+18/06/30 10:41:49:183: Change configuration sucessfully done. Run cfg1
+18/06/30 10:42:49:970: CHANGE_CFG cfg2; Change counter: 933
+18/06/30 10:42:56:981: Change configuration sucessfully done. Run cfg2
+18/06/30 10:43:57:761: CHANGE_CFG cfg1; Change counter: 934
+18/06/30 10:44:04:778: Change configuration sucessfully done. Run cfg1
+18/06/30 10:45:05:525: CHANGE_CFG cfg2; Change counter: 935
+18/06/30 10:45:12:538: Change configuration sucessfully done. Run cfg2
+18/06/30 10:46:13:251: CHANGE_CFG cfg1; Change counter: 936
+18/06/30 10:46:20:266: Change configuration sucessfully done. Run cfg1
+18/06/30 10:47:20:996: CHANGE_CFG cfg2; Change counter: 937
+18/06/30 10:47:28:011: Change configuration sucessfully done. Run cfg2
+18/06/30 10:48:28:737: CHANGE_CFG cfg1; Change counter: 938
+18/06/30 10:48:35:745: Change configuration sucessfully done. Run cfg1
+18/06/30 10:49:36:462: CHANGE_CFG cfg2; Change counter: 939
+18/06/30 10:49:43:472: Change configuration sucessfully done. Run cfg2
+18/06/30 10:50:44:233: CHANGE_CFG cfg1; Change counter: 940
+18/06/30 10:50:51:249: Change configuration sucessfully done. Run cfg1
+18/06/30 10:51:51:973: CHANGE_CFG cfg2; Change counter: 941
+18/06/30 10:51:58:986: Change configuration sucessfully done. Run cfg2
+18/06/30 10:52:59:760: CHANGE_CFG cfg1; Change counter: 942
+18/06/30 10:53:06:768: Change configuration sucessfully done. Run cfg1
+18/06/30 10:54:07:494: CHANGE_CFG cfg2; Change counter: 943
+18/06/30 10:54:14:524: Change configuration sucessfully done. Run cfg2
+18/06/30 10:55:15:287: CHANGE_CFG cfg1; Change counter: 944
+18/06/30 10:55:22:311: Change configuration sucessfully done. Run cfg1
+18/06/30 10:56:23:084: CHANGE_CFG cfg2; Change counter: 945
+18/06/30 10:56:30:097: Change configuration sucessfully done. Run cfg2
+18/06/30 10:57:30:852: CHANGE_CFG cfg1; Change counter: 946
+18/06/30 10:57:37:865: Change configuration sucessfully done. Run cfg1
+18/06/30 10:58:38:656: CHANGE_CFG cfg2; Change counter: 947
+18/06/30 10:58:45:667: Change configuration sucessfully done. Run cfg2
+18/06/30 10:59:46:353: CHANGE_CFG cfg1; Change counter: 948
+18/06/30 10:59:53:377: Change configuration sucessfully done. Run cfg1
+18/06/30 11:00:54:111: CHANGE_CFG cfg2; Change counter: 949
+18/06/30 11:01:01:122: Change configuration sucessfully done. Run cfg2
+18/06/30 11:02:01:868: CHANGE_CFG cfg1; Change counter: 950
+18/06/30 11:02:08:878: Change configuration sucessfully done. Run cfg1
+18/06/30 11:03:09:627: CHANGE_CFG cfg2; Change counter: 951
+18/06/30 11:03:16:637: Change configuration sucessfully done. Run cfg2
+18/06/30 11:04:17:342: CHANGE_CFG cfg1; Change counter: 952
+18/06/30 11:04:24:347: Change configuration sucessfully done. Run cfg1
+18/06/30 11:05:25:100: CHANGE_CFG cfg2; Change counter: 953
+18/06/30 11:05:32:115: Change configuration sucessfully done. Run cfg2
+18/06/30 11:06:32:817: CHANGE_CFG cfg1; Change counter: 954
+18/06/30 11:06:39:826: Change configuration sucessfully done. Run cfg1
+18/06/30 11:07:40:620: CHANGE_CFG cfg2; Change counter: 955
+18/06/30 11:07:47:629: Change configuration sucessfully done. Run cfg2
+18/06/30 11:08:48:419: CHANGE_CFG cfg1; Change counter: 956
+18/06/30 11:08:55:450: Change configuration sucessfully done. Run cfg1
+18/06/30 11:09:56:152: CHANGE_CFG cfg2; Change counter: 957
+18/06/30 11:10:03:161: Change configuration sucessfully done. Run cfg2
+18/06/30 11:11:03:879: CHANGE_CFG cfg1; Change counter: 958
+18/06/30 11:11:10:891: Change configuration sucessfully done. Run cfg1
+18/06/30 11:12:11:601: CHANGE_CFG cfg2; Change counter: 959
+18/06/30 11:12:18:610: Change configuration sucessfully done. Run cfg2
+18/06/30 11:13:19:280: CHANGE_CFG cfg1; Change counter: 960
+18/06/30 11:13:26:300: Change configuration sucessfully done. Run cfg1
+18/06/30 11:14:27:050: CHANGE_CFG cfg2; Change counter: 961
+18/06/30 11:14:34:077: Change configuration sucessfully done. Run cfg2
+18/06/30 11:15:34:725: CHANGE_CFG cfg1; Change counter: 962
+18/06/30 11:15:41:735: Change configuration sucessfully done. Run cfg1
+18/06/30 11:16:42:494: CHANGE_CFG cfg2; Change counter: 963
+18/06/30 11:16:49:506: Change configuration sucessfully done. Run cfg2
+18/06/30 11:17:50:203: CHANGE_CFG cfg1; Change counter: 964
+18/06/30 11:17:57:217: Change configuration sucessfully done. Run cfg1
+18/06/30 11:18:57:970: CHANGE_CFG cfg2; Change counter: 965
+18/06/30 11:19:04:982: Change configuration sucessfully done. Run cfg2
+18/06/30 11:20:05:706: CHANGE_CFG cfg1; Change counter: 966
+18/06/30 11:20:12:715: Change configuration sucessfully done. Run cfg1
+18/06/30 11:21:13:462: CHANGE_CFG cfg2; Change counter: 967
+18/06/30 11:21:20:488: Change configuration sucessfully done. Run cfg2
+18/06/30 11:22:21:229: CHANGE_CFG cfg1; Change counter: 968
+18/06/30 11:22:28:253: Change configuration sucessfully done. Run cfg1
+18/06/30 11:23:28:907: CHANGE_CFG cfg2; Change counter: 969
+18/06/30 11:23:35:916: Change configuration sucessfully done. Run cfg2
+18/06/30 11:24:36:653: CHANGE_CFG cfg1; Change counter: 970
+18/06/30 11:24:43:659: Change configuration sucessfully done. Run cfg1
+18/06/30 11:25:44:409: CHANGE_CFG cfg2; Change counter: 971
+18/06/30 11:25:51:419: Change configuration sucessfully done. Run cfg2
+18/06/30 11:26:52:174: CHANGE_CFG cfg1; Change counter: 972
+18/06/30 11:26:59:187: Change configuration sucessfully done. Run cfg1
+18/06/30 11:27:59:919: CHANGE_CFG cfg2; Change counter: 973
+18/06/30 11:28:06:932: Change configuration sucessfully done. Run cfg2
+18/06/30 11:29:07:669: CHANGE_CFG cfg1; Change counter: 974
+18/06/30 11:29:14:680: Change configuration sucessfully done. Run cfg1
+18/06/30 11:30:15:441: CHANGE_CFG cfg2; Change counter: 975
+18/06/30 11:30:22:461: Change configuration sucessfully done. Run cfg2
+18/06/30 11:31:23:196: CHANGE_CFG cfg1; Change counter: 976
+18/06/30 11:31:30:213: Change configuration sucessfully done. Run cfg1
+18/06/30 11:32:30:946: CHANGE_CFG cfg2; Change counter: 977
+18/06/30 11:32:37:960: Change configuration sucessfully done. Run cfg2
+18/06/30 11:33:38:704: CHANGE_CFG cfg1; Change counter: 978
+18/06/30 11:33:45:719: Change configuration sucessfully done. Run cfg1
+18/06/30 11:34:46:468: CHANGE_CFG cfg2; Change counter: 979
+18/06/30 11:34:53:479: Change configuration sucessfully done. Run cfg2
+18/06/30 11:35:54:229: CHANGE_CFG cfg1; Change counter: 980
+18/06/30 11:36:01:245: Change configuration sucessfully done. Run cfg1
+18/06/30 11:37:01:990: CHANGE_CFG cfg2; Change counter: 981
+18/06/30 11:37:09:002: Change configuration sucessfully done. Run cfg2
+18/06/30 11:38:09:801: CHANGE_CFG cfg1; Change counter: 982
+18/06/30 11:38:16:821: Change configuration sucessfully done. Run cfg1
+18/06/30 11:39:17:559: CHANGE_CFG cfg2; Change counter: 983
+18/06/30 11:39:24:565: Change configuration sucessfully done. Run cfg2
+18/06/30 11:40:25:284: CHANGE_CFG cfg1; Change counter: 984
+18/06/30 11:40:32:299: Change configuration sucessfully done. Run cfg1
+18/06/30 11:41:33:038: CHANGE_CFG cfg2; Change counter: 985
+18/06/30 11:41:40:048: Change configuration sucessfully done. Run cfg2
+18/06/30 11:42:40:771: CHANGE_CFG cfg1; Change counter: 986
+18/06/30 11:42:47:797: Change configuration sucessfully done. Run cfg1
+18/06/30 11:43:48:528: CHANGE_CFG cfg2; Change counter: 987
+18/06/30 11:43:55:551: Change configuration sucessfully done. Run cfg2
+18/06/30 11:44:56:278: CHANGE_CFG cfg1; Change counter: 988
+18/06/30 11:45:03:307: Change configuration sucessfully done. Run cfg1
+18/06/30 11:46:04:083: CHANGE_CFG cfg2; Change counter: 989
+18/06/30 11:46:11:099: Change configuration sucessfully done. Run cfg2
+18/06/30 11:47:11:831: CHANGE_CFG cfg1; Change counter: 990
+18/06/30 11:47:18:857: Change configuration sucessfully done. Run cfg1
+18/06/30 11:48:19:631: CHANGE_CFG cfg2; Change counter: 991
+18/06/30 11:48:26:651: Change configuration sucessfully done. Run cfg2
+18/06/30 11:49:27:380: CHANGE_CFG cfg1; Change counter: 992
+18/06/30 11:49:34:397: Change configuration sucessfully done. Run cfg1
+18/06/30 11:50:35:154: CHANGE_CFG cfg2; Change counter: 993
+18/06/30 11:50:42:170: Change configuration sucessfully done. Run cfg2
+18/06/30 11:51:42:912: CHANGE_CFG cfg1; Change counter: 994
+18/06/30 11:51:49:921: Change configuration sucessfully done. Run cfg1
+18/06/30 11:52:50:683: CHANGE_CFG cfg2; Change counter: 995
+18/06/30 11:52:57:709: Change configuration sucessfully done. Run cfg2
+18/06/30 11:53:58:472: CHANGE_CFG cfg1; Change counter: 996
+18/06/30 11:54:05:480: Change configuration sucessfully done. Run cfg1
+18/06/30 11:55:06:217: CHANGE_CFG cfg2; Change counter: 997
+18/06/30 11:55:13:233: Change configuration sucessfully done. Run cfg2
+18/06/30 11:56:14:021: CHANGE_CFG cfg1; Change counter: 998
+18/06/30 11:56:21:028: Change configuration sucessfully done. Run cfg1
+18/06/30 11:57:21:716: CHANGE_CFG cfg2; Change counter: 999
+18/06/30 11:57:28:727: Change configuration sucessfully done. Run cfg2
+18/06/30 11:58:29:440: CHANGE_CFG cfg1; Change counter: 1000
+18/06/30 11:58:36:454: Change configuration sucessfully done. Run cfg1
+18/06/30 11:59:37:220: CHANGE_CFG cfg2; Change counter: 1001
+18/06/30 11:59:44:232: Change configuration sucessfully done. Run cfg2
+18/06/30 12:00:45:007: CHANGE_CFG cfg1; Change counter: 1002
+18/06/30 12:00:52:021: Change configuration sucessfully done. Run cfg1
+18/06/30 12:01:52:792: CHANGE_CFG cfg2; Change counter: 1003
+18/06/30 12:01:59:806: Change configuration sucessfully done. Run cfg2
+18/06/30 12:03:00:569: CHANGE_CFG cfg1; Change counter: 1004
+18/06/30 12:03:07:584: Change configuration sucessfully done. Run cfg1
+18/06/30 12:04:08:358: CHANGE_CFG cfg2; Change counter: 1005
+18/06/30 12:04:15:383: Change configuration sucessfully done. Run cfg2
+18/06/30 12:05:16:129: CHANGE_CFG cfg1; Change counter: 1006
+18/06/30 12:05:23:140: Change configuration sucessfully done. Run cfg1
+18/06/30 12:06:23:919: CHANGE_CFG cfg2; Change counter: 1007
+18/06/30 12:06:30:930: Change configuration sucessfully done. Run cfg2
+18/06/30 12:07:31:633: CHANGE_CFG cfg1; Change counter: 1008
+18/06/30 12:07:38:649: Change configuration sucessfully done. Run cfg1
+18/06/30 12:08:39:404: CHANGE_CFG cfg2; Change counter: 1009
+18/06/30 12:08:46:407: Change configuration sucessfully done. Run cfg2
+18/06/30 12:09:47:120: CHANGE_CFG cfg1; Change counter: 1010
+18/06/30 12:09:54:134: Change configuration sucessfully done. Run cfg1
+18/06/30 12:10:54:900: CHANGE_CFG cfg2; Change counter: 1011
+18/06/30 12:11:01:907: Change configuration sucessfully done. Run cfg2
+18/06/30 12:12:02:676: CHANGE_CFG cfg1; Change counter: 1012
+18/06/30 12:12:09:687: Change configuration sucessfully done. Run cfg1
+18/06/30 12:13:10:411: CHANGE_CFG cfg2; Change counter: 1013
+18/06/30 12:13:17:438: Change configuration sucessfully done. Run cfg2
+18/06/30 12:14:18:200: CHANGE_CFG cfg1; Change counter: 1014
+18/06/30 12:14:25:219: Change configuration sucessfully done. Run cfg1
+18/06/30 12:15:25:964: CHANGE_CFG cfg2; Change counter: 1015
+18/06/30 12:15:32:973: Change configuration sucessfully done. Run cfg2
+18/06/30 12:16:33:750: CHANGE_CFG cfg1; Change counter: 1016
+18/06/30 12:16:40:770: Change configuration sucessfully done. Run cfg1
+18/06/30 12:17:41:521: CHANGE_CFG cfg2; Change counter: 1017
+18/06/30 12:17:48:533: Change configuration sucessfully done. Run cfg2
+18/06/30 12:18:49:346: CHANGE_CFG cfg1; Change counter: 1018
+18/06/30 12:18:56:352: Change configuration sucessfully done. Run cfg1
+18/06/30 12:19:57:089: CHANGE_CFG cfg2; Change counter: 1019
+18/06/30 12:20:04:094: Change configuration sucessfully done. Run cfg2
+18/06/30 12:21:04:863: CHANGE_CFG cfg1; Change counter: 1020
+18/06/30 12:21:11:872: Change configuration sucessfully done. Run cfg1
+18/06/30 12:22:12:638: CHANGE_CFG cfg2; Change counter: 1021
+18/06/30 12:22:19:666: Change configuration sucessfully done. Run cfg2
+18/06/30 12:23:20:405: CHANGE_CFG cfg1; Change counter: 1022
+18/06/30 12:23:27:415: Change configuration sucessfully done. Run cfg1
+18/06/30 12:24:28:150: CHANGE_CFG cfg2; Change counter: 1023
+18/06/30 12:24:35:165: Change configuration sucessfully done. Run cfg2
+18/06/30 12:25:35:885: CHANGE_CFG cfg1; Change counter: 1024
+18/06/30 12:25:42:894: Change configuration sucessfully done. Run cfg1
+18/06/30 12:26:43:690: CHANGE_CFG cfg2; Change counter: 1025
+18/06/30 12:26:50:703: Change configuration sucessfully done. Run cfg2
+18/06/30 12:27:51:485: CHANGE_CFG cfg1; Change counter: 1026
+18/06/30 12:27:58:488: Change configuration sucessfully done. Run cfg1
+18/06/30 12:28:59:240: CHANGE_CFG cfg2; Change counter: 1027
+18/06/30 12:29:06:253: Change configuration sucessfully done. Run cfg2
+18/06/30 12:30:06:991: CHANGE_CFG cfg1; Change counter: 1028
+18/06/30 12:30:14:001: Change configuration sucessfully done. Run cfg1
+18/06/30 12:31:14:762: CHANGE_CFG cfg2; Change counter: 1029
+18/06/30 12:31:21:780: Change configuration sucessfully done. Run cfg2
+18/06/30 12:32:22:458: CHANGE_CFG cfg1; Change counter: 1030
+18/06/30 12:32:29:467: Change configuration sucessfully done. Run cfg1
+18/06/30 12:33:30:220: CHANGE_CFG cfg2; Change counter: 1031
+18/06/30 12:33:37:236: Change configuration sucessfully done. Run cfg2
+18/06/30 12:34:37:966: CHANGE_CFG cfg1; Change counter: 1032
+18/06/30 12:34:44:981: Change configuration sucessfully done. Run cfg1
+18/06/30 12:35:45:722: CHANGE_CFG cfg2; Change counter: 1033
+18/06/30 12:35:52:748: Change configuration sucessfully done. Run cfg2
+18/06/30 12:36:53:494: CHANGE_CFG cfg1; Change counter: 1034
+18/06/30 12:37:00:507: Change configuration sucessfully done. Run cfg1
+18/06/30 12:38:01:270: CHANGE_CFG cfg2; Change counter: 1035
+18/06/30 12:38:08:283: Change configuration sucessfully done. Run cfg2
+18/06/30 12:39:08:996: CHANGE_CFG cfg1; Change counter: 1036
+18/06/30 12:39:16:008: Change configuration sucessfully done. Run cfg1
+18/06/30 12:40:16:761: CHANGE_CFG cfg2; Change counter: 1037
+18/06/30 12:40:23:774: Change configuration sucessfully done. Run cfg2
+18/06/30 12:41:24:550: CHANGE_CFG cfg1; Change counter: 1038
+18/06/30 12:41:31:563: Change configuration sucessfully done. Run cfg1
+18/06/30 12:42:32:339: CHANGE_CFG cfg2; Change counter: 1039
+18/06/30 12:42:39:357: Change configuration sucessfully done. Run cfg2
+18/06/30 12:43:40:087: CHANGE_CFG cfg1; Change counter: 1040
+18/06/30 12:43:47:103: Change configuration sucessfully done. Run cfg1
+18/06/30 12:44:47:885: CHANGE_CFG cfg2; Change counter: 1041
+18/06/30 12:44:54:899: Change configuration sucessfully done. Run cfg2
+18/06/30 12:45:55:668: CHANGE_CFG cfg1; Change counter: 1042
+18/06/30 12:46:02:678: Change configuration sucessfully done. Run cfg1
+18/06/30 12:47:03:456: CHANGE_CFG cfg2; Change counter: 1043
+18/06/30 12:47:10:469: Change configuration sucessfully done. Run cfg2
+18/06/30 12:48:11:212: CHANGE_CFG cfg1; Change counter: 1044
+18/06/30 12:48:18:223: Change configuration sucessfully done. Run cfg1
+18/06/30 12:49:18:937: CHANGE_CFG cfg2; Change counter: 1045
+18/06/30 12:49:25:949: Change configuration sucessfully done. Run cfg2
+18/06/30 12:50:26:645: CHANGE_CFG cfg1; Change counter: 1046
+18/06/30 12:50:33:658: Change configuration sucessfully done. Run cfg1
+18/06/30 12:51:34:422: CHANGE_CFG cfg2; Change counter: 1047
+18/06/30 12:51:41:432: Change configuration sucessfully done. Run cfg2
+18/06/30 12:52:42:220: CHANGE_CFG cfg1; Change counter: 1048
+18/06/30 12:52:49:232: Change configuration sucessfully done. Run cfg1
+18/06/30 12:53:49:989: CHANGE_CFG cfg2; Change counter: 1049
+18/06/30 12:53:57:010: Change configuration sucessfully done. Run cfg2
+18/06/30 12:54:57:764: CHANGE_CFG cfg1; Change counter: 1050
+18/06/30 12:55:04:788: Change configuration sucessfully done. Run cfg1
+18/06/30 12:56:05:575: CHANGE_CFG cfg2; Change counter: 1051
+18/06/30 12:56:12:589: Change configuration sucessfully done. Run cfg2
+18/06/30 12:57:13:300: CHANGE_CFG cfg1; Change counter: 1052
+18/06/30 12:57:20:313: Change configuration sucessfully done. Run cfg1
+18/06/30 12:58:21:033: CHANGE_CFG cfg2; Change counter: 1053
+18/06/30 12:58:28:059: Change configuration sucessfully done. Run cfg2
+18/06/30 12:59:28:781: CHANGE_CFG cfg1; Change counter: 1054
+18/06/30 12:59:35:793: Change configuration sucessfully done. Run cfg1
+18/06/30 13:00:36:509: CHANGE_CFG cfg2; Change counter: 1055
+18/06/30 13:00:43:521: Change configuration sucessfully done. Run cfg2
+18/06/30 13:01:44:249: CHANGE_CFG cfg1; Change counter: 1056
+18/06/30 13:01:51:261: Change configuration sucessfully done. Run cfg1
+18/06/30 13:02:52:018: CHANGE_CFG cfg2; Change counter: 1057
+18/06/30 13:02:59:040: Change configuration sucessfully done. Run cfg2
+18/06/30 13:03:59:778: CHANGE_CFG cfg1; Change counter: 1058
+18/06/30 13:04:06:789: Change configuration sucessfully done. Run cfg1
+18/06/30 13:05:07:615: CHANGE_CFG cfg2; Change counter: 1059
+18/06/30 13:05:14:625: Change configuration sucessfully done. Run cfg2
+18/06/30 13:06:15:369: CHANGE_CFG cfg1; Change counter: 1060
+18/06/30 13:06:22:383: Change configuration sucessfully done. Run cfg1
+18/06/30 13:07:23:115: CHANGE_CFG cfg2; Change counter: 1061
+18/06/30 13:07:30:129: Change configuration sucessfully done. Run cfg2
+18/06/30 13:08:30:911: CHANGE_CFG cfg1; Change counter: 1062
+18/06/30 13:08:37:932: Change configuration sucessfully done. Run cfg1
+18/06/30 13:09:38:682: CHANGE_CFG cfg2; Change counter: 1063
+18/06/30 13:09:45:696: Change configuration sucessfully done. Run cfg2
+18/06/30 13:10:46:450: CHANGE_CFG cfg1; Change counter: 1064
+18/06/30 13:10:53:463: Change configuration sucessfully done. Run cfg1
+18/06/30 13:11:54:219: CHANGE_CFG cfg2; Change counter: 1065
+18/06/30 13:12:01:234: Change configuration sucessfully done. Run cfg2
+18/06/30 13:13:01:974: CHANGE_CFG cfg1; Change counter: 1066
+18/06/30 13:13:08:986: Change configuration sucessfully done. Run cfg1
+18/06/30 13:14:09:772: CHANGE_CFG cfg2; Change counter: 1067
+18/06/30 13:14:16:799: Change configuration sucessfully done. Run cfg2
+18/06/30 13:15:17:549: CHANGE_CFG cfg1; Change counter: 1068
+18/06/30 13:15:24:559: Change configuration sucessfully done. Run cfg1
+18/06/30 13:16:25:260: CHANGE_CFG cfg2; Change counter: 1069
+18/06/30 13:16:32:277: Change configuration sucessfully done. Run cfg2
+18/06/30 13:17:33:001: CHANGE_CFG cfg1; Change counter: 1070
+18/06/30 13:17:40:017: Change configuration sucessfully done. Run cfg1
+18/06/30 13:18:40:748: CHANGE_CFG cfg2; Change counter: 1071
+18/06/30 13:18:47:763: Change configuration sucessfully done. Run cfg2
+18/06/30 13:19:48:529: CHANGE_CFG cfg1; Change counter: 1072
+18/06/30 13:19:55:552: Change configuration sucessfully done. Run cfg1
+18/06/30 13:20:56:310: CHANGE_CFG cfg2; Change counter: 1073
+18/06/30 13:21:03:322: Change configuration sucessfully done. Run cfg2
+18/06/30 13:22:04:061: CHANGE_CFG cfg1; Change counter: 1074
+18/06/30 13:22:11:070: Change configuration sucessfully done. Run cfg1
+18/06/30 13:23:11:801: CHANGE_CFG cfg2; Change counter: 1075
+18/06/30 13:23:18:839: Change configuration sucessfully done. Run cfg2
+18/06/30 13:24:19:555: CHANGE_CFG cfg1; Change counter: 1076
+18/06/30 13:24:26:564: Change configuration sucessfully done. Run cfg1
+18/06/30 13:25:27:274: CHANGE_CFG cfg2; Change counter: 1077
+18/06/30 13:25:34:282: Change configuration sucessfully done. Run cfg2
+18/06/30 13:26:34:988: CHANGE_CFG cfg1; Change counter: 1078
+18/06/30 13:26:41:995: Change configuration sucessfully done. Run cfg1
+18/06/30 13:27:42:740: CHANGE_CFG cfg2; Change counter: 1079
+18/06/30 13:27:49:743: Change configuration sucessfully done. Run cfg2
+18/06/30 13:28:50:505: CHANGE_CFG cfg1; Change counter: 1080
+18/06/30 13:28:57:526: Change configuration sucessfully done. Run cfg1
+18/06/30 13:29:58:273: CHANGE_CFG cfg2; Change counter: 1081
+18/06/30 13:30:05:289: Change configuration sucessfully done. Run cfg2
+18/06/30 13:31:06:036: CHANGE_CFG cfg1; Change counter: 1082
+18/06/30 13:31:13:047: Change configuration sucessfully done. Run cfg1
+18/06/30 13:32:13:812: CHANGE_CFG cfg2; Change counter: 1083
+18/06/30 13:32:20:821: Change configuration sucessfully done. Run cfg2
+18/06/30 13:33:21:606: CHANGE_CFG cfg1; Change counter: 1084
+18/06/30 13:33:28:622: Change configuration sucessfully done. Run cfg1
+18/06/30 13:34:29:351: CHANGE_CFG cfg2; Change counter: 1085
+18/06/30 13:34:36:364: Change configuration sucessfully done. Run cfg2
+18/06/30 13:35:21:944: No read message detected!!!
+At the 1086th of changing configuration, issue occur
+The current configuration is :cfg2
+Total running time of device: 1085.733 minutes
+18/06/30 13:35:21:944: Exiting host mode...
+18/06/30 13:35:23:970: Exited host mode sucessfully.

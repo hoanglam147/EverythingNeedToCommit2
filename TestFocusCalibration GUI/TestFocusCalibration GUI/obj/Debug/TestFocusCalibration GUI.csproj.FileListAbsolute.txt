@@ -1,0 +1,10 @@
+E:\Rs\repos\TestFocusCalibration GUI\TestFocusCalibration GUI\bin\Debug\TestFocusCalibration GUI.exe.config
+E:\Rs\repos\TestFocusCalibration GUI\TestFocusCalibration GUI\bin\Debug\TestFocusCalibration GUI.exe
+E:\Rs\repos\TestFocusCalibration GUI\TestFocusCalibration GUI\bin\Debug\TestFocusCalibration GUI.pdb
+E:\Rs\repos\TestFocusCalibration GUI\TestFocusCalibration GUI\obj\Debug\TestFocusCalibration GUI.csprojAssemblyReference.cache
+E:\Rs\repos\TestFocusCalibration GUI\TestFocusCalibration GUI\obj\Debug\TestFocusCalibration_GUI.Form1.resources
+E:\Rs\repos\TestFocusCalibration GUI\TestFocusCalibration GUI\obj\Debug\TestFocusCalibration_GUI.Properties.Resources.resources
+E:\Rs\repos\TestFocusCalibration GUI\TestFocusCalibration GUI\obj\Debug\TestFocusCalibration GUI.csproj.GenerateResource.cache
+E:\Rs\repos\TestFocusCalibration GUI\TestFocusCalibration GUI\obj\Debug\TestFocusCalibration GUI.csproj.CoreCompileInputs.cache
+E:\Rs\repos\TestFocusCalibration GUI\TestFocusCalibration GUI\obj\Debug\TestFocusCalibration GUI.exe
+E:\Rs\repos\TestFocusCalibration GUI\TestFocusCalibration GUI\obj\Debug\TestFocusCalibration GUI.pdb

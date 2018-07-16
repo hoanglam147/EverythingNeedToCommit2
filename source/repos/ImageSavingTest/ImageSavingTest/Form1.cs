@@ -16,24 +16,10 @@ namespace ImageSavingTest
         {
            
         }
-        private FolderChangeEvent folderChangeEvent = new FolderChangeEvent("E:\\yemp\\HOSO");
-        private Thread thread1, thread2;
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            folderChangeEvent._shouldStop = false;
-            this.Close();
-        }
-
+        private FolderChangeEvent folderChangeEvent = new FolderChangeEvent("");
         private void button1_Click(object sender, EventArgs e)
-        {
-            
+        {           
             folderChangeEvent._shouldStop = true;
-            folderChangeEvent.setPathExcelFile("E:\\lam\\Book1.xlsx");
-            folderChangeEvent.setSheetExcelIndex(1);
-            folderChangeEvent.BeginWatchChangeInFolder();
-            thread1 = new Thread(folderChangeEvent.TrackingEventChangeInFolder);
-            thread1.Start();
         }
     }
 }

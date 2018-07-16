@@ -1,0 +1,6 @@
+c:\users\lhoang\source\repos\SerialPortConnection\SerialPortConnection\bin\Debug\SerialPortConnection.dll
+c:\users\lhoang\source\repos\SerialPortConnection\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+c:\users\lhoang\source\repos\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.csprojAssemblyReference.cache
+c:\users\lhoang\source\repos\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.CoreCompileInputs.cache
+c:\users\lhoang\source\repos\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.dll
+c:\users\lhoang\source\repos\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.pdb

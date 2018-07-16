@@ -1,0 +1,11 @@
+29/06 10:29:44.791: Entering Host Mode, should not close this window!!!
+29/06 10:29:48.795: Enter Host Mode Succesfully!
+29/06 10:29:48.795: CHANGE_CFG cfg1
+29/06 10:29:53.797: Change configuration sucessfully done. Run cfg1
+29/06 10:29:54.213: No read message detected!!!
+At the 1th of changing configuration, issue occur
+The current configuration is :cfg1
+Total running time of device: 0 minutes
+29/06 10:29:54.214: Exiting host mode...
+29/06 10:29:56.215: Exited host mode sucessfully.
+29/06 10:29:56.215: Press any key to exit...

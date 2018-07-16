@@ -1,0 +1,7 @@
+C:\Users\lhoang\source\repos\AutoGITHUB\AutoGITHUB\bin\Debug\AutoGITHUB.exe.config
+C:\Users\lhoang\source\repos\AutoGITHUB\AutoGITHUB\bin\Debug\AutoGITHUB.exe
+C:\Users\lhoang\source\repos\AutoGITHUB\AutoGITHUB\bin\Debug\AutoGITHUB.pdb
+C:\Users\lhoang\source\repos\AutoGITHUB\AutoGITHUB\obj\Debug\AutoGITHUB.csprojAssemblyReference.cache
+C:\Users\lhoang\source\repos\AutoGITHUB\AutoGITHUB\obj\Debug\AutoGITHUB.csproj.CoreCompileInputs.cache
+C:\Users\lhoang\source\repos\AutoGITHUB\AutoGITHUB\obj\Debug\AutoGITHUB.exe
+C:\Users\lhoang\source\repos\AutoGITHUB\AutoGITHUB\obj\Debug\AutoGITHUB.pdb

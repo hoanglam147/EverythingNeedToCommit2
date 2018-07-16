@@ -1,0 +1,10 @@
+c:\users\lhoang\source\repos\GITHUB\GITHUB\bin\Debug\GITHUB.exe.config
+c:\users\lhoang\source\repos\GITHUB\GITHUB\bin\Debug\GITHUB.exe
+c:\users\lhoang\source\repos\GITHUB\GITHUB\bin\Debug\GITHUB.pdb
+c:\users\lhoang\source\repos\GITHUB\GITHUB\obj\Debug\GITHUB.csprojAssemblyReference.cache
+c:\users\lhoang\source\repos\GITHUB\GITHUB\obj\Debug\GITHUB.Form1.resources
+c:\users\lhoang\source\repos\GITHUB\GITHUB\obj\Debug\GITHUB.Properties.Resources.resources
+c:\users\lhoang\source\repos\GITHUB\GITHUB\obj\Debug\GITHUB.csproj.GenerateResource.cache
+c:\users\lhoang\source\repos\GITHUB\GITHUB\obj\Debug\GITHUB.csproj.CoreCompileInputs.cache
+c:\users\lhoang\source\repos\GITHUB\GITHUB\obj\Debug\GITHUB.exe
+c:\users\lhoang\source\repos\GITHUB\GITHUB\obj\Debug\GITHUB.pdb

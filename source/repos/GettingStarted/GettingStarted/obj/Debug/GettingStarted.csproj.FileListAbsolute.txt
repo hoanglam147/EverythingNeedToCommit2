@@ -1,0 +1,15 @@
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe.config
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\bin\Debug\GettingStarted.pdb
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csprojAssemblyReference.cache
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\obj\Debug\MainWindow.g.cs
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\obj\Debug\App.g.cs
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted_MarkupCompile.cache
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted_MarkupCompile.lref
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\obj\Debug\MainWindow.baml
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.g.resources
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.Properties.Resources.resources
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csproj.GenerateResource.cache
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csproj.CoreCompileInputs.cache
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.exe
+c:\users\lhoang\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb

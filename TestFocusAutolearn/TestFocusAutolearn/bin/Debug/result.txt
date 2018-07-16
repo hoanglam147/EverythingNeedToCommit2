@@ -1,0 +1,8 @@
+18/06/29 15:16:23:662: Entering Host Mode, should not close this window!!!
+18/06/29 15:16:27:665: Enter Host Mode Succesfully!
+18/06/29 15:16:27:665: CHANGE_CFG cfg1; Change counter: 0
+18/06/29 15:16:30:668: Change configuration sucessfully done. Run cfg1
+18/06/29 15:17:30:899: CHANGE_CFG cfg2; Change counter: 1
+18/06/29 15:17:33:901: Change configuration sucessfully done. Run cfg2
+18/06/29 15:17:41:929: Exiting host mode...
+18/06/29 15:17:43:929: Exited host mode sucessfully.

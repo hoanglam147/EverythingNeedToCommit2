@@ -1,0 +1,15 @@
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\bin\Debug\TestForDLL.exe.config
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\bin\Debug\TestForDLL.exe
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\bin\Debug\TestForDLL.pdb
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\obj\Debug\TestForDLL.csprojAssemblyReference.cache
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\obj\Debug\MainWindow.g.cs
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\obj\Debug\App.g.cs
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\obj\Debug\TestForDLL_MarkupCompile.cache
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\obj\Debug\TestForDLL_MarkupCompile.lref
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\obj\Debug\MainWindow.baml
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\obj\Debug\TestForDLL.g.resources
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\obj\Debug\TestForDLL.Properties.Resources.resources
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\obj\Debug\TestForDLL.csproj.GenerateResource.cache
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\obj\Debug\TestForDLL.csproj.CoreCompileInputs.cache
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\obj\Debug\TestForDLL.exe
+c:\users\lhoang\source\repos\TestForDLL\TestForDLL\obj\Debug\TestForDLL.pdb

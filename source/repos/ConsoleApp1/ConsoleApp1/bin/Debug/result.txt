@@ -1,0 +1,2 @@
+Hello World from the file!
+The first line to be in the logfile and on the console.

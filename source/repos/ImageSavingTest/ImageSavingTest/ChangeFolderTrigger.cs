@@ -5,51 +5,33 @@ using ImageSavingTest;
 namespace ChangeInFolderTrigger
 {
     
+
     public class FolderChangeEvent
     {
-        // 
-        /*--default setting for excel file--*/
-        public const  uint startRow = 5;
-        public const uint col1 = 8;
-        public const uint col2 = 9;
-        /*----------------------------------*/
-
-        public string FileNamePush;
+        public  string FileNamePush;
         private string directory;
         private static  string FileName;
         public volatile bool _shouldStop;
-        private static string pathExceFile;
-        private static uint sheetExcelIndex;
         public FolderChangeEvent(string path)
         {
             directory = path;
         }
 
-        public void setPathExcelFile(string t_path)
-        {
-            pathExceFile = t_path;
-        }
-        public void setSheetExcelIndex(uint t_index)
-        {
-            sheetExcelIndex = t_index;
-        }
         public void BeginWatchChangeInFolder()
         {
             FileSystemWatcher watcher = new FileSystemWatcher();
             watcher.Path = directory;
             watcher.Changed += new FileSystemEventHandler(OnChanged);
             watcher.EnableRaisingEvents = true;
+            
         }
 
         private static void OnChanged(object source, FileSystemEventArgs e)
         {
             FileName = Path.GetFileName(e.FullPath);
         }
-        
-        public void TrackingEventChangeInFolder()
+        public void TrackingEventChangeInFolder(string t_path, Int16 t_index)
         {
-            string temp;
-            uint row = startRow;
             Application excel = new Application();
             if (excel == null)
             {
@@ -59,26 +41,13 @@ namespace ChangeInFolderTrigger
             Worksheet excelWorksheet;
             object misvalue = System.Reflection.Missing.Value;
 
-            excelWorkbook = excel.Workbooks.Open(pathExceFile);
-            excelWorksheet = excelWorkbook.Worksheets.get_Item(sheetExcelIndex);
-            temp = FileName;
+            excelWorkbook = excel.Workbooks.Open(t_path);
+            excelWorksheet = excelWorkbook.Worksheets.get_Item(t_index);
+
             while (_shouldStop)
             {
                 
-                if (temp==FileName)
-                {
-
-                }
-                else
-                {
-                    excelWorksheet.Cells[row, col1] = DateTime.Now;
-                    excelWorksheet.Cells[row, col2] = FileName;
-                    temp = FileName;
-                    row = row + 1;
-                }
             }
-            excelWorkbook.Close(true, misvalue, misvalue);
-            excel.Quit();
         }
     }
 
