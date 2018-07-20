@@ -1,5 +1,0 @@
-C:\Users\lhoang\source\repos\ChangeInFolderTrigger\ChangeInFolderTrigger\bin\Release\ChangeInFolderTrigger.dll
-C:\Users\lhoang\source\repos\ChangeInFolderTrigger\ChangeInFolderTrigger\bin\Release\ChangeInFolderTrigger.pdb
-C:\Users\lhoang\source\repos\ChangeInFolderTrigger\ChangeInFolderTrigger\obj\Release\ChangeInFolderTrigger.csproj.CoreCompileInputs.cache
-C:\Users\lhoang\source\repos\ChangeInFolderTrigger\ChangeInFolderTrigger\obj\Release\ChangeInFolderTrigger.dll
-C:\Users\lhoang\source\repos\ChangeInFolderTrigger\ChangeInFolderTrigger\obj\Release\ChangeInFolderTrigger.pdb
