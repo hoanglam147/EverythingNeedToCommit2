@@ -1,0 +1,36 @@
+20/07 04:31:37:721: Send OneShot Command 1
+20/07 04:31:37:823 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
+
+Not detect image transfer when good read detected. Error!
+20/07 04:31:47:724: Send OneShot Command 2
+20/07 04:31:47:826 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
+
+Not detect image transfer when good read detected. Error!
+20/07 04:31:57:732: Send OneShot Command 3
+20/07 04:31:57:834 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
+
+Not detect image transfer when good read detected. Error!
+20/07 04:32:07:735: Send OneShot Command 4
+20/07 04:32:07:853 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
+
+Not detect image transfer when good read detected. Error!
+20/07 04:32:17:755: Send OneShot Command 5
+20/07 04:32:17:858 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
+
+Not detect image transfer when good read detected. Error!
+20/07 04:32:27:802: Send OneShot Command 6
+20/07 04:32:27:913 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
+
+Not detect image transfer when good read detected. Error!
+20/07 04:32:37:819: Send OneShot Command 7
+20/07 04:32:37:932 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
+
+Not detect image transfer when good read detected. Error!
+20/07 04:32:47:833: Send OneShot Command 8
+20/07 04:32:47:934 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
+
+Not detect image transfer when good read detected. Error!
+20/07 04:32:57:834: Send OneShot Command 9
+20/07 04:32:57:935 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
+
+Not detect image transfer when good read detected. Error!

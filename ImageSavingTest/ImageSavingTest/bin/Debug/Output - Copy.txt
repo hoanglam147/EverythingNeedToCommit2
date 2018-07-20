@@ -1,0 +1,29 @@
+19/07 08:15:52:034: Send command to on phase; Start phase: 1
+
+19/07 08:15:52:119 New Image transfer in to folder with file name IMG_0000000054_00_01_001.bmp; Number of image transfered: 1
+19/07 08:15:52:739: Send command to off phase; Stop phase: 1
+
+19/07 08:15:52:760 Phase result message: Success: 92063
+
+19/07 08:16:02:775: Send command to on phase; Start phase: 2
+
+19/07 08:16:02:889 New Image transfer in to folder with file name IMG_0000000055_00_01_001.bmp; Number of image transfered: 2
+19/07 08:16:03:077 New Image transfer in to folder with file name IMG_0000000055_00_02_001.bmp; Number of image transfered: 3
+19/07 08:16:03:479: Send command to off phase; Stop phase: 2
+
+19/07 08:16:03:500 Phase result message: Success: 92063
+
+19/07 08:16:13:515: Send command to on phase; Start phase: 3
+
+19/07 08:16:13:608 New Image transfer in to folder with file name IMG_0000000056_00_01_001.bmp; Number of image transfered: 4
+19/07 08:16:14:219: Send command to off phase; Stop phase: 3
+
+19/07 08:16:14:240 Phase result message: Success: 92063
+
+19/07 08:16:24:256: Send command to on phase; Start phase: 4
+
+19/07 08:16:24:342 New Image transfer in to folder with file name IMG_0000000057_00_01_001.bmp; Number of image transfered: 5
+19/07 08:16:24:959: Send command to off phase; Stop phase: 4
+
+19/07 08:16:24:980 Phase result message: Success: 92063
+
