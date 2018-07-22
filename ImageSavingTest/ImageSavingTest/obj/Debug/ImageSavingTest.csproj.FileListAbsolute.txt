@@ -20,3 +20,14 @@ E:\Rs\github\source\repos\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingT
 E:\Rs\github\source\repos\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.exe
 E:\Rs\github\source\repos\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.pdb
 E:\Rs\github\source\repos\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csprojAssemblyReference.cache
+E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\bin\Debug\ImageSavingTest.exe.config
+E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\bin\Debug\ImageSavingTest.exe
+E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\bin\Debug\ImageSavingTest.pdb
+E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csprojAssemblyReference.cache
+E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csproj.ResolveComReference.cache
+E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.Form1.resources
+E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.Properties.Resources.resources
+E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csproj.GenerateResource.cache
+E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csproj.CoreCompileInputs.cache
+E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.exe
+E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.pdb
