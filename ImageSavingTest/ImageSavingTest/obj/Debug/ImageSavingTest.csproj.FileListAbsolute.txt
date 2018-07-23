@@ -31,3 +31,14 @@ E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSa
 E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csproj.CoreCompileInputs.cache
 E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.exe
 E:\lam\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.pdb
+E:\Rs\HMP\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\bin\Debug\ImageSavingTest.exe.config
+E:\Rs\HMP\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\bin\Debug\ImageSavingTest.exe
+E:\Rs\HMP\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\bin\Debug\ImageSavingTest.pdb
+E:\Rs\HMP\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csprojAssemblyReference.cache
+E:\Rs\HMP\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csproj.ResolveComReference.cache
+E:\Rs\HMP\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.Form1.resources
+E:\Rs\HMP\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.Properties.Resources.resources
+E:\Rs\HMP\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csproj.GenerateResource.cache
+E:\Rs\HMP\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.csproj.CoreCompileInputs.cache
+E:\Rs\HMP\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.exe
+E:\Rs\HMP\EverythingNeedToCommit2\ImageSavingTest\ImageSavingTest\obj\Debug\ImageSavingTest.pdb
