@@ -18,7 +18,7 @@ namespace ChangeInFolderTrigger
         private string directory;
         private static  string FileName;
         private static uint count = 0;
-        public volatile bool _shouldStopTrackingFolder;
+        public volatile bool _shouldStop;
         public volatile string RecordStringEventInFolder = "";
         public  volatile bool hasChange = false;
         //private static string pathExceFile;
@@ -46,7 +46,7 @@ namespace ChangeInFolderTrigger
         {
             string temp;
             temp = FileName;
-            while (_shouldStopTrackingFolder)
+            while (_shouldStop)
             {
                 
                 if (temp==FileName)

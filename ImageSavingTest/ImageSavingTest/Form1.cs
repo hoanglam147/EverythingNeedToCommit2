@@ -5,10 +5,23 @@ using System.IO;
 using System.Threading;
 using TriggerDeviceNameSpace;
 using ChangeInFolderTrigger;
+
 namespace ImageSavingTest
 {
     public partial class Form1 : Form
     {
+        private Thread thread1, thread2, thread3;
+        private FolderChangeEvent folderChangeEvent;
+        private PhaseModeTCP phaseModeTCP;
+        private OneShotTCP oneShotTCP;
+        private volatile bool shouldStop = true;
+
+        UInt32 onPhaseTimeVal, offPhaseTimeVal, delayOnTimeVal, delayOffTimeVal;
+        UInt32 timetrigger, delayExternal;
+
+        UInt32 Port;
+        string IPAdress;
+
         public Form1()
         {
             InitializeComponent();
@@ -65,7 +78,6 @@ namespace ImageSavingTest
                 checkOneShotDelay.Checked = false;
             }
         }
-
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
             //if (radioContinous.Checked)
@@ -83,7 +95,6 @@ namespace ImageSavingTest
                 delayOneShot.Visible = false;
             }
         }
-
         private void checkPhaseDelay_CheckedChanged(object sender, EventArgs e)
         {
             if (checkPhaseDelay.Checked)
@@ -97,7 +108,6 @@ namespace ImageSavingTest
                 delaypOff.Visible = false;
             }
         }
-
         private void checkOneShotDelay_CheckedChanged(object sender, EventArgs e)
         {
             if (checkOneShotDelay.Checked)
@@ -109,29 +119,44 @@ namespace ImageSavingTest
                 delayOneShot.Visible = false;
             }
         }
-        private Thread thread1, thread2, thread3;
-        private FolderChangeEvent folderChangeEvent = new FolderChangeEvent("E:\\WORK\\FileZillaImages\\Device1\\Images");
-        //PhaseModeTCP phaseModeTCP = new PhaseModeTCP("T1", "T2", AcquisitionType.Continous,"", 700, 10000, "192.168.1.12", 51236);
-        OneShotTCP oneShotTCP = new OneShotTCP("T1", "192.168.1.12", 51236);
-        private volatile bool shouldStop = true;
-
+        private void radioImageSaving_CheckedChanged(object sender, EventArgs e)
+        {
+            pathTextbox.Visible = true;
+            goodreadcheck.Visible = true;
+            noreadcheck.Visible = true;
+        }
+        private void goodreadcheck_CheckedChanged(object sender, EventArgs e)
+        {
+            if (goodreadcheck.Checked)
+            {
+                goodreadtxt.Visible = true;
+            }
+            else
+            {
+                goodreadtxt.Visible = false;
+            }
+        }
+        private void noreadcheck_CheckedChanged(object sender, EventArgs e)
+        {
+            if (noreadcheck.Checked)
+            {
+                noreadtxt.Visible = true;
+            }
+            else
+            {
+                noreadtxt.Visible = false;
+            }
+        }
         private void button2_Click(object sender, EventArgs e)
         {
-            oneShotTCP._shouldStop = false;
+            phaseModeTCP._shouldStop = false;
             Thread.Sleep(5000);
-            folderChangeEvent._shouldStopTrackingFolder = false;
+            folderChangeEvent._shouldStop = false;
             Thread.Sleep(2000);
             shouldStop = false;
             this.Close();
             
         }
-
-
-
-
-
-        UInt32 onPhaseTimeVal, offPhaseTimeVal, delayOnTimeVal, delayOffTimeVal;
-        UInt32 timetrigger, delayExternal;
         private void InVisibleAll()
         {
             pOnCmdtxt.Visible = false;
@@ -150,11 +175,19 @@ namespace ImageSavingTest
             radioPhase.Visible = false;
             radioOneShot.Visible = false;
             radioContinous.Visible = false;
+
+            radioImageSaving.Checked = false;
+            radioPTL.Checked = false;
+
+            pathTextbox.Visible = false;
+            goodreadcheck.Visible = false;
+            noreadcheck.Visible = false;
+            goodreadtxt.Visible = false;
+            noreadtxt.Visible = false;
         }
         private bool isIP_PORT_Correct()
         {
             UInt16 IP1, IP2, IP3, IP4;
-            UInt32 Port;
             bool ret = true;
             bool isNumber_IP1 = UInt16.TryParse(textboxIP1.Text, out IP1);
             bool isNumber_IP2 = UInt16.TryParse(textboxIP2.Text, out IP2);
@@ -172,9 +205,6 @@ namespace ImageSavingTest
 
             return ret;
         }
-
-
-
         private bool isPhaseCorrect()
         {
             bool ret = true;
@@ -210,33 +240,89 @@ namespace ImageSavingTest
             }
             return ret;
         }
+        private bool isFeartureSelect()
+        {
+            return (radioImageSaving.Checked || radioPTL.Checked);
+        }
+        private bool isSavingParameterCorrect()
+        {
+            bool ret;
+            if(Directory.Exists(pathTextbox.Text) && (goodreadcheck.Checked || noreadcheck.Checked))
+            {
+                if((goodreadcheck.Checked && goodreadtxt.Text.Length ==0) || (noreadcheck.Checked && noreadtxt.Text.Length ==0))
+                {
+                    ret = false;
+                }
+                else
+                {
+                    ret = true;
+                }      
+            }
+            else
+            {
+                ret = false;
+            }
+            return ret;
+        }
         private void button1_Click(object sender, EventArgs e)
         {
-            bool IPCorrect = isIP_PORT_Correct();
-            bool PhaseCorrect = false, OneShotCorrect = false, ContinousCorrect = false;
-            if(radioPhase.Checked)
+            if(nextbut.Text == "Next")
             {
-                PhaseCorrect = isPhaseCorrect();
+                bool IPCorrect = isIP_PORT_Correct();
+                bool PhaseCorrect = false, OneShotCorrect = false, ContinousCorrect = false;
+                if (radioPhase.Checked)
+                {
+                    PhaseCorrect = isPhaseCorrect();
+                }
+                else if (radioOneShot.Checked)
+                {
+                    OneShotCorrect = isOneShotCorrect();
+                }
+                else
+                {
+                    ContinousCorrect = true;
+                }
+
+                if (IPCorrect && (PhaseCorrect || OneShotCorrect || ContinousCorrect))
+                {
+                    InVisibleAll();
+                    groupBox1.Visible = true;
+                    nextbut.Text = "Run";
+                    IPAdress = textboxIP1.Text + "." + textboxIP2.Text + "." + textboxIP3.Text + "." + textboxIP4.Text;
+                }
+                else
+                {
+                    MessageBox.Show("Please fill correct information");
+                }
             }
-            else if(radioOneShot.Checked)
+            else if(nextbut.Text == "Run")
             {
-                OneShotCorrect = isOneShotCorrect();
+                if(!isFeartureSelect())
+                {
+                    MessageBox.Show("Please select feature");
+                }
+                else if( radioImageSaving.Checked)
+                {
+                    if(!isSavingParameterCorrect())
+                    {
+                        MessageBox.Show("Paramenter for image saving is not correct");
+                    }
+                    else
+                    {
+                        ImageSavingTest();
+                    }
+                }
+                else
+                {
+                    // do nothing
+                    // currently not implement
+                }
             }
             else
             {
-                ContinousCorrect = true;
+
             }
 
-            if(IPCorrect && (PhaseCorrect || OneShotCorrect || ContinousCorrect))
-            {
-                InVisibleAll();
-                groupBox1.Visible = true;
-                
-            }
-            else
-            {
-                MessageBox.Show("Please fill correct information");
-            }
             //folderChangeEvent._shouldStopTrackingFolder = true;
             //folderChangeEvent.BeginWatchChangeInFolder();
 
@@ -253,13 +339,49 @@ namespace ImageSavingTest
             //thread2 = new Thread(oneShotTCP.GenerateSignalBaseOnConfiguration);
             //thread2.Start();           
         }
-
-        private void textboxIP1_TextChanged(object sender, EventArgs e)
+        private void ImageSavingTest()
         {
+            folderChangeEvent = new FolderChangeEvent(pathTextbox.Text);
+            folderChangeEvent._shouldStop = true;
+            folderChangeEvent.BeginWatchChangeInFolder();
+            thread1 = new Thread(folderChangeEvent.TrackingEventChangeInFolder);
+            thread1.Start();
+
+            if(isPhaseCorrect())
+            {
+                thread3 = new Thread(OutputPhase);
+                thread3.Start();
+
+                phaseModeTCP = new PhaseModeTCP(pOnCmdtxt.Text, pOffCmdtxt.Text, AcquisitionType.Continous, null, (int)onPhaseTimeVal, (int)offPhaseTimeVal, IPAdress, (int)Port);
+                phaseModeTCP.InitTCPConnection();
+                phaseModeTCP.goodreadPattern = goodreadtxt.Text;
+                phaseModeTCP.noreadPattern = noreadtxt.Text;
+                phaseModeTCP._shouldStop = true;
+                thread2 = new Thread(phaseModeTCP.GenerateSignalBaseOnConfiguration);
+                thread2.Start();
+
+            }
+            else if (isOneShotCorrect())
+            {
+                thread3 = new Thread(OutputOneShot);
+                thread3.Start();
+
+                oneShotTCP = new OneShotTCP(oneShotCmdtxt.Text, IPAdress, (int)Port);
+                oneShotTCP.SetTimer((int)timetrigger);
+                oneShotTCP.InitTCPConnection();
+                oneShotTCP.goodreadPattern = goodreadtxt.Text;
+                oneShotTCP.noreadPattern = noreadtxt.Text;
+                oneShotTCP._shouldStop = true;
+                thread2 = new Thread(oneShotTCP.GenerateSignalBaseOnConfiguration);
+                thread2.Start();
+            }
+            else
+            {
+                // continous mode
+            }
 
         }
-
-        private void run()
+        private void OutputOneShot()
         {
             string temp1, temp2;
             StreamWriter streamWriter = new StreamWriter("Output.txt");
@@ -278,34 +400,141 @@ namespace ImageSavingTest
                     streamWriter.WriteLine(oneShotTCP.RecordString);
                     temp2 = oneShotTCP.RecordString;
                 }
-                if(folderChangeEvent.hasChange)
+                //if(goodreadcheck.Checked && !noreadcheck.Checked)
+                //{
+                //   if(oneShotTCP.goodRead == 1 && folderChangeEvent.hasChange)
+                //    {
+                //        oneShotTCP.goodRead = 0;
+                //        folderChangeEvent.hasChange = false;
+                //    }
+                //   else if((oneShotTCP.goodRead == 1 && !folderChangeEvent.hasChange) || (oneShotTCP.goodRead != 1 && folderChangeEvent.hasChange))
+                //    {
+                //        Thread.Sleep((int)timetrigger / 2);
+                //        if ((oneShotTCP.goodRead == 1 && !folderChangeEvent.hasChange) || (oneShotTCP.goodRead != 1 && folderChangeEvent.hasChange))
+                //        {
+                //            streamWriter.WriteLine("May has issue around phases from this point");
+                //            oneShotTCP.goodRead = 0;
+                //            folderChangeEvent.hasChange = false;
+                //        }
+                //        else
+                //        {
+                //            // do nothing
+                //        }
+                //    }
+                //    else
+                //    {
+                //        // do nothing
+                //    }
+                //}
+                //else if(!goodreadcheck.Checked && noreadcheck.Checked)
+                //{
+                //    if (oneShotTCP.goodRead == -1 && folderChangeEvent.hasChange)
+                //    {
+                //        oneShotTCP.goodRead = 0;
+                //        folderChangeEvent.hasChange = false;
+                //    }
+                //    else if ((oneShotTCP.goodRead == -1 && !folderChangeEvent.hasChange) || (oneShotTCP.goodRead != 11 && folderChangeEvent.hasChange))
+                //    {
+                //        Thread.Sleep((int)timetrigger / 2);
+                //        if((oneShotTCP.goodRead == -1 && !folderChangeEvent.hasChange) || (oneShotTCP.goodRead != 11 && folderChangeEvent.hasChange))
+                //        {
+                //            streamWriter.WriteLine("May has issue around phases from this point");
+                //            oneShotTCP.goodRead = 0;
+                //            folderChangeEvent.hasChange = false;
+                //        }
+                //        else
+                //        {
+                //            // do nothing
+                //        }
+                //    }
+                //    else
+                //    {
+                //        // do nothing
+                //    }
+                //}
+                //else
+                //{
+                //    // don't care
+                //}
+            }
+            streamWriter.Close();
+        }
+        private void OutputPhase()
+        {
+            string temp1, temp2;
+            StreamWriter streamWriter = new StreamWriter("Output.txt");
+            temp1 = folderChangeEvent.RecordStringEventInFolder;
+            temp2 = phaseModeTCP.RecordString;
+            while (shouldStop)
+            {
+
+                if (folderChangeEvent.RecordStringEventInFolder != temp1)
                 {
-                    if(oneShotTCP.goodRead)
-                    {
-                        oneShotTCP.goodRead = false;
-                    }
-                    else
-                    {
-                        streamWriter.WriteLine("Detect message transfer when no read detected. Error!");
-                    }
-                    folderChangeEvent.hasChange = false;
-                }              
-                else if(oneShotTCP.goodRead)
-                {
-                    if(!folderChangeEvent.hasChange)
-                    {
-                        Thread.Sleep(500);
-                        if(!folderChangeEvent.hasChange)
-                        {
-                            streamWriter.WriteLine("Not detect image transfer when good read detected. Error!");
-                        }
-                    }
-                    else
-                    {
-                        folderChangeEvent.hasChange = false;
-                    }
-                    oneShotTCP.goodRead = false;
+                    streamWriter.WriteLine(folderChangeEvent.RecordStringEventInFolder);
+                    temp1 = folderChangeEvent.RecordStringEventInFolder;
                 }
+                if (phaseModeTCP.RecordString != temp2)
+                {
+                    streamWriter.WriteLine(phaseModeTCP.RecordString);
+                    temp2 = phaseModeTCP.RecordString;
+                }
+                //if (goodreadcheck.Checked && !noreadcheck.Checked)
+                //{
+                //    if (phaseModeTCP.goodRead == 1 && folderChangeEvent.hasChange)
+                //    {
+                //        phaseModeTCP.goodRead = 0;
+                //        folderChangeEvent.hasChange = false;
+                //    }
+                //    else if ((phaseModeTCP.goodRead == 1 && !folderChangeEvent.hasChange) || (phaseModeTCP.goodRead != 1 && folderChangeEvent.hasChange))
+                //    {
+                //        Thread.Sleep((int)timetrigger / 2);
+                //        if ((phaseModeTCP.goodRead == 1 && !folderChangeEvent.hasChange) || (phaseModeTCP.goodRead != 1 && folderChangeEvent.hasChange))
+                //        {
+                //            streamWriter.WriteLine("May has issue around phases from this point");
+                //            phaseModeTCP.goodRead = 0;
+                //            folderChangeEvent.hasChange = false;
+                //        }
+                //        else
+                //        {
+                //            // do nothing
+                //        }
+                //    }
+                //    else
+                //    {
+                //        // do nothing
+                //    }
+                //}
+                //else if (!goodreadcheck.Checked && noreadcheck.Checked)
+                //{
+                //    if (phaseModeTCP.goodRead == -1 && folderChangeEvent.hasChange)
+                //    {
+                //        phaseModeTCP.goodRead = 0;
+                //        folderChangeEvent.hasChange = false;
+                //    }
+                //    else if ((phaseModeTCP.goodRead == -1 && !folderChangeEvent.hasChange) || (phaseModeTCP.goodRead != 11 && folderChangeEvent.hasChange))
+                //    {
+                //        Thread.Sleep((int)timetrigger / 2);
+                //        if ((phaseModeTCP.goodRead == -1 && !folderChangeEvent.hasChange) || (phaseModeTCP.goodRead != 11 && folderChangeEvent.hasChange))
+                //        {
+                //            streamWriter.WriteLine("May has issue around phases from this point");
+                //            phaseModeTCP.goodRead = 0;
+                //            folderChangeEvent.hasChange = false;
+                //        }
+                //        else
+                //        {
+                //            // do nothing
+                //        }
+                //    }
+                //    else
+                //    {
+                //        // do nothing
+                //    }
+                //}
+                //else
+                //{
+                //    // don't care
+                //}
+
             }
             streamWriter.Close();
         }

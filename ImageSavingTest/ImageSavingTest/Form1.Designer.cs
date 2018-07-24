@@ -56,8 +56,11 @@
             this.onPhaseTimetxt = new ImageSavingTest.WaterMarkTextBox();
             this.pOffCmdtxt = new ImageSavingTest.WaterMarkTextBox();
             this.pOnCmdtxt = new ImageSavingTest.WaterMarkTextBox();
-            this.radioGoodread = new System.Windows.Forms.RadioButton();
-            this.radioNoread = new System.Windows.Forms.RadioButton();
+            this.goodreadcheck = new System.Windows.Forms.CheckBox();
+            this.noreadcheck = new System.Windows.Forms.CheckBox();
+            this.goodreadtxt = new ImageSavingTest.WaterMarkTextBox();
+            this.noreadtxt = new ImageSavingTest.WaterMarkTextBox();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -65,7 +68,7 @@
             // 
             this.nextbut.Location = new System.Drawing.Point(325, 301);
             this.nextbut.Name = "nextbut";
-            this.nextbut.Size = new System.Drawing.Size(109, 68);
+            this.nextbut.Size = new System.Drawing.Size(109, 64);
             this.nextbut.TabIndex = 0;
             this.nextbut.Text = "Next";
             this.nextbut.UseVisualStyleBackColor = true;
@@ -87,7 +90,6 @@
             this.textboxIP1.Name = "textboxIP1";
             this.textboxIP1.Size = new System.Drawing.Size(45, 20);
             this.textboxIP1.TabIndex = 2;
-            this.textboxIP1.TextChanged += new System.EventHandler(this.textboxIP1_TextChanged);
             // 
             // label1
             // 
@@ -194,8 +196,10 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.radioNoread);
-            this.groupBox1.Controls.Add(this.radioGoodread);
+            this.groupBox1.Controls.Add(this.noreadtxt);
+            this.groupBox1.Controls.Add(this.goodreadtxt);
+            this.groupBox1.Controls.Add(this.noreadcheck);
+            this.groupBox1.Controls.Add(this.goodreadcheck);
             this.groupBox1.Controls.Add(this.pathTextbox);
             this.groupBox1.Controls.Add(this.radioPTL);
             this.groupBox1.Controls.Add(this.radioImageSaving);
@@ -207,11 +211,12 @@
             this.groupBox1.Size = new System.Drawing.Size(691, 261);
             this.groupBox1.TabIndex = 27;
             this.groupBox1.TabStop = false;
+            this.groupBox1.Visible = false;
             // 
             // pathTextbox
             // 
             this.pathTextbox.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.pathTextbox.Location = new System.Drawing.Point(257, 46);
+            this.pathTextbox.Location = new System.Drawing.Point(146, 47);
             this.pathTextbox.Name = "pathTextbox";
             this.pathTextbox.Size = new System.Drawing.Size(301, 20);
             this.pathTextbox.TabIndex = 3;
@@ -239,6 +244,7 @@
             this.radioImageSaving.TabStop = true;
             this.radioImageSaving.Text = "Image Saving";
             this.radioImageSaving.UseVisualStyleBackColor = true;
+            this.radioImageSaving.CheckedChanged += new System.EventHandler(this.radioImageSaving_CheckedChanged);
             // 
             // label3
             // 
@@ -340,27 +346,47 @@
             this.pOnCmdtxt.WaterMarkColor = System.Drawing.Color.Gray;
             this.pOnCmdtxt.WaterMarkText = "phase on command";
             // 
-            // radioGoodread
+            // goodreadcheck
             // 
-            this.radioGoodread.AutoSize = true;
-            this.radioGoodread.Location = new System.Drawing.Point(171, 47);
-            this.radioGoodread.Name = "radioGoodread";
-            this.radioGoodread.Size = new System.Drawing.Size(80, 17);
-            this.radioGoodread.TabIndex = 4;
-            this.radioGoodread.TabStop = true;
-            this.radioGoodread.Text = "Good Read";
-            this.radioGoodread.UseVisualStyleBackColor = true;
+            this.goodreadcheck.AutoSize = true;
+            this.goodreadcheck.Location = new System.Drawing.Point(146, 73);
+            this.goodreadcheck.Name = "goodreadcheck";
+            this.goodreadcheck.Size = new System.Drawing.Size(81, 17);
+            this.goodreadcheck.TabIndex = 4;
+            this.goodreadcheck.Text = "Good Read";
+            this.goodreadcheck.UseVisualStyleBackColor = true;
+            this.goodreadcheck.CheckedChanged += new System.EventHandler(this.goodreadcheck_CheckedChanged);
             // 
-            // radioNoread
+            // noreadcheck
             // 
-            this.radioNoread.AutoSize = true;
-            this.radioNoread.Location = new System.Drawing.Point(171, 70);
-            this.radioNoread.Name = "radioNoread";
-            this.radioNoread.Size = new System.Drawing.Size(68, 17);
-            this.radioNoread.TabIndex = 5;
-            this.radioNoread.TabStop = true;
-            this.radioNoread.Text = "No Read";
-            this.radioNoread.UseVisualStyleBackColor = true;
+            this.noreadcheck.AutoSize = true;
+            this.noreadcheck.Location = new System.Drawing.Point(146, 97);
+            this.noreadcheck.Name = "noreadcheck";
+            this.noreadcheck.Size = new System.Drawing.Size(69, 17);
+            this.noreadcheck.TabIndex = 5;
+            this.noreadcheck.Text = "No Read";
+            this.noreadcheck.UseVisualStyleBackColor = true;
+            this.noreadcheck.CheckedChanged += new System.EventHandler(this.noreadcheck_CheckedChanged);
+            // 
+            // goodreadtxt
+            // 
+            this.goodreadtxt.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.goodreadtxt.Location = new System.Drawing.Point(233, 70);
+            this.goodreadtxt.Name = "goodreadtxt";
+            this.goodreadtxt.Size = new System.Drawing.Size(136, 20);
+            this.goodreadtxt.TabIndex = 6;
+            this.goodreadtxt.WaterMarkColor = System.Drawing.Color.Gray;
+            this.goodreadtxt.WaterMarkText = "good read pattern";
+            // 
+            // noreadtxt
+            // 
+            this.noreadtxt.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.noreadtxt.Location = new System.Drawing.Point(233, 94);
+            this.noreadtxt.Name = "noreadtxt";
+            this.noreadtxt.Size = new System.Drawing.Size(136, 20);
+            this.noreadtxt.TabIndex = 7;
+            this.noreadtxt.WaterMarkColor = System.Drawing.Color.Gray;
+            this.noreadtxt.WaterMarkText = "no read pattern";
             // 
             // Form1
             // 
@@ -431,8 +457,11 @@
         private WaterMarkTextBox pathTextbox;
         private System.Windows.Forms.RadioButton radioPTL;
         private System.Windows.Forms.RadioButton radioImageSaving;
-        private System.Windows.Forms.RadioButton radioNoread;
-        private System.Windows.Forms.RadioButton radioGoodread;
+        private WaterMarkTextBox noreadtxt;
+        private WaterMarkTextBox goodreadtxt;
+        private System.Windows.Forms.CheckBox noreadcheck;
+        private System.Windows.Forms.CheckBox goodreadcheck;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 

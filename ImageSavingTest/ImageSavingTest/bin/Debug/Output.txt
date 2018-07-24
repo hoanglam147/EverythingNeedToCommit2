@@ -1,36 +1,1212 @@
-20/07 04:31:37:721: Send OneShot Command 1
-20/07 04:31:37:823 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
-
-Not detect image transfer when good read detected. Error!
-20/07 04:31:47:724: Send OneShot Command 2
-20/07 04:31:47:826 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
-
-Not detect image transfer when good read detected. Error!
-20/07 04:31:57:732: Send OneShot Command 3
-20/07 04:31:57:834 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
-
-Not detect image transfer when good read detected. Error!
-20/07 04:32:07:735: Send OneShot Command 4
-20/07 04:32:07:853 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
-
-Not detect image transfer when good read detected. Error!
-20/07 04:32:17:755: Send OneShot Command 5
-20/07 04:32:17:858 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
-
-Not detect image transfer when good read detected. Error!
-20/07 04:32:27:802: Send OneShot Command 6
-20/07 04:32:27:913 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
-
-Not detect image transfer when good read detected. Error!
-20/07 04:32:37:819: Send OneShot Command 7
-20/07 04:32:37:932 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
-
-Not detect image transfer when good read detected. Error!
-20/07 04:32:47:833: Send OneShot Command 8
-20/07 04:32:47:934 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
-
-Not detect image transfer when good read detected. Error!
-20/07 04:32:57:834: Send OneShot Command 9
-20/07 04:32:57:935 Result message: ABCabc TWE dddfsdsfssfslk;lk;lk;lk;lk;'sakfd;sakf;'sd6676575 
-
-Not detect image transfer when good read detected. Error!
+24/07 01:41:30:818: Send command to on phase; Start phase: 1
+24/07 01:41:31:320: Send command to off phase; Stop phase: 1
+24/07 01:41:31:420 Phase result message: goodread:92063;
+24/07 01:41:36:341: Send command to on phase; Start phase: 2
+24/07 01:41:36:842: Send command to off phase; Stop phase: 2
+24/07 01:41:36:943 Phase result message: goodread:92063;
+24/07 01:41:41:863: Send command to on phase; Start phase: 3
+24/07 01:41:42:364: Send command to off phase; Stop phase: 3
+24/07 01:41:42:465 Phase result message: goodread:92063;
+24/07 01:41:47:386: Send command to on phase; Start phase: 4
+24/07 01:41:47:886: Send command to off phase; Stop phase: 4
+24/07 01:41:47:987 Phase result message: goodread:92063;
+24/07 01:41:52:908: Send command to on phase; Start phase: 5
+24/07 01:41:53:409: Send command to off phase; Stop phase: 5
+24/07 01:41:53:509 Phase result message: goodread:92063;
+24/07 01:41:58:430: Send command to on phase; Start phase: 6
+24/07 01:41:58:931: Send command to off phase; Stop phase: 6
+24/07 01:41:59:032 Phase result message: goodread:92063;
+24/07 01:42:03:953: Send command to on phase; Start phase: 7
+24/07 01:42:04:453: Send command to off phase; Stop phase: 7
+24/07 01:42:04:554 Phase result message: goodread:92063;
+24/07 01:42:09:475: Send command to on phase; Start phase: 8
+24/07 01:42:09:975: Send command to off phase; Stop phase: 8
+24/07 01:42:10:077 Phase result message: goodread:92063;
+24/07 01:42:14:998: Send command to on phase; Start phase: 9
+24/07 01:42:15:499: Send command to off phase; Stop phase: 9
+24/07 01:42:15:599 Phase result message: goodread:92063;
+24/07 01:42:20:520: Send command to on phase; Start phase: 10
+24/07 01:42:21:021: Send command to off phase; Stop phase: 10
+24/07 01:42:21:122 Phase result message: goodread:92063;
+24/07 01:42:26:044: Send command to on phase; Start phase: 11
+24/07 01:42:26:544: Send command to off phase; Stop phase: 11
+24/07 01:42:26:645 Phase result message: goodread:92063;
+24/07 01:42:31:566: Send command to on phase; Start phase: 12
+24/07 01:42:32:066: Send command to off phase; Stop phase: 12
+24/07 01:42:32:167 Phase result message: goodread:92063;
+24/07 01:42:37:088: Send command to on phase; Start phase: 13
+24/07 01:42:37:589: Send command to off phase; Stop phase: 13
+24/07 01:42:37:689 Phase result message: goodread:92063;
+24/07 01:42:42:610: Send command to on phase; Start phase: 14
+24/07 01:42:43:111: Send command to off phase; Stop phase: 14
+24/07 01:42:43:212 Phase result message: goodread:92063;
+24/07 01:42:48:133: Send command to on phase; Start phase: 15
+24/07 01:42:48:633: Send command to off phase; Stop phase: 15
+24/07 01:42:48:734 Phase result message: goodread:92063;
+24/07 01:42:53:655: Send command to on phase; Start phase: 16
+24/07 01:42:54:155: Send command to off phase; Stop phase: 16
+24/07 01:42:54:256 Phase result message: goodread:92063;
+24/07 01:42:59:177: Send command to on phase; Start phase: 17
+24/07 01:42:59:678: Send command to off phase; Stop phase: 17
+24/07 01:42:59:778 Phase result message: goodread:92063;
+24/07 01:43:04:699: Send command to on phase; Start phase: 18
+24/07 01:43:05:200: Send command to off phase; Stop phase: 18
+24/07 01:43:05:301 Phase result message: goodread:92063;
+24/07 01:43:10:222: Send command to on phase; Start phase: 19
+24/07 01:43:10:722: Send command to off phase; Stop phase: 19
+24/07 01:43:10:826 Phase result message: goodread:92063;
+24/07 01:43:15:747: Send command to on phase; Start phase: 20
+24/07 01:43:16:247: Send command to off phase; Stop phase: 20
+24/07 01:43:16:348 Phase result message: goodread:92063;
+24/07 01:43:21:274: Send command to on phase; Start phase: 21
+24/07 01:43:21:776: Send command to off phase; Stop phase: 21
+24/07 01:43:21:877 Phase result message: goodread:92063;
+24/07 01:43:26:798: Send command to on phase; Start phase: 22
+24/07 01:43:27:299: Send command to off phase; Stop phase: 22
+24/07 01:43:27:400 Phase result message: goodread:92063;
+24/07 01:43:32:320: Send command to on phase; Start phase: 23
+24/07 01:43:32:821: Send command to off phase; Stop phase: 23
+24/07 01:43:32:922 Phase result message: goodread:92063;
+24/07 01:43:37:843: Send command to on phase; Start phase: 24
+24/07 01:43:38:343: Send command to off phase; Stop phase: 24
+24/07 01:43:38:444 Phase result message: goodread:92063;
+24/07 01:43:43:365: Send command to on phase; Start phase: 25
+24/07 01:43:43:866: Send command to off phase; Stop phase: 25
+24/07 01:43:43:979 Phase result message: goodread:92063;
+24/07 01:43:48:900: Send command to on phase; Start phase: 26
+24/07 01:43:49:401: Send command to off phase; Stop phase: 26
+24/07 01:43:49:501 Phase result message: goodread:92063;
+24/07 01:43:54:422: Send command to on phase; Start phase: 27
+24/07 01:43:54:923: Send command to off phase; Stop phase: 27
+24/07 01:43:55:024 Phase result message: goodread:92063;
+24/07 01:43:59:945: Send command to on phase; Start phase: 28
+24/07 01:44:00:445: Send command to off phase; Stop phase: 28
+24/07 01:44:00:546 Phase result message: goodread:92063;
+24/07 01:44:05:466: Send command to on phase; Start phase: 29
+24/07 01:44:05:967: Send command to off phase; Stop phase: 29
+24/07 01:44:06:068 Phase result message: goodread:92063;
+24/07 01:44:10:989: Send command to on phase; Start phase: 30
+24/07 01:44:11:489: Send command to off phase; Stop phase: 30
+24/07 01:44:11:590 Phase result message: goodread:92063;
+24/07 01:44:16:513: Send command to on phase; Start phase: 31
+24/07 01:44:17:014: Send command to off phase; Stop phase: 31
+24/07 01:44:17:116 Phase result message: goodread:92063;
+24/07 01:44:22:037: Send command to on phase; Start phase: 32
+24/07 01:44:22:537: Send command to off phase; Stop phase: 32
+24/07 01:44:22:638 Phase result message: goodread:92063;
+24/07 01:44:27:558: Send command to on phase; Start phase: 33
+24/07 01:44:28:059: Send command to off phase; Stop phase: 33
+24/07 01:44:28:162 Phase result message: goodread:92063;
+24/07 01:44:33:086: Send command to on phase; Start phase: 34
+24/07 01:44:33:587: Send command to off phase; Stop phase: 34
+24/07 01:44:33:700 Phase result message: goodread:92063;
+24/07 01:44:38:621: Send command to on phase; Start phase: 35
+24/07 01:44:39:122: Send command to off phase; Stop phase: 35
+24/07 01:44:39:223 Phase result message: goodread:92063;
+24/07 01:44:44:144: Send command to on phase; Start phase: 36
+24/07 01:44:44:647: Send command to off phase; Stop phase: 36
+24/07 01:44:44:748 Phase result message: goodread:92063;
+24/07 01:44:49:669: Send command to on phase; Start phase: 37
+24/07 01:44:50:170: Send command to off phase; Stop phase: 37
+24/07 01:44:50:270 Phase result message: goodread:92063;
+24/07 01:44:55:191: Send command to on phase; Start phase: 38
+24/07 01:44:55:692: Send command to off phase; Stop phase: 38
+24/07 01:44:55:793 Phase result message: goodread:92063;
+24/07 01:45:00:713: Send command to on phase; Start phase: 39
+24/07 01:45:01:214: Send command to off phase; Stop phase: 39
+24/07 01:45:01:315 Phase result message: goodread:92063;
+24/07 01:45:06:236: Send command to on phase; Start phase: 40
+24/07 01:45:06:737: Send command to off phase; Stop phase: 40
+24/07 01:45:06:838 Phase result message: goodread:92063;
+24/07 01:45:11:759: Send command to on phase; Start phase: 41
+24/07 01:45:12:260: Send command to off phase; Stop phase: 41
+24/07 01:45:12:360 Phase result message: goodread:92063;
+24/07 01:45:17:281: Send command to on phase; Start phase: 42
+24/07 01:45:17:782: Send command to off phase; Stop phase: 42
+24/07 01:45:17:883 Phase result message: goodread:92063;
+24/07 01:45:22:804: Send command to on phase; Start phase: 43
+24/07 01:45:23:304: Send command to off phase; Stop phase: 43
+24/07 01:45:23:405 Phase result message: goodread:92063;
+24/07 01:45:28:326: Send command to on phase; Start phase: 44
+24/07 01:45:28:828: Send command to off phase; Stop phase: 44
+24/07 01:45:28:928 Phase result message: goodread:92063;
+24/07 01:45:33:849: Send command to on phase; Start phase: 45
+24/07 01:45:34:350: Send command to off phase; Stop phase: 45
+24/07 01:45:34:451 Phase result message: goodread:92063;
+24/07 01:45:39:371: Send command to on phase; Start phase: 46
+24/07 01:45:39:872: Send command to off phase; Stop phase: 46
+24/07 01:45:39:973 Phase result message: goodread:92063;
+24/07 01:45:44:894: Send command to on phase; Start phase: 47
+24/07 01:45:45:395: Send command to off phase; Stop phase: 47
+24/07 01:45:45:496 Phase result message: goodread:92063;
+24/07 01:45:50:417: Send command to on phase; Start phase: 48
+24/07 01:45:50:918: Send command to off phase; Stop phase: 48
+24/07 01:45:51:018 Phase result message: goodread:92063;
+24/07 01:45:55:939: Send command to on phase; Start phase: 49
+24/07 01:45:56:440: Send command to off phase; Stop phase: 49
+24/07 01:45:56:542 Phase result message: goodread:92063;
+24/07 01:46:01:463: Send command to on phase; Start phase: 50
+24/07 01:46:01:963: Send command to off phase; Stop phase: 50
+24/07 01:46:02:064 Phase result message: goodread:92063;
+24/07 01:46:06:985: Send command to on phase; Start phase: 51
+24/07 01:46:07:486: Send command to off phase; Stop phase: 51
+24/07 01:46:07:586 Phase result message: goodread:92063;
+24/07 01:46:12:514: Send command to on phase; Start phase: 52
+24/07 01:46:13:015: Send command to off phase; Stop phase: 52
+24/07 01:46:13:116 Phase result message: goodread:92063;
+24/07 01:46:18:037: Send command to on phase; Start phase: 53
+24/07 01:46:18:537: Send command to off phase; Stop phase: 53
+24/07 01:46:18:652 Phase result message: goodread:92063;
+24/07 01:46:23:573: Send command to on phase; Start phase: 54
+24/07 01:46:24:073: Send command to off phase; Stop phase: 54
+24/07 01:46:24:174 Phase result message: goodread:92063;
+24/07 01:46:29:095: Send command to on phase; Start phase: 55
+24/07 01:46:29:597: Send command to off phase; Stop phase: 55
+24/07 01:46:29:697 Phase result message: goodread:92063;
+24/07 01:46:34:618: Send command to on phase; Start phase: 56
+24/07 01:46:35:119: Send command to off phase; Stop phase: 56
+24/07 01:46:35:220 Phase result message: goodread:92063;
+24/07 01:46:40:140: Send command to on phase; Start phase: 57
+24/07 01:46:40:641: Send command to off phase; Stop phase: 57
+24/07 01:46:40:741 Phase result message: goodread:92063;
+24/07 01:46:45:662: Send command to on phase; Start phase: 58
+24/07 01:46:46:163: Send command to off phase; Stop phase: 58
+24/07 01:46:46:264 Phase result message: goodread:92063;
+24/07 01:46:51:185: Send command to on phase; Start phase: 59
+24/07 01:46:51:685: Send command to off phase; Stop phase: 59
+24/07 01:46:51:786 Phase result message: goodread:92063;
+24/07 01:46:56:707: Send command to on phase; Start phase: 60
+24/07 01:46:57:208: Send command to off phase; Stop phase: 60
+24/07 01:46:57:308 Phase result message: goodread:92063;
+24/07 01:47:02:229: Send command to on phase; Start phase: 61
+24/07 01:47:02:729: Send command to off phase; Stop phase: 61
+24/07 01:47:02:830 Phase result message: goodread:92063;
+24/07 01:47:07:751: Send command to on phase; Start phase: 62
+24/07 01:47:08:252: Send command to off phase; Stop phase: 62
+24/07 01:47:08:352 Phase result message: goodread:92063;
+24/07 01:47:13:273: Send command to on phase; Start phase: 63
+24/07 01:47:13:774: Send command to off phase; Stop phase: 63
+24/07 01:47:13:875 Phase result message: goodread:92063;
+24/07 01:47:18:796: Send command to on phase; Start phase: 64
+24/07 01:47:19:296: Send command to off phase; Stop phase: 64
+24/07 01:47:19:397 Phase result message: goodread:92063;
+24/07 01:47:24:318: Send command to on phase; Start phase: 65
+24/07 01:47:24:819: Send command to off phase; Stop phase: 65
+24/07 01:47:24:919 Phase result message: goodread:92063;
+24/07 01:47:29:840: Send command to on phase; Start phase: 66
+24/07 01:47:30:341: Send command to off phase; Stop phase: 66
+24/07 01:47:30:442 Phase result message: goodread:92063;
+24/07 01:47:35:362: Send command to on phase; Start phase: 67
+24/07 01:47:35:863: Send command to off phase; Stop phase: 67
+24/07 01:47:35:964 Phase result message: goodread:92063;
+24/07 01:47:40:884: Send command to on phase; Start phase: 68
+24/07 01:47:41:385: Send command to off phase; Stop phase: 68
+24/07 01:47:41:486 Phase result message: goodread:92063;
+24/07 01:47:46:407: Send command to on phase; Start phase: 69
+24/07 01:47:46:907: Send command to off phase; Stop phase: 69
+24/07 01:47:47:008 Phase result message: goodread:92063;
+24/07 01:47:51:929: Send command to on phase; Start phase: 70
+24/07 01:47:52:431: Send command to off phase; Stop phase: 70
+24/07 01:47:52:531 Phase result message: goodread:92063;
+24/07 01:47:57:452: Send command to on phase; Start phase: 71
+24/07 01:47:57:953: Send command to off phase; Stop phase: 71
+24/07 01:47:58:054 Phase result message: goodread:92063;
+24/07 01:48:02:974: Send command to on phase; Start phase: 72
+24/07 01:48:03:475: Send command to off phase; Stop phase: 72
+24/07 01:48:03:576 Phase result message: goodread:92063;
+24/07 01:48:08:499: Send command to on phase; Start phase: 73
+24/07 01:48:09:000: Send command to off phase; Stop phase: 73
+24/07 01:48:09:102 Phase result message: goodread:92063;
+24/07 01:48:14:023: Send command to on phase; Start phase: 74
+24/07 01:48:14:524: Send command to off phase; Stop phase: 74
+24/07 01:48:14:624 Phase result message: goodread:92063;
+24/07 01:48:19:550: Send command to on phase; Start phase: 75
+24/07 01:48:20:052: Send command to off phase; Stop phase: 75
+24/07 01:48:20:153 Phase result message: goodread:92063;
+24/07 01:48:25:074: Send command to on phase; Start phase: 76
+24/07 01:48:25:576: Send command to off phase; Stop phase: 76
+24/07 01:48:25:676 Phase result message: goodread:92063;
+24/07 01:48:30:597: Send command to on phase; Start phase: 77
+24/07 01:48:31:098: Send command to off phase; Stop phase: 77
+24/07 01:48:31:198 Phase result message: goodread:92063;
+24/07 01:48:36:119: Send command to on phase; Start phase: 78
+24/07 01:48:36:620: Send command to off phase; Stop phase: 78
+24/07 01:48:36:721 Phase result message: goodread:92063;
+24/07 01:48:41:648: Send command to on phase; Start phase: 79
+24/07 01:48:42:149: Send command to off phase; Stop phase: 79
+24/07 01:48:42:249 Phase result message: goodread:92063;
+24/07 01:48:47:170: Send command to on phase; Start phase: 80
+24/07 01:48:47:671: Send command to off phase; Stop phase: 80
+24/07 01:48:47:772 Phase result message: goodread:92063;
+24/07 01:48:52:693: Send command to on phase; Start phase: 81
+24/07 01:48:53:194: Send command to off phase; Stop phase: 81
+24/07 01:48:53:295 Phase result message: goodread:92063;
+24/07 01:48:58:216: Send command to on phase; Start phase: 82
+24/07 01:48:58:716: Send command to off phase; Stop phase: 82
+24/07 01:48:58:817 Phase result message: goodread:92063;
+24/07 01:49:03:738: Send command to on phase; Start phase: 83
+24/07 01:49:04:238: Send command to off phase; Stop phase: 83
+24/07 01:49:04:339 Phase result message: goodread:92063;
+24/07 01:49:09:260: Send command to on phase; Start phase: 84
+24/07 01:49:09:761: Send command to off phase; Stop phase: 84
+24/07 01:49:09:861 Phase result message: goodread:92063;
+24/07 01:49:14:782: Send command to on phase; Start phase: 85
+24/07 01:49:15:283: Send command to off phase; Stop phase: 85
+24/07 01:49:15:384 Phase result message: goodread:92063;
+24/07 01:49:20:305: Send command to on phase; Start phase: 86
+24/07 01:49:20:805: Send command to off phase; Stop phase: 86
+24/07 01:49:20:906 Phase result message: goodread:92063;
+24/07 01:49:25:829: Send command to on phase; Start phase: 87
+24/07 01:49:26:329: Send command to off phase; Stop phase: 87
+24/07 01:49:26:430 Phase result message: goodread:92063;
+24/07 01:49:31:351: Send command to on phase; Start phase: 88
+24/07 01:49:31:852: Send command to off phase; Stop phase: 88
+24/07 01:49:31:952 Phase result message: goodread:92063;
+24/07 01:49:36:873: Send command to on phase; Start phase: 89
+24/07 01:49:37:374: Send command to off phase; Stop phase: 89
+24/07 01:49:37:475 Phase result message: goodread:92063;
+24/07 01:49:42:396: Send command to on phase; Start phase: 90
+24/07 01:49:42:896: Send command to off phase; Stop phase: 90
+24/07 01:49:42:997 Phase result message: goodread:92063;
+24/07 01:49:47:919: Send command to on phase; Start phase: 91
+24/07 01:49:48:419: Send command to off phase; Stop phase: 91
+24/07 01:49:48:520 Phase result message: goodread:92063;
+24/07 01:49:53:441: Send command to on phase; Start phase: 92
+24/07 01:49:53:948: Send command to off phase; Stop phase: 92
+24/07 01:49:54:049 Phase result message: goodread:92063;
+24/07 01:49:58:970: Send command to on phase; Start phase: 93
+24/07 01:49:59:471: Send command to off phase; Stop phase: 93
+24/07 01:49:59:572 Phase result message: goodread:92063;
+24/07 01:50:04:492: Send command to on phase; Start phase: 94
+24/07 01:50:04:993: Send command to off phase; Stop phase: 94
+24/07 01:50:05:096 Phase result message: goodread:92063;
+24/07 01:50:10:017: Send command to on phase; Start phase: 95
+24/07 01:50:10:517: Send command to off phase; Stop phase: 95
+24/07 01:50:10:618 Phase result message: goodread:92063;
+24/07 01:50:15:539: Send command to on phase; Start phase: 96
+24/07 01:50:16:040: Send command to off phase; Stop phase: 96
+24/07 01:50:16:140 Phase result message: goodread:92063;
+24/07 01:50:21:061: Send command to on phase; Start phase: 97
+24/07 01:50:21:563: Send command to off phase; Stop phase: 97
+24/07 01:50:21:676 Phase result message: goodread:92063;
+24/07 01:50:26:596: Send command to on phase; Start phase: 98
+24/07 01:50:27:097: Send command to off phase; Stop phase: 98
+24/07 01:50:27:198 Phase result message: goodread:92063;
+24/07 01:50:32:119: Send command to on phase; Start phase: 99
+24/07 01:50:32:619: Send command to off phase; Stop phase: 99
+24/07 01:50:32:720 Phase result message: goodread:92063;
+24/07 01:50:37:641: Send command to on phase; Start phase: 100
+24/07 01:50:38:142: Send command to off phase; Stop phase: 100
+24/07 01:50:38:242 Phase result message: goodread:92063;
+24/07 01:50:43:163: Send command to on phase; Start phase: 101
+24/07 01:50:43:680: Send command to off phase; Stop phase: 101
+24/07 01:50:43:781 Phase result message: goodread:92063;
+24/07 01:50:48:702: Send command to on phase; Start phase: 102
+24/07 01:50:49:216: Send command to off phase; Stop phase: 102
+24/07 01:50:49:323 Phase result message: goodread:92063;
+24/07 01:50:54:245: Send command to on phase; Start phase: 103
+24/07 01:50:54:746: Send command to off phase; Stop phase: 103
+24/07 01:50:54:847 Phase result message: goodread:92063;
+24/07 01:50:59:770: Send command to on phase; Start phase: 104
+24/07 01:51:00:270: Send command to off phase; Stop phase: 104
+24/07 01:51:00:370 Phase result message: goodread:92063;
+24/07 01:51:05:291: Send command to on phase; Start phase: 105
+24/07 01:51:05:792: Send command to off phase; Stop phase: 105
+24/07 01:51:05:892 Phase result message: goodread:92063;
+24/07 01:51:10:814: Send command to on phase; Start phase: 106
+24/07 01:51:11:314: Send command to off phase; Stop phase: 106
+24/07 01:51:11:415 Phase result message: goodread:92063;
+24/07 01:51:16:336: Send command to on phase; Start phase: 107
+24/07 01:51:16:837: Send command to off phase; Stop phase: 107
+24/07 01:51:16:937 Phase result message: goodread:92063;
+24/07 01:51:21:858: Send command to on phase; Start phase: 108
+24/07 01:51:22:366: Send command to off phase; Stop phase: 108
+24/07 01:51:22:467 Phase result message: goodread:92063;
+24/07 01:51:27:388: Send command to on phase; Start phase: 109
+24/07 01:51:27:888: Send command to off phase; Stop phase: 109
+24/07 01:51:27:992 Phase result message: goodread:92063;
+24/07 01:51:32:913: Send command to on phase; Start phase: 110
+24/07 01:51:33:414: Send command to off phase; Stop phase: 110
+24/07 01:51:33:519 Phase result message: goodread:92063;
+24/07 01:51:38:440: Send command to on phase; Start phase: 111
+24/07 01:51:38:940: Send command to off phase; Stop phase: 111
+24/07 01:51:39:057 Phase result message: goodread:92063;
+24/07 01:51:43:979: Send command to on phase; Start phase: 112
+24/07 01:51:44:498: Send command to off phase; Stop phase: 112
+24/07 01:51:44:598 Phase result message: goodread:92063;
+24/07 01:51:49:519: Send command to on phase; Start phase: 113
+24/07 01:51:50:024: Send command to off phase; Stop phase: 113
+24/07 01:51:50:126 Phase result message: goodread:92063;
+24/07 01:51:55:047: Send command to on phase; Start phase: 114
+24/07 01:51:55:553: Send command to off phase; Stop phase: 114
+24/07 01:51:55:654 Phase result message: goodread:92063;
+24/07 01:52:00:575: Send command to on phase; Start phase: 115
+24/07 01:52:01:075: Send command to off phase; Stop phase: 115
+24/07 01:52:01:176 Phase result message: goodread:92063;
+24/07 01:52:06:097: Send command to on phase; Start phase: 116
+24/07 01:52:06:599: Send command to off phase; Stop phase: 116
+24/07 01:52:06:699 Phase result message: goodread:92063;
+24/07 01:52:11:620: Send command to on phase; Start phase: 117
+24/07 01:52:12:120: Send command to off phase; Stop phase: 117
+24/07 01:52:12:222 Phase result message: goodread:92063;
+24/07 01:52:17:143: Send command to on phase; Start phase: 118
+24/07 01:52:17:644: Send command to off phase; Stop phase: 118
+24/07 01:52:17:746 Phase result message: goodread:92063;
+24/07 01:52:22:667: Send command to on phase; Start phase: 119
+24/07 01:52:23:168: Send command to off phase; Stop phase: 119
+24/07 01:52:23:269 Phase result message: goodread:92063;
+24/07 01:52:28:190: Send command to on phase; Start phase: 120
+24/07 01:52:28:690: Send command to off phase; Stop phase: 120
+24/07 01:52:28:791 Phase result message: goodread:92063;
+24/07 01:52:33:712: Send command to on phase; Start phase: 121
+24/07 01:52:34:213: Send command to off phase; Stop phase: 121
+24/07 01:52:34:314 Phase result message: goodread:92063;
+24/07 01:52:39:235: Send command to on phase; Start phase: 122
+24/07 01:52:39:736: Send command to off phase; Stop phase: 122
+24/07 01:52:39:837 Phase result message: goodread:92063;
+24/07 01:52:44:757: Send command to on phase; Start phase: 123
+24/07 01:52:45:257: Send command to off phase; Stop phase: 123
+24/07 01:52:45:361 Phase result message: goodread:92063;
+24/07 01:52:50:297: Send command to on phase; Start phase: 124
+24/07 01:52:50:798: Send command to off phase; Stop phase: 124
+24/07 01:52:50:898 Phase result message: goodread:92063;
+24/07 01:52:55:819: Send command to on phase; Start phase: 125
+24/07 01:52:56:320: Send command to off phase; Stop phase: 125
+24/07 01:52:56:421 Phase result message: goodread:92063;
+24/07 01:53:01:342: Send command to on phase; Start phase: 126
+24/07 01:53:01:843: Send command to off phase; Stop phase: 126
+24/07 01:53:01:945 Phase result message: goodread:92063;
+24/07 01:53:06:867: Send command to on phase; Start phase: 127
+24/07 01:53:07:369: Send command to off phase; Stop phase: 127
+24/07 01:53:07:471 Phase result message: goodread:92063;
+24/07 01:53:12:392: Send command to on phase; Start phase: 128
+24/07 01:53:12:893: Send command to off phase; Stop phase: 128
+24/07 01:53:12:993 Phase result message: goodread:92063;
+24/07 01:53:17:914: Send command to on phase; Start phase: 129
+24/07 01:53:18:415: Send command to off phase; Stop phase: 129
+24/07 01:53:18:518 Phase result message: goodread:92063;
+24/07 01:53:23:439: Send command to on phase; Start phase: 130
+24/07 01:53:23:939: Send command to off phase; Stop phase: 130
+24/07 01:53:24:040 Phase result message: goodread:92063;
+24/07 01:53:28:963: Send command to on phase; Start phase: 131
+24/07 01:53:29:464: Send command to off phase; Stop phase: 131
+24/07 01:53:29:565 Phase result message: goodread:92063;
+24/07 01:53:34:485: Send command to on phase; Start phase: 132
+24/07 01:53:34:986: Send command to off phase; Stop phase: 132
+24/07 01:53:35:087 Phase result message: goodread:92063;
+24/07 01:53:40:008: Send command to on phase; Start phase: 133
+24/07 01:53:40:509: Send command to off phase; Stop phase: 133
+24/07 01:53:40:609 Phase result message: goodread:92063;
+24/07 01:53:45:530: Send command to on phase; Start phase: 134
+24/07 01:53:46:031: Send command to off phase; Stop phase: 134
+24/07 01:53:46:132 Phase result message: goodread:92063;
+24/07 01:53:51:053: Send command to on phase; Start phase: 135
+24/07 01:53:51:553: Send command to off phase; Stop phase: 135
+24/07 01:53:51:654 Phase result message: goodread:92063;
+24/07 01:53:56:575: Send command to on phase; Start phase: 136
+24/07 01:53:57:075: Send command to off phase; Stop phase: 136
+24/07 01:53:57:178 Phase result message: goodread:92063;
+24/07 01:54:02:099: Send command to on phase; Start phase: 137
+24/07 01:54:02:599: Send command to off phase; Stop phase: 137
+24/07 01:54:02:700 Phase result message: goodread:92063;
+24/07 01:54:07:622: Send command to on phase; Start phase: 138
+24/07 01:54:08:122: Send command to off phase; Stop phase: 138
+24/07 01:54:08:223 Phase result message: goodread:92063;
+24/07 01:54:13:144: Send command to on phase; Start phase: 139
+24/07 01:54:13:646: Send command to off phase; Stop phase: 139
+24/07 01:54:13:750 Phase result message: goodread:92063;
+24/07 01:54:18:671: Send command to on phase; Start phase: 140
+24/07 01:54:19:172: Send command to off phase; Stop phase: 140
+24/07 01:54:19:273 Phase result message: goodread:92063;
+24/07 01:54:24:194: Send command to on phase; Start phase: 141
+24/07 01:54:24:694: Send command to off phase; Stop phase: 141
+24/07 01:54:24:796 Phase result message: goodread:92063;
+24/07 01:54:29:717: Send command to on phase; Start phase: 142
+24/07 01:54:30:217: Send command to off phase; Stop phase: 142
+24/07 01:54:30:318 Phase result message: goodread:92063;
+24/07 01:54:35:243: Send command to on phase; Start phase: 143
+24/07 01:54:35:743: Send command to off phase; Stop phase: 143
+24/07 01:54:35:844 Phase result message: goodread:92063;
+24/07 01:54:40:765: Send command to on phase; Start phase: 144
+24/07 01:54:41:265: Send command to off phase; Stop phase: 144
+24/07 01:54:41:366 Phase result message: goodread:92063;
+24/07 01:54:46:287: Send command to on phase; Start phase: 145
+24/07 01:54:46:788: Send command to off phase; Stop phase: 145
+24/07 01:54:46:889 Phase result message: goodread:92063;
+24/07 01:54:51:810: Send command to on phase; Start phase: 146
+24/07 01:54:52:319: Send command to off phase; Stop phase: 146
+24/07 01:54:52:421 Phase result message: goodread:92063;
+24/07 01:54:57:342: Send command to on phase; Start phase: 147
+24/07 01:54:57:842: Send command to off phase; Stop phase: 147
+24/07 01:54:57:943 Phase result message: goodread:92063;
+24/07 01:55:02:864: Send command to on phase; Start phase: 148
+24/07 01:55:03:364: Send command to off phase; Stop phase: 148
+24/07 01:55:03:465 Phase result message: goodread:92063;
+24/07 01:55:08:385: Send command to on phase; Start phase: 149
+24/07 01:55:08:887: Send command to off phase; Stop phase: 149
+24/07 01:55:08:987 Phase result message: goodread:92063;
+24/07 01:55:13:908: Send command to on phase; Start phase: 150
+24/07 01:55:14:409: Send command to off phase; Stop phase: 150
+24/07 01:55:14:514 Phase result message: goodread:92063;
+24/07 01:55:19:435: Send command to on phase; Start phase: 151
+24/07 01:55:19:936: Send command to off phase; Stop phase: 151
+24/07 01:55:20:036 Phase result message: goodread:92063;
+24/07 01:55:24:957: Send command to on phase; Start phase: 152
+24/07 01:55:25:457: Send command to off phase; Stop phase: 152
+24/07 01:55:25:566 Phase result message: goodread:92063;
+24/07 01:55:30:487: Send command to on phase; Start phase: 153
+24/07 01:55:30:988: Send command to off phase; Stop phase: 153
+24/07 01:55:31:088 Phase result message: goodread:92063;
+24/07 01:55:36:009: Send command to on phase; Start phase: 154
+24/07 01:55:36:510: Send command to off phase; Stop phase: 154
+24/07 01:55:36:611 Phase result message: goodread:92063;
+24/07 01:55:41:531: Send command to on phase; Start phase: 155
+24/07 01:55:42:033: Send command to off phase; Stop phase: 155
+24/07 01:55:42:134 Phase result message: goodread:92063;
+24/07 01:55:47:055: Send command to on phase; Start phase: 156
+24/07 01:55:47:555: Send command to off phase; Stop phase: 156
+24/07 01:55:47:656 Phase result message: goodread:92063;
+24/07 01:55:52:577: Send command to on phase; Start phase: 157
+24/07 01:55:53:078: Send command to off phase; Stop phase: 157
+24/07 01:55:53:178 Phase result message: goodread:92063;
+24/07 01:55:58:099: Send command to on phase; Start phase: 158
+24/07 01:55:58:600: Send command to off phase; Stop phase: 158
+24/07 01:55:58:701 Phase result message: goodread:92063;
+24/07 01:56:03:621: Send command to on phase; Start phase: 159
+24/07 01:56:04:122: Send command to off phase; Stop phase: 159
+24/07 01:56:04:223 Phase result message: goodread:92063;
+24/07 01:56:09:144: Send command to on phase; Start phase: 160
+24/07 01:56:09:644: Send command to off phase; Stop phase: 160
+24/07 01:56:09:748 Phase result message: goodread:92063;
+24/07 01:56:14:669: Send command to on phase; Start phase: 161
+24/07 01:56:15:170: Send command to off phase; Stop phase: 161
+24/07 01:56:15:270 Phase result message: goodread:92063;
+24/07 01:56:20:191: Send command to on phase; Start phase: 162
+24/07 01:56:20:692: Send command to off phase; Stop phase: 162
+24/07 01:56:20:793 Phase result message: goodread:92063;
+24/07 01:56:25:713: Send command to on phase; Start phase: 163
+24/07 01:56:26:214: Send command to off phase; Stop phase: 163
+24/07 01:56:26:315 Phase result message: goodread:92063;
+24/07 01:56:31:237: Send command to on phase; Start phase: 164
+24/07 01:56:31:738: Send command to off phase; Stop phase: 164
+24/07 01:56:31:839 Phase result message: goodread:92063;
+24/07 01:56:36:760: Send command to on phase; Start phase: 165
+24/07 01:56:37:261: Send command to off phase; Stop phase: 165
+24/07 01:56:37:361 Phase result message: goodread:92063;
+24/07 01:56:42:282: Send command to on phase; Start phase: 166
+24/07 01:56:42:783: Send command to off phase; Stop phase: 166
+24/07 01:56:42:884 Phase result message: goodread:92063;
+24/07 01:56:47:804: Send command to on phase; Start phase: 167
+24/07 01:56:48:305: Send command to off phase; Stop phase: 167
+24/07 01:56:48:406 Phase result message: goodread:92063;
+24/07 01:56:53:327: Send command to on phase; Start phase: 168
+24/07 01:56:53:828: Send command to off phase; Stop phase: 168
+24/07 01:56:53:930 Phase result message: goodread:92063;
+24/07 01:56:58:851: Send command to on phase; Start phase: 169
+24/07 01:56:59:352: Send command to off phase; Stop phase: 169
+24/07 01:56:59:469 Phase result message: goodread:92063;
+24/07 01:57:04:391: Send command to on phase; Start phase: 170
+24/07 01:57:04:892: Send command to off phase; Stop phase: 170
+24/07 01:57:04:993 Phase result message: goodread:92063;
+24/07 01:57:09:923: Send command to on phase; Start phase: 171
+24/07 01:57:10:423: Send command to off phase; Stop phase: 171
+24/07 01:57:10:524 Phase result message: goodread:92063;
+24/07 01:57:15:445: Send command to on phase; Start phase: 172
+24/07 01:57:15:946: Send command to off phase; Stop phase: 172
+24/07 01:57:16:047 Phase result message: goodread:92063;
+24/07 01:57:20:968: Send command to on phase; Start phase: 173
+24/07 01:57:21:469: Send command to off phase; Stop phase: 173
+24/07 01:57:21:569 Phase result message: goodread:92063;
+24/07 01:57:26:490: Send command to on phase; Start phase: 174
+24/07 01:57:26:991: Send command to off phase; Stop phase: 174
+24/07 01:57:27:092 Phase result message: goodread:92063;
+24/07 01:57:32:013: Send command to on phase; Start phase: 175
+24/07 01:57:32:514: Send command to off phase; Stop phase: 175
+24/07 01:57:32:615 Phase result message: goodread:92063;
+24/07 01:57:37:536: Send command to on phase; Start phase: 176
+24/07 01:57:38:037: Send command to off phase; Stop phase: 176
+24/07 01:57:38:137 Phase result message: goodread:92063;
+24/07 01:57:43:058: Send command to on phase; Start phase: 177
+24/07 01:57:43:559: Send command to off phase; Stop phase: 177
+24/07 01:57:43:659 Phase result message: goodread:92063;
+24/07 01:57:48:585: Send command to on phase; Start phase: 178
+24/07 01:57:49:101: Send command to off phase; Stop phase: 178
+24/07 01:57:49:205 Phase result message: goodread:92063;
+24/07 01:57:54:126: Send command to on phase; Start phase: 179
+24/07 01:57:54:626: Send command to off phase; Stop phase: 179
+24/07 01:57:54:727 Phase result message: goodread:92063;
+24/07 01:57:59:669: Send command to on phase; Start phase: 180
+24/07 01:58:00:178: Send command to off phase; Stop phase: 180
+24/07 01:58:00:279 Phase result message: goodread:92063;
+24/07 01:58:05:206: Send command to on phase; Start phase: 181
+24/07 01:58:05:710: Send command to off phase; Stop phase: 181
+24/07 01:58:05:816 Phase result message: goodread:92063;
+24/07 01:58:10:743: Send command to on phase; Start phase: 182
+24/07 01:58:11:245: Send command to off phase; Stop phase: 182
+24/07 01:58:11:351 Phase result message: goodread:92063;
+24/07 01:58:16:273: Send command to on phase; Start phase: 183
+24/07 01:58:16:773: Send command to off phase; Stop phase: 183
+24/07 01:58:16:874 Phase result message: goodread:92063;
+24/07 01:58:21:795: Send command to on phase; Start phase: 184
+24/07 01:58:22:296: Send command to off phase; Stop phase: 184
+24/07 01:58:22:398 Phase result message: goodread:92063;
+24/07 01:58:27:319: Send command to on phase; Start phase: 185
+24/07 01:58:27:820: Send command to off phase; Stop phase: 185
+24/07 01:58:27:921 Phase result message: goodread:92063;
+24/07 01:58:32:842: Send command to on phase; Start phase: 186
+24/07 01:58:33:343: Send command to off phase; Stop phase: 186
+24/07 01:58:33:443 Phase result message: goodread:92063;
+24/07 01:58:38:366: Send command to on phase; Start phase: 187
+24/07 01:58:38:867: Send command to off phase; Stop phase: 187
+24/07 01:58:38:970 Phase result message: goodread:92063;
+24/07 01:58:43:891: Send command to on phase; Start phase: 188
+24/07 01:58:44:391: Send command to off phase; Stop phase: 188
+24/07 01:58:44:502 Phase result message: goodread:92063;
+24/07 01:58:49:423: Send command to on phase; Start phase: 189
+24/07 01:58:49:924: Send command to off phase; Stop phase: 189
+24/07 01:58:50:025 Phase result message: goodread:92063;
+24/07 01:58:54:949: Send command to on phase; Start phase: 190
+24/07 01:58:55:451: Send command to off phase; Stop phase: 190
+24/07 01:58:55:554 Phase result message: goodread:92063;
+24/07 01:59:00:475: Send command to on phase; Start phase: 191
+24/07 01:59:00:975: Send command to off phase; Stop phase: 191
+24/07 01:59:01:076 Phase result message: goodread:92063;
+24/07 01:59:05:997: Send command to on phase; Start phase: 192
+24/07 01:59:06:497: Send command to off phase; Stop phase: 192
+24/07 01:59:06:598 Phase result message: goodread:92063;
+24/07 01:59:11:521: Send command to on phase; Start phase: 193
+24/07 01:59:12:022: Send command to off phase; Stop phase: 193
+24/07 01:59:12:123 Phase result message: goodread:92063;
+24/07 01:59:17:044: Send command to on phase; Start phase: 194
+24/07 01:59:17:545: Send command to off phase; Stop phase: 194
+24/07 01:59:17:646 Phase result message: goodread:92063;
+24/07 01:59:22:567: Send command to on phase; Start phase: 195
+24/07 01:59:23:067: Send command to off phase; Stop phase: 195
+24/07 01:59:23:168 Phase result message: goodread:92063;
+24/07 01:59:28:089: Send command to on phase; Start phase: 196
+24/07 01:59:28:590: Send command to off phase; Stop phase: 196
+24/07 01:59:28:691 Phase result message: goodread:92063;
+24/07 01:59:33:612: Send command to on phase; Start phase: 197
+24/07 01:59:34:112: Send command to off phase; Stop phase: 197
+24/07 01:59:34:223 Phase result message: goodread:92063;
+24/07 01:59:39:144: Send command to on phase; Start phase: 198
+24/07 01:59:39:645: Send command to off phase; Stop phase: 198
+24/07 01:59:39:745 Phase result message: goodread:92063;
+24/07 01:59:44:667: Send command to on phase; Start phase: 199
+24/07 01:59:45:168: Send command to off phase; Stop phase: 199
+24/07 01:59:45:269 Phase result message: goodread:92063;
+24/07 01:59:50:190: Send command to on phase; Start phase: 200
+24/07 01:59:50:691: Send command to off phase; Stop phase: 200
+24/07 01:59:50:791 Phase result message: goodread:92063;
+24/07 01:59:55:712: Send command to on phase; Start phase: 201
+24/07 01:59:56:214: Send command to off phase; Stop phase: 201
+24/07 01:59:56:314 Phase result message: goodread:92063;
+24/07 02:00:01:236: Send command to on phase; Start phase: 202
+24/07 02:00:01:738: Send command to off phase; Stop phase: 202
+24/07 02:00:01:838 Phase result message: goodread:92063;
+24/07 02:00:06:760: Send command to on phase; Start phase: 203
+24/07 02:00:07:261: Send command to off phase; Stop phase: 203
+24/07 02:00:07:361 Phase result message: goodread:92063;
+24/07 02:00:12:282: Send command to on phase; Start phase: 204
+24/07 02:00:12:782: Send command to off phase; Stop phase: 204
+24/07 02:00:12:883 Phase result message: goodread:92063;
+24/07 02:00:17:804: Send command to on phase; Start phase: 205
+24/07 02:00:18:305: Send command to off phase; Stop phase: 205
+24/07 02:00:18:405 Phase result message: goodread:92063;
+24/07 02:00:23:326: Send command to on phase; Start phase: 206
+24/07 02:00:23:827: Send command to off phase; Stop phase: 206
+24/07 02:00:23:928 Phase result message: goodread:92063;
+24/07 02:00:28:848: Send command to on phase; Start phase: 207
+24/07 02:00:29:349: Send command to off phase; Stop phase: 207
+24/07 02:00:29:450 Phase result message: goodread:92063;
+24/07 02:00:34:371: Send command to on phase; Start phase: 208
+24/07 02:00:34:871: Send command to off phase; Stop phase: 208
+24/07 02:00:34:972 Phase result message: goodread:92063;
+24/07 02:00:39:893: Send command to on phase; Start phase: 209
+24/07 02:00:40:398: Send command to off phase; Stop phase: 209
+24/07 02:00:40:498 Phase result message: goodread:92063;
+24/07 02:00:45:420: Send command to on phase; Start phase: 210
+24/07 02:00:45:921: Send command to off phase; Stop phase: 210
+24/07 02:00:46:022 Phase result message: goodread:92063;
+24/07 02:00:50:943: Send command to on phase; Start phase: 211
+24/07 02:00:51:444: Send command to off phase; Stop phase: 211
+24/07 02:00:51:545 Phase result message: goodread:92063;
+24/07 02:00:56:466: Send command to on phase; Start phase: 212
+24/07 02:00:56:966: Send command to off phase; Stop phase: 212
+24/07 02:00:57:067 Phase result message: goodread:92063;
+24/07 02:01:01:987: Send command to on phase; Start phase: 213
+24/07 02:01:02:488: Send command to off phase; Stop phase: 213
+24/07 02:01:02:589 Phase result message: goodread:92063;
+24/07 02:01:07:510: Send command to on phase; Start phase: 214
+24/07 02:01:08:010: Send command to off phase; Stop phase: 214
+24/07 02:01:08:111 Phase result message: goodread:92063;
+24/07 02:01:13:032: Send command to on phase; Start phase: 215
+24/07 02:01:13:532: Send command to off phase; Stop phase: 215
+24/07 02:01:13:633 Phase result message: goodread:92063;
+24/07 02:01:18:554: Send command to on phase; Start phase: 216
+24/07 02:01:19:055: Send command to off phase; Stop phase: 216
+24/07 02:01:19:155 Phase result message: goodread:92063;
+24/07 02:01:24:077: Send command to on phase; Start phase: 217
+24/07 02:01:24:577: Send command to off phase; Stop phase: 217
+24/07 02:01:24:679 Phase result message: goodread:92063;
+24/07 02:01:29:600: Send command to on phase; Start phase: 218
+24/07 02:01:30:101: Send command to off phase; Stop phase: 218
+24/07 02:01:30:202 Phase result message: goodread:92063;
+24/07 02:01:35:123: Send command to on phase; Start phase: 219
+24/07 02:01:35:624: Send command to off phase; Stop phase: 219
+24/07 02:01:35:724 Phase result message: goodread:92063;
+24/07 02:01:40:645: Send command to on phase; Start phase: 220
+24/07 02:01:41:146: Send command to off phase; Stop phase: 220
+24/07 02:01:41:247 Phase result message: goodread:92063;
+24/07 02:01:46:168: Send command to on phase; Start phase: 221
+24/07 02:01:46:668: Send command to off phase; Stop phase: 221
+24/07 02:01:46:769 Phase result message: goodread:92063;
+24/07 02:01:51:690: Send command to on phase; Start phase: 222
+24/07 02:01:52:191: Send command to off phase; Stop phase: 222
+24/07 02:01:52:292 Phase result message: goodread:92063;
+24/07 02:01:57:216: Send command to on phase; Start phase: 223
+24/07 02:01:57:716: Send command to off phase; Stop phase: 223
+24/07 02:01:57:817 Phase result message: goodread:92063;
+24/07 02:02:02:738: Send command to on phase; Start phase: 224
+24/07 02:02:03:238: Send command to off phase; Stop phase: 224
+24/07 02:02:03:339 Phase result message: goodread:92063;
+24/07 02:02:08:260: Send command to on phase; Start phase: 225
+24/07 02:02:08:761: Send command to off phase; Stop phase: 225
+24/07 02:02:08:871 Phase result message: goodread:92063;
+24/07 02:02:13:792: Send command to on phase; Start phase: 226
+24/07 02:02:14:293: Send command to off phase; Stop phase: 226
+24/07 02:02:14:394 Phase result message: goodread:92063;
+24/07 02:02:19:315: Send command to on phase; Start phase: 227
+24/07 02:02:19:815: Send command to off phase; Stop phase: 227
+24/07 02:02:19:916 Phase result message: goodread:92063;
+24/07 02:02:24:839: Send command to on phase; Start phase: 228
+24/07 02:02:25:340: Send command to off phase; Stop phase: 228
+24/07 02:02:25:441 Phase result message: goodread:92063;
+24/07 02:02:30:363: Send command to on phase; Start phase: 229
+24/07 02:02:30:867: Send command to off phase; Stop phase: 229
+24/07 02:02:30:968 Phase result message: goodread:92063;
+24/07 02:02:35:888: Send command to on phase; Start phase: 230
+24/07 02:02:36:392: Send command to off phase; Stop phase: 230
+24/07 02:02:36:493 Phase result message: goodread:92063;
+24/07 02:02:41:418: Send command to on phase; Start phase: 231
+24/07 02:02:41:922: Send command to off phase; Stop phase: 231
+24/07 02:02:42:023 Phase result message: goodread:92063;
+24/07 02:02:46:946: Send command to on phase; Start phase: 232
+24/07 02:02:47:449: Send command to off phase; Stop phase: 232
+24/07 02:02:47:549 Phase result message: goodread:92063;
+24/07 02:02:52:476: Send command to on phase; Start phase: 233
+24/07 02:02:52:985: Send command to off phase; Stop phase: 233
+24/07 02:02:53:085 Phase result message: goodread:92063;
+24/07 02:02:58:006: Send command to on phase; Start phase: 234
+24/07 02:02:58:507: Send command to off phase; Stop phase: 234
+24/07 02:02:58:608 Phase result message: goodread:92063;
+24/07 02:03:03:531: Send command to on phase; Start phase: 235
+24/07 02:03:04:033: Send command to off phase; Stop phase: 235
+24/07 02:03:04:133 Phase result message: goodread:92063;
+24/07 02:03:09:063: Send command to on phase; Start phase: 236
+24/07 02:03:09:566: Send command to off phase; Stop phase: 236
+24/07 02:03:09:666 Phase result message: goodread:92063;
+24/07 02:03:14:592: Send command to on phase; Start phase: 237
+24/07 02:03:15:102: Send command to off phase; Stop phase: 237
+24/07 02:03:15:212 Phase result message: goodread:92063;
+24/07 02:03:20:134: Send command to on phase; Start phase: 238
+24/07 02:03:20:638: Send command to off phase; Stop phase: 238
+24/07 02:03:20:746 Phase result message: goodread:92063;
+24/07 02:03:25:672: Send command to on phase; Start phase: 239
+24/07 02:03:26:181: Send command to off phase; Stop phase: 239
+24/07 02:03:26:291 Phase result message: goodread:92063;
+24/07 02:03:31:215: Send command to on phase; Start phase: 240
+24/07 02:03:31:717: Send command to off phase; Stop phase: 240
+24/07 02:03:31:817 Phase result message: goodread:92063;
+24/07 02:03:36:740: Send command to on phase; Start phase: 241
+24/07 02:03:37:241: Send command to off phase; Stop phase: 241
+24/07 02:03:37:362 Phase result message: goodread:92063;
+24/07 02:03:42:286: Send command to on phase; Start phase: 242
+24/07 02:03:42:787: Send command to off phase; Stop phase: 242
+24/07 02:03:42:887 Phase result message: goodread:92063;
+24/07 02:03:47:811: Send command to on phase; Start phase: 243
+24/07 02:03:48:313: Send command to off phase; Stop phase: 243
+24/07 02:03:48:423 Phase result message: goodread:92063;
+24/07 02:03:53:344: Send command to on phase; Start phase: 244
+24/07 02:03:53:845: Send command to off phase; Stop phase: 244
+24/07 02:03:53:946 Phase result message: goodread:92063;
+24/07 02:03:58:866: Send command to on phase; Start phase: 245
+24/07 02:03:59:368: Send command to off phase; Stop phase: 245
+24/07 02:03:59:478 Phase result message: goodread:92063;
+24/07 02:04:04:399: Send command to on phase; Start phase: 246
+24/07 02:04:04:901: Send command to off phase; Stop phase: 246
+24/07 02:04:05:002 Phase result message: goodread:92063;
+24/07 02:04:09:926: Send command to on phase; Start phase: 247
+24/07 02:04:10:428: Send command to off phase; Stop phase: 247
+24/07 02:04:10:529 Phase result message: goodread:92063;
+24/07 02:04:15:454: Send command to on phase; Start phase: 248
+24/07 02:04:15:956: Send command to off phase; Stop phase: 248
+24/07 02:04:16:066 Phase result message: goodread:92063;
+24/07 02:04:20:989: Send command to on phase; Start phase: 249
+24/07 02:04:21:491: Send command to off phase; Stop phase: 249
+24/07 02:04:21:601 Phase result message: goodread:92063;
+24/07 02:04:26:524: Send command to on phase; Start phase: 250
+24/07 02:04:27:025: Send command to off phase; Stop phase: 250
+24/07 02:04:27:137 Phase result message: goodread:92063;
+24/07 02:04:32:067: Send command to on phase; Start phase: 251
+24/07 02:04:32:568: Send command to off phase; Stop phase: 251
+24/07 02:04:32:669 Phase result message: goodread:92063;
+24/07 02:04:37:591: Send command to on phase; Start phase: 252
+24/07 02:04:38:094: Send command to off phase; Stop phase: 252
+24/07 02:04:38:203 Phase result message: goodread:92063;
+24/07 02:04:43:125: Send command to on phase; Start phase: 253
+24/07 02:04:43:626: Send command to off phase; Stop phase: 253
+24/07 02:04:43:726 Phase result message: goodread:92063;
+24/07 02:04:48:651: Send command to on phase; Start phase: 254
+24/07 02:04:49:153: Send command to off phase; Stop phase: 254
+24/07 02:04:49:253 Phase result message: goodread:92063;
+24/07 02:04:54:175: Send command to on phase; Start phase: 255
+24/07 02:04:54:680: Send command to off phase; Stop phase: 255
+24/07 02:04:54:781 Phase result message: goodread:92063;
+24/07 02:04:59:701: Send command to on phase; Start phase: 256
+24/07 02:05:00:203: Send command to off phase; Stop phase: 256
+24/07 02:05:00:315 Phase result message: goodread:92063;
+24/07 02:05:05:238: Send command to on phase; Start phase: 257
+24/07 02:05:05:748: Send command to off phase; Stop phase: 257
+24/07 02:05:05:856 Phase result message: goodread:92063;
+24/07 02:05:10:784: Send command to on phase; Start phase: 258
+24/07 02:05:11:285: Send command to off phase; Stop phase: 258
+24/07 02:05:11:385 Phase result message: goodread:92063;
+24/07 02:05:16:311: Send command to on phase; Start phase: 259
+24/07 02:05:16:821: Send command to off phase; Stop phase: 259
+24/07 02:05:16:941 Phase result message: goodread:92063;
+24/07 02:05:21:866: Send command to on phase; Start phase: 260
+24/07 02:05:22:377: Send command to off phase; Stop phase: 260
+24/07 02:05:22:486 Phase result message: goodread:92063;
+24/07 02:05:27:413: Send command to on phase; Start phase: 261
+24/07 02:05:27:923: Send command to off phase; Stop phase: 261
+24/07 02:05:28:023 Phase result message: goodread:92063;
+24/07 02:05:32:952: Send command to on phase; Start phase: 262
+24/07 02:05:33:454: Send command to off phase; Stop phase: 262
+24/07 02:05:33:554 Phase result message: goodread:92063;
+24/07 02:05:38:480: Send command to on phase; Start phase: 263
+24/07 02:05:38:981: Send command to off phase; Stop phase: 263
+24/07 02:05:39:081 Phase result message: goodread:92063;
+24/07 02:05:44:007: Send command to on phase; Start phase: 264
+24/07 02:05:44:508: Send command to off phase; Stop phase: 264
+24/07 02:05:44:608 Phase result message: goodread:92063;
+24/07 02:05:49:535: Send command to on phase; Start phase: 265
+24/07 02:05:50:046: Send command to off phase; Stop phase: 265
+24/07 02:05:50:155 Phase result message: goodread:92063;
+24/07 02:05:55:077: Send command to on phase; Start phase: 266
+24/07 02:05:55:579: Send command to off phase; Stop phase: 266
+24/07 02:05:55:679 Phase result message: goodread:92063;
+24/07 02:06:00:601: Send command to on phase; Start phase: 267
+24/07 02:06:01:102: Send command to off phase; Stop phase: 267
+24/07 02:06:01:214 Phase result message: goodread:92063;
+24/07 02:06:06:145: Send command to on phase; Start phase: 268
+24/07 02:06:06:646: Send command to off phase; Stop phase: 268
+24/07 02:06:06:747 Phase result message: goodread:92063;
+24/07 02:06:11:670: Send command to on phase; Start phase: 269
+24/07 02:06:12:172: Send command to off phase; Stop phase: 269
+24/07 02:06:12:272 Phase result message: goodread:92063;
+24/07 02:06:17:198: Send command to on phase; Start phase: 270
+24/07 02:06:17:708: Send command to off phase; Stop phase: 270
+24/07 02:06:17:808 Phase result message: goodread:92063;
+24/07 02:06:22:732: Send command to on phase; Start phase: 271
+24/07 02:06:23:244: Send command to off phase; Stop phase: 271
+24/07 02:06:23:354 Phase result message: goodread:92063;
+24/07 02:06:28:277: Send command to on phase; Start phase: 272
+24/07 02:06:28:778: Send command to off phase; Stop phase: 272
+24/07 02:06:28:879 Phase result message: goodread:92063;
+24/07 02:06:33:802: Send command to on phase; Start phase: 273
+24/07 02:06:34:304: Send command to off phase; Stop phase: 273
+24/07 02:06:34:416 Phase result message: goodread:92063;
+24/07 02:06:39:339: Send command to on phase; Start phase: 274
+24/07 02:06:39:840: Send command to off phase; Stop phase: 274
+24/07 02:06:39:952 Phase result message: goodread:92063;
+24/07 02:06:44:882: Send command to on phase; Start phase: 275
+24/07 02:06:45:393: Send command to off phase; Stop phase: 275
+24/07 02:06:45:504 Phase result message: goodread:92063;
+24/07 02:06:50:426: Send command to on phase; Start phase: 276
+24/07 02:06:50:927: Send command to off phase; Stop phase: 276
+24/07 02:06:51:028 Phase result message: goodread:92063;
+24/07 02:06:55:953: Send command to on phase; Start phase: 277
+24/07 02:06:56:454: Send command to off phase; Stop phase: 277
+24/07 02:06:56:564 Phase result message: goodread:92063;
+24/07 02:07:01:486: Send command to on phase; Start phase: 278
+24/07 02:07:01:988: Send command to off phase; Stop phase: 278
+24/07 02:07:02:088 Phase result message: goodread:92063;
+24/07 02:07:07:013: Send command to on phase; Start phase: 279
+24/07 02:07:07:514: Send command to off phase; Stop phase: 279
+24/07 02:07:07:614 Phase result message: goodread:92063;
+24/07 02:07:12:539: Send command to on phase; Start phase: 280
+24/07 02:07:13:040: Send command to off phase; Stop phase: 280
+24/07 02:07:13:151 Phase result message: goodread:92063;
+24/07 02:07:18:078: Send command to on phase; Start phase: 281
+24/07 02:07:18:587: Send command to off phase; Stop phase: 281
+24/07 02:07:18:699 Phase result message: goodread:92063;
+24/07 02:07:23:623: Send command to on phase; Start phase: 282
+24/07 02:07:24:124: Send command to off phase; Stop phase: 282
+24/07 02:07:24:224 Phase result message: goodread:92063;
+24/07 02:07:29:147: Send command to on phase; Start phase: 283
+24/07 02:07:29:649: Send command to off phase; Stop phase: 283
+24/07 02:07:29:749 Phase result message: goodread:92063;
+24/07 02:07:34:674: Send command to on phase; Start phase: 284
+24/07 02:07:35:176: Send command to off phase; Stop phase: 284
+24/07 02:07:35:276 Phase result message: goodread:92063;
+24/07 02:07:40:206: Send command to on phase; Start phase: 285
+24/07 02:07:40:707: Send command to off phase; Stop phase: 285
+24/07 02:07:40:818 Phase result message: goodread:92063;
+24/07 02:07:45:741: Send command to on phase; Start phase: 286
+24/07 02:07:46:242: Send command to off phase; Stop phase: 286
+24/07 02:07:46:342 Phase result message: goodread:92063;
+24/07 02:07:51:263: Send command to on phase; Start phase: 287
+24/07 02:07:51:764: Send command to off phase; Stop phase: 287
+24/07 02:07:51:865 Phase result message: goodread:92063;
+24/07 02:07:56:787: Send command to on phase; Start phase: 288
+24/07 02:07:57:288: Send command to off phase; Stop phase: 288
+24/07 02:07:57:388 Phase result message: goodread:92063;
+24/07 02:08:02:310: Send command to on phase; Start phase: 289
+24/07 02:08:02:812: Send command to off phase; Stop phase: 289
+24/07 02:08:02:922 Phase result message: goodread:92063;
+24/07 02:08:07:846: Send command to on phase; Start phase: 290
+24/07 02:08:08:355: Send command to off phase; Stop phase: 290
+24/07 02:08:08:456 Phase result message: goodread:92063;
+24/07 02:08:13:378: Send command to on phase; Start phase: 291
+24/07 02:08:13:880: Send command to off phase; Stop phase: 291
+24/07 02:08:13:980 Phase result message: goodread:92063;
+24/07 02:08:18:901: Send command to on phase; Start phase: 292
+24/07 02:08:19:402: Send command to off phase; Stop phase: 292
+24/07 02:08:19:502 Phase result message: goodread:92063;
+24/07 02:08:24:424: Send command to on phase; Start phase: 293
+24/07 02:08:24:925: Send command to off phase; Stop phase: 293
+24/07 02:08:25:026 Phase result message: goodread:92063;
+24/07 02:08:29:947: Send command to on phase; Start phase: 294
+24/07 02:08:30:448: Send command to off phase; Stop phase: 294
+24/07 02:08:30:548 Phase result message: goodread:92063;
+24/07 02:08:35:470: Send command to on phase; Start phase: 295
+24/07 02:08:35:971: Send command to off phase; Stop phase: 295
+24/07 02:08:36:071 Phase result message: goodread:92063;
+24/07 02:08:40:994: Send command to on phase; Start phase: 296
+24/07 02:08:41:495: Send command to off phase; Stop phase: 296
+24/07 02:08:41:606 Phase result message: goodread:92063;
+24/07 02:08:46:529: Send command to on phase; Start phase: 297
+24/07 02:08:47:030: Send command to off phase; Stop phase: 297
+24/07 02:08:47:132 Phase result message: goodread:92063;
+24/07 02:08:52:061: Send command to on phase; Start phase: 298
+24/07 02:08:52:562: Send command to off phase; Stop phase: 298
+24/07 02:08:52:672 Phase result message: goodread:92063;
+24/07 02:08:57:601: Send command to on phase; Start phase: 299
+24/07 02:08:58:102: Send command to off phase; Stop phase: 299
+24/07 02:08:58:202 Phase result message: goodread:92063;
+24/07 02:09:03:127: Send command to on phase; Start phase: 300
+24/07 02:09:03:628: Send command to off phase; Stop phase: 300
+24/07 02:09:03:739 Phase result message: goodread:92063;
+24/07 02:09:08:665: Send command to on phase; Start phase: 301
+24/07 02:09:09:174: Send command to off phase; Stop phase: 301
+24/07 02:09:09:284 Phase result message: goodread:92063;
+24/07 02:09:14:209: Send command to on phase; Start phase: 302
+24/07 02:09:14:710: Send command to off phase; Stop phase: 302
+24/07 02:09:14:810 Phase result message: goodread:92063;
+24/07 02:09:19:732: Send command to on phase; Start phase: 303
+24/07 02:09:20:234: Send command to off phase; Stop phase: 303
+24/07 02:09:20:334 Phase result message: goodread:92063;
+24/07 02:09:25:256: Send command to on phase; Start phase: 304
+24/07 02:09:25:757: Send command to off phase; Stop phase: 304
+24/07 02:09:25:859 Phase result message: goodread:92063;
+24/07 02:09:30:790: Send command to on phase; Start phase: 305
+24/07 02:09:31:291: Send command to off phase; Stop phase: 305
+24/07 02:09:31:392 Phase result message: goodread:92063;
+24/07 02:09:36:317: Send command to on phase; Start phase: 306
+24/07 02:09:36:827: Send command to off phase; Stop phase: 306
+24/07 02:09:36:927 Phase result message: goodread:92063;
+24/07 02:09:41:852: Send command to on phase; Start phase: 307
+24/07 02:09:42:353: Send command to off phase; Stop phase: 307
+24/07 02:09:42:463 Phase result message: goodread:92063;
+24/07 02:09:47:383: Send command to on phase; Start phase: 308
+24/07 02:09:47:887: Send command to off phase; Stop phase: 308
+24/07 02:09:47:995 Phase result message: goodread:92063;
+24/07 02:09:52:918: Send command to on phase; Start phase: 309
+24/07 02:09:53:419: Send command to off phase; Stop phase: 309
+24/07 02:09:53:530 Phase result message: goodread:92063;
+24/07 02:09:58:451: Send command to on phase; Start phase: 310
+24/07 02:09:58:952: Send command to off phase; Stop phase: 310
+24/07 02:09:59:053 Phase result message: goodread:92063;
+24/07 02:10:03:976: Send command to on phase; Start phase: 311
+24/07 02:10:04:477: Send command to off phase; Stop phase: 311
+24/07 02:10:04:577 Phase result message: goodread:92063;
+24/07 02:10:09:503: Send command to on phase; Start phase: 312
+24/07 02:10:10:012: Send command to off phase; Stop phase: 312
+24/07 02:10:10:122 Phase result message: goodread:92063;
+24/07 02:10:15:046: Send command to on phase; Start phase: 313
+24/07 02:10:15:547: Send command to off phase; Stop phase: 313
+24/07 02:10:15:650 Phase result message: goodread:92063;
+24/07 02:10:20:580: Send command to on phase; Start phase: 314
+24/07 02:10:21:091: Send command to off phase; Stop phase: 314
+24/07 02:10:21:212 Phase result message: goodread:92063;
+24/07 02:10:26:134: Send command to on phase; Start phase: 315
+24/07 02:10:26:636: Send command to off phase; Stop phase: 315
+24/07 02:10:26:736 Phase result message: goodread:92063;
+24/07 02:10:31:661: Send command to on phase; Start phase: 316
+24/07 02:10:32:162: Send command to off phase; Stop phase: 316
+24/07 02:10:32:264 Phase result message: goodread:92063;
+24/07 02:10:37:187: Send command to on phase; Start phase: 317
+24/07 02:10:37:689: Send command to off phase; Stop phase: 317
+24/07 02:10:37:789 Phase result message: goodread:92063;
+24/07 02:10:42:714: Send command to on phase; Start phase: 318
+24/07 02:10:43:217: Send command to off phase; Stop phase: 318
+24/07 02:10:43:325 Phase result message: goodread:92063;
+24/07 02:10:48:248: Send command to on phase; Start phase: 319
+24/07 02:10:48:750: Send command to off phase; Stop phase: 319
+24/07 02:10:48:850 Phase result message: goodread:92063;
+24/07 02:10:53:774: Send command to on phase; Start phase: 320
+24/07 02:10:54:285: Send command to off phase; Stop phase: 320
+24/07 02:10:54:386 Phase result message: goodread:92063;
+24/07 02:10:59:308: Send command to on phase; Start phase: 321
+24/07 02:10:59:809: Send command to off phase; Stop phase: 321
+24/07 02:10:59:910 Phase result message: goodread:92063;
+24/07 02:11:04:832: Send command to on phase; Start phase: 322
+24/07 02:11:05:333: Send command to off phase; Stop phase: 322
+24/07 02:11:05:434 Phase result message: goodread:92063;
+24/07 02:11:10:355: Send command to on phase; Start phase: 323
+24/07 02:11:10:858: Send command to off phase; Stop phase: 323
+24/07 02:11:10:967 Phase result message: goodread:92063;
+24/07 02:11:15:891: Send command to on phase; Start phase: 324
+24/07 02:11:16:400: Send command to off phase; Stop phase: 324
+24/07 02:11:16:503 Phase result message: goodread:92063;
+24/07 02:11:21:425: Send command to on phase; Start phase: 325
+24/07 02:11:21:926: Send command to off phase; Stop phase: 325
+24/07 02:11:22:027 Phase result message: goodread:92063;
+24/07 02:11:26:949: Send command to on phase; Start phase: 326
+24/07 02:11:27:450: Send command to off phase; Stop phase: 326
+24/07 02:11:27:551 Phase result message: goodread:92063;
+24/07 02:11:32:471: Send command to on phase; Start phase: 327
+24/07 02:11:32:981: Send command to off phase; Stop phase: 327
+24/07 02:11:33:081 Phase result message: goodread:92063;
+24/07 02:11:38:006: Send command to on phase; Start phase: 328
+24/07 02:11:38:515: Send command to off phase; Stop phase: 328
+24/07 02:11:38:615 Phase result message: goodread:92063;
+24/07 02:11:43:539: Send command to on phase; Start phase: 329
+24/07 02:11:44:040: Send command to off phase; Stop phase: 329
+24/07 02:11:44:140 Phase result message: goodread:92063;
+24/07 02:11:49:063: Send command to on phase; Start phase: 330
+24/07 02:11:49:564: Send command to off phase; Stop phase: 330
+24/07 02:11:49:664 Phase result message: goodread:92063;
+24/07 02:11:54:587: Send command to on phase; Start phase: 331
+24/07 02:11:55:089: Send command to off phase; Stop phase: 331
+24/07 02:11:55:189 Phase result message: goodread:92063;
+24/07 02:12:00:110: Send command to on phase; Start phase: 332
+24/07 02:12:00:612: Send command to off phase; Stop phase: 332
+24/07 02:12:00:722 Phase result message: goodread:92063;
+24/07 02:12:05:644: Send command to on phase; Start phase: 333
+24/07 02:12:06:146: Send command to off phase; Stop phase: 333
+24/07 02:12:06:256 Phase result message: goodread:92063;
+24/07 02:12:11:178: Send command to on phase; Start phase: 334
+24/07 02:12:11:679: Send command to off phase; Stop phase: 334
+24/07 02:12:11:780 Phase result message: goodread:92063;
+24/07 02:12:16:702: Send command to on phase; Start phase: 335
+24/07 02:12:17:203: Send command to off phase; Stop phase: 335
+24/07 02:12:17:303 Phase result message: goodread:92063;
+24/07 02:12:22:228: Send command to on phase; Start phase: 336
+24/07 02:12:22:730: Send command to off phase; Stop phase: 336
+24/07 02:12:22:830 Phase result message: goodread:92063;
+24/07 02:12:27:755: Send command to on phase; Start phase: 337
+24/07 02:12:28:256: Send command to off phase; Stop phase: 337
+24/07 02:12:28:356 Phase result message: goodread:92063;
+24/07 02:12:33:279: Send command to on phase; Start phase: 338
+24/07 02:12:33:780: Send command to off phase; Stop phase: 338
+24/07 02:12:33:880 Phase result message: goodread:92063;
+24/07 02:12:38:804: Send command to on phase; Start phase: 339
+24/07 02:12:39:308: Send command to off phase; Stop phase: 339
+24/07 02:12:39:416 Phase result message: goodread:92063;
+24/07 02:12:44:339: Send command to on phase; Start phase: 340
+24/07 02:12:44:840: Send command to off phase; Stop phase: 340
+24/07 02:12:44:950 Phase result message: goodread:92063;
+24/07 02:12:49:873: Send command to on phase; Start phase: 341
+24/07 02:12:50:375: Send command to off phase; Stop phase: 341
+24/07 02:12:50:497 Phase result message: goodread:92063;
+24/07 02:12:55:428: Send command to on phase; Start phase: 342
+24/07 02:12:55:930: Send command to off phase; Stop phase: 342
+24/07 02:12:56:030 Phase result message: goodread:92063;
+24/07 02:13:00:954: Send command to on phase; Start phase: 343
+24/07 02:13:01:457: Send command to off phase; Stop phase: 343
+24/07 02:13:01:566 Phase result message: goodread:92063;
+24/07 02:13:06:489: Send command to on phase; Start phase: 344
+24/07 02:13:06:990: Send command to off phase; Stop phase: 344
+24/07 02:13:07:091 Phase result message: goodread:92063;
+24/07 02:13:12:013: Send command to on phase; Start phase: 345
+24/07 02:13:12:514: Send command to off phase; Stop phase: 345
+24/07 02:13:12:635 Phase result message: goodread:92063;
+24/07 02:13:17:566: Send command to on phase; Start phase: 346
+24/07 02:13:18:067: Send command to off phase; Stop phase: 346
+24/07 02:13:18:167 Phase result message: goodread:92063;
+24/07 02:13:23:090: Send command to on phase; Start phase: 347
+24/07 02:13:23:591: Send command to off phase; Stop phase: 347
+24/07 02:13:23:691 Phase result message: goodread:92063;
+24/07 02:13:28:614: Send command to on phase; Start phase: 348
+24/07 02:13:29:115: Send command to off phase; Stop phase: 348
+24/07 02:13:29:225 Phase result message: goodread:92063;
+24/07 02:13:34:149: Send command to on phase; Start phase: 349
+24/07 02:13:34:650: Send command to off phase; Stop phase: 349
+24/07 02:13:34:751 Phase result message: goodread:92063;
+24/07 02:13:39:674: Send command to on phase; Start phase: 350
+24/07 02:13:40:178: Send command to off phase; Stop phase: 350
+24/07 02:13:40:288 Phase result message: goodread:92063;
+24/07 02:13:45:210: Send command to on phase; Start phase: 351
+24/07 02:13:45:712: Send command to off phase; Stop phase: 351
+24/07 02:13:45:812 Phase result message: goodread:92063;
+24/07 02:13:50:735: Send command to on phase; Start phase: 352
+24/07 02:13:51:236: Send command to off phase; Stop phase: 352
+24/07 02:13:51:346 Phase result message: goodread:92063;
+24/07 02:13:56:282: Send command to on phase; Start phase: 353
+24/07 02:13:56:791: Send command to off phase; Stop phase: 353
+24/07 02:13:56:893 Phase result message: goodread:92063;
+24/07 02:14:01:824: Send command to on phase; Start phase: 354
+24/07 02:14:02:325: Send command to off phase; Stop phase: 354
+24/07 02:14:02:426 Phase result message: goodread:92063;
+24/07 02:14:07:350: Send command to on phase; Start phase: 355
+24/07 02:14:07:854: Send command to off phase; Stop phase: 355
+24/07 02:14:07:962 Phase result message: goodread:92063;
+24/07 02:14:12:883: Send command to on phase; Start phase: 356
+24/07 02:14:13:384: Send command to off phase; Stop phase: 356
+24/07 02:14:13:494 Phase result message: goodread:92063;
+24/07 02:14:18:419: Send command to on phase; Start phase: 357
+24/07 02:14:18:920: Send command to off phase; Stop phase: 357
+24/07 02:14:19:020 Phase result message: goodread:92063;
+24/07 02:14:23:942: Send command to on phase; Start phase: 358
+24/07 02:14:24:443: Send command to off phase; Stop phase: 358
+24/07 02:14:24:544 Phase result message: goodread:92063;
+24/07 02:14:29:468: Send command to on phase; Start phase: 359
+24/07 02:14:29:969: Send command to off phase; Stop phase: 359
+24/07 02:14:30:069 Phase result message: goodread:92063;
+24/07 02:14:34:990: Send command to on phase; Start phase: 360
+24/07 02:14:35:491: Send command to off phase; Stop phase: 360
+24/07 02:14:35:602 Phase result message: goodread:92063;
+24/07 02:14:40:524: Send command to on phase; Start phase: 361
+24/07 02:14:41:028: Send command to off phase; Stop phase: 361
+24/07 02:14:41:148 Phase result message: goodread:92063;
+24/07 02:14:46:070: Send command to on phase; Start phase: 362
+24/07 02:14:46:571: Send command to off phase; Stop phase: 362
+24/07 02:14:46:681 Phase result message: goodread:92063;
+24/07 02:14:51:603: Send command to on phase; Start phase: 363
+24/07 02:14:52:104: Send command to off phase; Stop phase: 363
+24/07 02:14:52:204 Phase result message: goodread:92063;
+24/07 02:14:57:125: Send command to on phase; Start phase: 364
+24/07 02:14:57:627: Send command to off phase; Stop phase: 364
+24/07 02:14:57:727 Phase result message: goodread:92063;
+24/07 02:15:02:650: Send command to on phase; Start phase: 365
+24/07 02:15:03:152: Send command to off phase; Stop phase: 365
+24/07 02:15:03:264 Phase result message: goodread:92063;
+24/07 02:15:08:195: Send command to on phase; Start phase: 366
+24/07 02:15:08:707: Send command to off phase; Stop phase: 366
+24/07 02:15:08:819 Phase result message: goodread:92063;
+24/07 02:15:13:745: Send command to on phase; Start phase: 367
+24/07 02:15:14:246: Send command to off phase; Stop phase: 367
+24/07 02:15:14:347 Phase result message: goodread:92063;
+24/07 02:15:19:269: Send command to on phase; Start phase: 368
+24/07 02:15:19:770: Send command to off phase; Stop phase: 368
+24/07 02:15:19:870 Phase result message: goodread:92063;
+24/07 02:15:24:793: Send command to on phase; Start phase: 369
+24/07 02:15:25:294: Send command to off phase; Stop phase: 369
+24/07 02:15:25:395 Phase result message: goodread:92063;
+24/07 02:15:30:320: Send command to on phase; Start phase: 370
+24/07 02:15:30:829: Send command to off phase; Stop phase: 370
+24/07 02:15:30:929 Phase result message: goodread:92063;
+24/07 02:15:35:854: Send command to on phase; Start phase: 371
+24/07 02:15:36:355: Send command to off phase; Stop phase: 371
+24/07 02:15:36:465 Phase result message: goodread:92063;
+24/07 02:15:41:387: Send command to on phase; Start phase: 372
+24/07 02:15:41:889: Send command to off phase; Stop phase: 372
+24/07 02:15:41:999 Phase result message: goodread:92063;
+24/07 02:15:46:924: Send command to on phase; Start phase: 373
+24/07 02:15:47:427: Send command to off phase; Stop phase: 373
+24/07 02:15:47:535 Phase result message: goodread:92063;
+24/07 02:15:52:458: Send command to on phase; Start phase: 374
+24/07 02:15:52:959: Send command to off phase; Stop phase: 374
+24/07 02:15:53:060 Phase result message: goodread:92063;
+24/07 02:15:57:982: Send command to on phase; Start phase: 375
+24/07 02:15:58:493: Send command to off phase; Stop phase: 375
+24/07 02:15:58:604 Phase result message: goodread:92063;
+24/07 02:16:03:528: Send command to on phase; Start phase: 376
+24/07 02:16:04:029: Send command to off phase; Stop phase: 376
+24/07 02:16:04:130 Phase result message: goodread:92063;
+24/07 02:16:09:059: Send command to on phase; Start phase: 377
+24/07 02:16:09:560: Send command to off phase; Stop phase: 377
+24/07 02:16:09:662 Phase result message: goodread:92063;
+24/07 02:16:14:586: Send command to on phase; Start phase: 378
+24/07 02:16:15:087: Send command to off phase; Stop phase: 378
+24/07 02:16:15:188 Phase result message: goodread:92063;
+24/07 02:16:20:110: Send command to on phase; Start phase: 379
+24/07 02:16:20:611: Send command to off phase; Stop phase: 379
+24/07 02:16:20:711 Phase result message: goodread:92063;
+24/07 02:16:25:633: Send command to on phase; Start phase: 380
+24/07 02:16:26:134: Send command to off phase; Stop phase: 380
+24/07 02:16:26:244 Phase result message: goodread:92063;
+24/07 02:16:31:164: Send command to on phase; Start phase: 381
+24/07 02:16:31:686: Send command to off phase; Stop phase: 381
+24/07 02:16:31:796 Phase result message: goodread:92063;
+24/07 02:16:36:717: Send command to on phase; Start phase: 382
+24/07 02:16:37:218: Send command to off phase; Stop phase: 382
+24/07 02:16:37:328 Phase result message: goodread:92063;
+24/07 02:16:42:249: Send command to on phase; Start phase: 383
+24/07 02:16:42:751: Send command to off phase; Stop phase: 383
+24/07 02:16:42:861 Phase result message: goodread:92063;
+24/07 02:16:47:784: Send command to on phase; Start phase: 384
+24/07 02:16:48:286: Send command to off phase; Stop phase: 384
+24/07 02:16:48:386 Phase result message: goodread:92063;
+24/07 02:16:53:310: Send command to on phase; Start phase: 385
+24/07 02:16:53:824: Send command to off phase; Stop phase: 385
+24/07 02:16:53:963 Phase result message: goodread:92063;
+24/07 02:16:58:887: Send command to on phase; Start phase: 386
+24/07 02:16:59:388: Send command to off phase; Stop phase: 386
+24/07 02:16:59:490 Phase result message: goodread:92063;
+24/07 02:17:04:414: Send command to on phase; Start phase: 387
+24/07 02:17:04:915: Send command to off phase; Stop phase: 387
+24/07 02:17:05:025 Phase result message: goodread:92063;
+24/07 02:17:09:948: Send command to on phase; Start phase: 388
+24/07 02:17:10:449: Send command to off phase; Stop phase: 388
+24/07 02:17:10:549 Phase result message: goodread:92063;
+24/07 02:17:15:470: Send command to on phase; Start phase: 389
+24/07 02:17:15:972: Send command to off phase; Stop phase: 389
+24/07 02:17:16:072 Phase result message: goodread:92063;
+24/07 02:17:20:995: Send command to on phase; Start phase: 390
+24/07 02:17:21:496: Send command to off phase; Stop phase: 390
+24/07 02:17:21:596 Phase result message: goodread:92063;
+24/07 02:17:26:517: Send command to on phase; Start phase: 391
+24/07 02:17:27:018: Send command to off phase; Stop phase: 391
+24/07 02:17:27:130 Phase result message: goodread:92063;
+24/07 02:17:32:061: Send command to on phase; Start phase: 392
+24/07 02:17:32:563: Send command to off phase; Stop phase: 392
+24/07 02:17:32:665 Phase result message: goodread:92063;
+24/07 02:17:37:597: Send command to on phase; Start phase: 393
+24/07 02:17:38:098: Send command to off phase; Stop phase: 393
+24/07 02:17:38:199 Phase result message: goodread:92063;
+24/07 02:17:43:121: Send command to on phase; Start phase: 394
+24/07 02:17:43:622: Send command to off phase; Stop phase: 394
+24/07 02:17:43:733 Phase result message: goodread:92063;
+24/07 02:17:48:660: Send command to on phase; Start phase: 395
+24/07 02:17:49:170: Send command to off phase; Stop phase: 395
+24/07 02:17:49:280 Phase result message: goodread:92063;
+24/07 02:17:54:204: Send command to on phase; Start phase: 396
+24/07 02:17:54:706: Send command to off phase; Stop phase: 396
+24/07 02:17:54:816 Phase result message: goodread:92063;
+24/07 02:17:59:746: Send command to on phase; Start phase: 397
+24/07 02:18:00:247: Send command to off phase; Stop phase: 397
+24/07 02:18:00:348 Phase result message: goodread:92063;
+24/07 02:18:05:276: Send command to on phase; Start phase: 398
+24/07 02:18:05:784: Send command to off phase; Stop phase: 398
+24/07 02:18:05:884 Phase result message: goodread:92063;
+24/07 02:18:10:805: Send command to on phase; Start phase: 399
+24/07 02:18:11:315: Send command to off phase; Stop phase: 399
+24/07 02:18:11:425 Phase result message: goodread:92063;
+24/07 02:18:16:352: Send command to on phase; Start phase: 400
+24/07 02:18:16:862: Send command to off phase; Stop phase: 400
+24/07 02:18:16:972 Phase result message: goodread:92063;
+24/07 02:18:21:902: Send command to on phase; Start phase: 401
+24/07 02:18:22:412: Send command to off phase; Stop phase: 401
+24/07 02:18:22:522 Phase result message: goodread:92063;
+24/07 02:18:27:452: Send command to on phase; Start phase: 402
+24/07 02:18:27:959: Send command to off phase; Stop phase: 402
+24/07 02:18:28:144 Phase result message: 
+24/07 02:18:33:068: Send command to on phase; Start phase: 403
+24/07 02:18:33:573: Send command to off phase; Stop phase: 403
+24/07 02:18:33:743 Phase result message: 
+24/07 02:18:38:670: Send command to on phase; Start phase: 404
+24/07 02:18:39:180: Send command to off phase; Stop phase: 404
+24/07 02:18:39:361 Phase result message: 
